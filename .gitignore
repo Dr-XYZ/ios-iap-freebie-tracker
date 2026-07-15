@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Test/Debug Scripts
+test_shoebox.js
+inspect_server_data.js
+inspect_software_app.js
+inspect_info.js
+find_text.js
+
+# Temp Data Dumps
+server_data.json
+software_app.json
+shoebox_data.json
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -146,34 +146,61 @@ async function scrapeApp(appId) {
                    'Utility';
 
     // Extract IAP (In-App Purchases) List
-    const iaps = [];
-    const selectors = [
-      '.list-with-numbers__item',
-      '.we-list-with-numbers__item',
-      '.app-store-iap-list-item'
-    ];
-
-    let foundItems = $(selectors.join(', '));
+    let iaps = [];
+    let shelfMapping = null;
     
-    if (foundItems.length === 0) {
-      // Fallback parser: search for layout patterns
-      $('li, div').each((i, el) => {
-        const text = $(el).text();
-        if (text.includes('NT$') || text.includes('免費')) {
-          const parts = text.split('\n').map(t => t.trim()).filter(Boolean);
-          if (parts.length >= 2) {
-            const potentialName = parts[0];
-            const potentialPrice = parts[parts.length - 1];
-            if ((potentialPrice.includes('NT$') || potentialPrice.includes('免費')) && potentialName.length < 50) {
-              iaps.push({ name: potentialName, priceText: potentialPrice });
+    // Try to find the serialized-server-data script tag (new layout)
+    const serverDataTag = $('#serialized-server-data');
+    if (serverDataTag.length > 0) {
+      try {
+        const serverData = JSON.parse(serverDataTag.html());
+        shelfMapping = serverData?.data?.[0]?.data?.shelfMapping;
+      } catch (e) {
+        // Fallback silently
+      }
+    }
+    
+    // Try to find the shoebox-media-api-cache-apps script tag (older/fallback layout)
+    if (!shelfMapping) {
+      const shoeboxTag = $('#shoebox-media-api-cache-apps');
+      if (shoeboxTag.length > 0) {
+        try {
+          const shoebox = JSON.parse(shoeboxTag.html());
+          for (const key of Object.keys(shoebox)) {
+            const payload = JSON.parse(shoebox[key]);
+            const mapping = payload?.data?.[0]?.data?.shelfMapping || payload?.data?.[0]?.attributes?.shelfMapping;
+            if (mapping) {
+              shelfMapping = mapping;
+              break;
             }
           }
+        } catch (e) {
+          // Fallback silently
         }
-      });
-    } else {
+      }
+    }
+
+    if (shelfMapping) {
+      const infoItems = shelfMapping.information?.items || [];
+      const iapItem = infoItems.find(item => item.items?.[0]?.textPairs);
+      if (iapItem && iapItem.items[0].textPairs) {
+        iaps = iapItem.items[0].textPairs.map(pair => ({
+          name: pair[0],
+          priceText: pair[1]
+        }));
+      }
+    }
+
+    // Fallback: If JSON extraction fails, check specific HTML classes (strict fallback)
+    if (iaps.length === 0) {
+      const selectors = [
+        '.list-with-numbers__item',
+        '.we-list-with-numbers__item'
+      ];
+      let foundItems = $(selectors.join(', '));
       foundItems.each((i, el) => {
-        const name = $(el).find('.list-with-numbers__title, .we-list-with-numbers__item__title, [class*="title"]').text().trim();
-        const priceText = $(el).find('.list-with-numbers__price, .we-list-with-numbers__item__price, [class*="price"]').text().trim();
+        const name = $(el).find('.list-with-numbers__title, .we-list-with-numbers__item__title').text().trim();
+        const priceText = $(el).find('.list-with-numbers__price, .we-list-with-numbers__item__price').text().trim();
         if (name && priceText) {
           iaps.push({ name, priceText });
         }
