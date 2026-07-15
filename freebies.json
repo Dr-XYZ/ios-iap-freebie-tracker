@@ -102,7 +102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784137130
+    "last_updated": 1784140994
   },
   {
     "id": "961227503:專業工具",
@@ -522,6 +522,36 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784137130
+    "last_updated": 1784140994
+  },
+  {
+    "id": "892279069:Constellations of Avengers",
+    "app_id": "892279069",
+    "app_name": "Star Walk 2 Pro: 觀星軟件和星空地圖App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/c5/ae/dac5aeaf-9e67-7afd-6d15-f01e3efc16c4/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/star-walk-2-pro-%E8%A7%80%E6%98%9F%E8%BB%9F%E4%BB%B6%E5%92%8C%E6%98%9F%E7%A9%BA%E5%9C%B0%E5%9C%96/id892279069",
+    "iap_name": "Constellations of Avengers",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784140994
+  },
+  {
+    "id": "1270890718:Bonus Sounds",
+    "app_id": "1270890718",
+    "app_name": "AutoPad — Ambient Pad LoopsApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/autopad-ambient-pad-loops/id1270890718",
+    "iap_name": "Bonus Sounds",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784140994
   }
 ]
