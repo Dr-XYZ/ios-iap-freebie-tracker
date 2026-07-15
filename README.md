@@ -33,6 +33,20 @@
 
 ---
 
+## 📊 監控進度狀態 (Monitoring Progress)
+
+<!-- STATS_START -->
+| 狀態類別 (Category) | 軟體數量 (Count) | 爬取頻率與策略 (Crawl Strategy) |
+| :--- | :--- | :--- |
+| 🟢 **追蹤中 (Active Tracking)** | **250** 款 | 證實有內購，高頻輪替檢查 |
+| ⏳ **待追蹤 (Pending Discovery)** | **996** 款 | 剛進榜之新軟體，5 分鐘內首次爬取 |
+| 💤 **排除中 (No IAP Excluded)** | **341** 款 | 證實無內購，每 3 天低頻冷卻複檢 |
+| ❌ **已失效 (Persistent 404)** | **49** 款 | 已從商店下架，每 30 天極低頻清查 |
+| 📦 **總收錄規模 (Total Database)** | **1636** 款 | 當前覆蓋的所有 App Store 行動目錄總量 |
+<!-- STATS_END -->
+
+---
+
 ## 🛠️ 如何運作
 
 ```mermaid

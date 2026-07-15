@@ -541,7 +541,10 @@ async function run() {
     fs.writeFileSync(DATABASE_PATH, JSON.stringify(updatedDatabase, null, 2), 'utf8');
     console.log(`[Database] Saved ${updatedDatabase.length} entries to database.json`);
 
-    // 7. Write currently active freebies to freebies.json
+    // 7. Dynamically update README.md progress table with latest stats
+    updateReadmeStats(updatedDatabase);
+
+    // 8. Write currently active freebies to freebies.json
     const activeFreebies = updatedDatabase.filter(item => item.current_price === 0);
     fs.writeFileSync(FREEBIES_PATH, JSON.stringify(activeFreebies, null, 2), 'utf8');
     console.log(`[Database] Saved ${activeFreebies.length} active freebies to freebies.json`);
@@ -550,6 +553,60 @@ async function run() {
   } catch (error) {
     console.error('[Fatal Error] Crawler execution failed with exception:', error);
     process.exit(1);
+  }
+}
+
+// Dynamically compute tracking stats and rewrite progress table in README.md
+function updateReadmeStats(database) {
+  const README_PATH = path.join(__dirname, 'README.md');
+  if (!fs.existsSync(README_PATH)) return;
+
+  const uniqueApps = Array.from(new Set(database.map(item => item.app_id)));
+  let noIapCount = 0;
+  let hasIapCount = 0;
+  let pendingCount = 0;
+  let failedCount = 0;
+
+  // Group records by app_id to classify each app's state
+  const appRecords = {};
+  database.forEach(item => {
+    if (!appRecords[item.app_id]) appRecords[item.app_id] = [];
+    appRecords[item.app_id].push(item);
+  });
+
+  Object.keys(appRecords).forEach(appId => {
+    const records = appRecords[appId];
+    if (records.some(r => r.iap_name === 'Initialization')) {
+      pendingCount++;
+    } else if (records.some(r => r.iap_name === '無內購項目')) {
+      noIapCount++;
+    } else if (records.some(r => r.iap_name && r.iap_name.startsWith('爬取失敗'))) {
+      failedCount++;
+    } else {
+      hasIapCount++;
+    }
+  });
+
+  const tableMarkdown = `<!-- STATS_START -->
+| 狀態類別 (Category) | 軟體數量 (Count) | 爬取頻率與策略 (Crawl Strategy) |
+| :--- | :--- | :--- |
+| 🟢 **追蹤中 (Active Tracking)** | **${hasIapCount}** 款 | 證實有內購，高頻輪替檢查 |
+| ⏳ **待追蹤 (Pending Discovery)** | **${pendingCount}** 款 | 剛進榜之新軟體，5 分鐘內首次爬取 |
+| 💤 **排除中 (No IAP Excluded)** | **${noIapCount}** 款 | 證實無內購，每 3 天低頻冷卻複檢 |
+| ❌ **已失效 (Persistent 404)** | **${failedCount}** 款 | 已從商店下架，每 30 天極低頻清查 |
+| 📦 **總收錄規模 (Total Database)** | **${uniqueApps.length}** 款 | 當前覆蓋的所有 App Store 行動目錄總量 |
+<!-- STATS_END -->`;
+
+  try {
+    let readmeContent = fs.readFileSync(README_PATH, 'utf8');
+    const regex = /<!-- STATS_START -->[\s\S]*?<!-- STATS_END -->/;
+    if (regex.test(readmeContent)) {
+      readmeContent = readmeContent.replace(regex, tableMarkdown);
+      fs.writeFileSync(README_PATH, readmeContent, 'utf8');
+      console.log(`[Database] Dynamically updated README.md with current crawl statistics.`);
+    }
+  } catch (err) {
+    console.warn('[Crawler] Failed to update README.md statistics:', err.message);
   }
 }
 
