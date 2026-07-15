@@ -3,7 +3,7 @@ const path = require('path');
 const cheerio = require('cheerio');
 
 // Configuration paths
-const WATCHLIST_PATH = path.join(__dirname, 'watchlist.json');
+
 const DATABASE_PATH = path.join(__dirname, 'database.json');
 const FREEBIES_PATH = path.join(__dirname, 'freebies.json');
 
@@ -275,8 +275,7 @@ async function run() {
   try {
     console.log('[Crawler] Starting iOS App Store Multi-Category Crawler...');
     
-    // 1. Load watchlists and existing database
-    const customWatchlist = fs.existsSync(WATCHLIST_PATH) ? JSON.parse(fs.readFileSync(WATCHLIST_PATH, 'utf8')) : [];
+    // 1. Load existing database
     
     let database = [];
     if (fs.existsSync(DATABASE_PATH)) {
@@ -346,7 +345,6 @@ async function run() {
       // Assign Base Weight based on app profile
       let baseWeight = 500; // Default: App with known IAPs (highly valuable to rotate)
 
-      const isWatchlist = customWatchlist.includes(appId);
       const isTopRank = highPriorityIds.includes(appId);
       const isNew = records.some(r => r.iap_name === 'Initialization');
       const isNoIap = records.some(r => r.iap_name === '無內購項目');
@@ -355,20 +353,18 @@ async function run() {
       const isFailedTransient = records.some(r => r.iap_name === '爬取失敗 (暫時性錯誤)');
       const isFailedLegacy = records.some(r => r.iap_name === '爬取失敗' || r.app_name === 'Failed Scrape');
 
-      if (isWatchlist) {
-        baseWeight = 10000; // Priority 1: User watchlists (always check hourly)
-      } else if (isActiveFreebie) {
-        baseWeight = 4000;  // Priority 2: Active deals (must check extremely frequently to verify expiration)
+      if (isActiveFreebie) {
+        baseWeight = 4000;  // Priority 1: Active deals (must check extremely frequently to verify expiration)
       } else if (isTopRank) {
-        baseWeight = 3000;  // Priority 3: Top 5 ranked chart apps
+        baseWeight = 3000;  // Priority 2: Top 5 ranked chart apps
       } else if (isNew) {
-        baseWeight = 1000;  // Priority 4: Newly discovered placeholders
+        baseWeight = 1000;  // Priority 3: Newly discovered placeholders
       } else if (isFailedTransient) {
-        baseWeight = 100;   // Priority 6: Transient errors (retry after minor delay)
+        baseWeight = 100;   // Priority 4: Transient errors (retry after minor delay)
       } else if (isNoIap) {
-        baseWeight = 10;    // Priority 7: Verified Apps with NO IAPs (check once a week)
+        baseWeight = 10;    // Priority 5: Verified Apps with NO IAPs (check once a week)
       } else if (isFailed404 || isFailedLegacy) {
-        baseWeight = 1;     // Priority 8: Dead/Deleted links (check very rarely, once a month)
+        baseWeight = 1;     // Priority 6: Dead links (check very rarely, once a month)
       }
 
       // 3. Continuous Rank Factor Boost
