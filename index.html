@@ -3,47 +3,56 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>iOS App Store IAP 限時免費追蹤</title>
+  <title>iOS IAP 限免特惠 - App Store 內購限時免費追蹤</title>
+  <meta name="theme-color" content="#0b0c10">
+
   <!-- SEO Meta Tags -->
-  <meta name="description" content="即時追蹤 iOS App Store 內購 (In-App Purchase) 限時免費資訊，幫你省下大筆費用！完全自動化更新。">
+  <meta name="description" content="即時追蹤 iOS App Store 內購 (In-App Purchase) 限時免費資訊，幫你省下大筆費用！完全自動化每 5 分鐘更新。">
   <meta name="keywords" content="iOS, App Store, IAP, 限免, 限時免費, 內購限免, 蘋果商店, 降價">
   <meta name="robots" content="index, follow">
-  
-  <!-- Fonts -->
+
+  <!-- Open Graph (Social Sharing) -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="iOS IAP 限免特惠">
+  <meta property="og:description" content="即時追蹤 iOS App Store 內購限時免費資訊，完全自動化每 5 分鐘更新。">
+  <meta property="og:locale" content="zh_TW">
+
+  <!-- Fonts: preconnect first, then load with display=swap -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Noto+Sans+TC:wght@300;400;700&display=swap" rel="stylesheet">
-  
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&family=Noto+Sans+TC:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet"></noscript>
+
   <!-- Stylesheets -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
   <!-- Dynamic Gradient Background Elements -->
-  <div class="bg-glow bg-glow-1"></div>
-  <div class="bg-glow bg-glow-2"></div>
+  <div class="bg-glow bg-glow-1" aria-hidden="true"></div>
+  <div class="bg-glow bg-glow-2" aria-hidden="true"></div>
 
   <div class="container">
     <header class="app-header">
       <div class="header-logo">
-        <span class="logo-icon">🎁</span>
+        <span class="logo-icon" aria-hidden="true">🎁</span>
         <div class="logo-text">
           <h1>iOS IAP 限免特惠</h1>
           <p>即時追蹤 App Store 內購限免資訊</p>
         </div>
       </div>
       <div class="header-stats">
-        <span class="stats-badge" id="freebie-count">0 個限免中</span>
+        <span class="stats-badge" id="freebie-count" aria-live="polite">0 個限免中</span>
       </div>
     </header>
 
     <!-- Search & Filter Controls -->
-    <section class="controls-section glass-card">
+    <section class="controls-section glass-card" aria-label="搜尋與篩選">
       <div class="search-box">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="search-input" placeholder="搜尋 App 名稱、開發者或內購項目...">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input type="search" id="search-input" placeholder="搜尋 App 名稱、開發者或內購項目..." autocomplete="off" aria-label="搜尋">
       </div>
-      <div class="filter-box">
+      <div class="filter-box" role="group" aria-label="分類篩選">
         <button class="filter-btn active" data-category="all">全部</button>
         <button class="filter-btn" data-category="Game">遊戲</button>
         <button class="filter-btn" data-category="App">應用程式</button>
@@ -51,16 +60,16 @@
     </section>
 
     <!-- Main Content Area -->
-    <main class="content-area">
+    <main class="content-area" aria-live="polite">
       <!-- Loading State -->
-      <div class="loading-state" id="loading-spinner">
+      <div class="loading-state" id="loading-spinner" role="status" aria-label="載入中">
         <div class="spinner"></div>
         <p>正在加載最新限免資訊...</p>
       </div>
 
       <!-- Empty State -->
       <div class="empty-state hidden" id="empty-message">
-        <div class="empty-icon">☕</div>
+        <div class="empty-icon" aria-hidden="true">☕</div>
         <h3>目前沒有正在限免的項目</h3>
         <p>請稍後再來看看，或者在 GitHub 上新增您想追蹤的 App！</p>
       </div>
@@ -74,13 +83,13 @@
     <footer class="app-footer">
       <p>© 2026 iOS IAP Freebie Tracker. 自動化定時更新。</p>
       <p class="footer-links">
-        <a href="https://github.com" target="_blank" id="repo-link">GitHub 專案庫</a> • 
-        <a href="#" id="update-time">最後更新：載入中...</a>
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer" id="repo-link">GitHub 專案庫</a> •
+        <span id="update-time">最後更新：載入中...</span>
       </p>
     </footer>
   </div>
 
-  <!-- JavaScript -->
-  <script src="app.js"></script>
+  <!-- JavaScript: defer keeps it non-blocking -->
+  <script src="app.js" defer></script>
 </body>
 </html>

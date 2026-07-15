@@ -42,6 +42,7 @@ body {
   z-index: -1;
   opacity: 0.45;
   pointer-events: none;
+  will-change: transform; /* GPU-composited layer for smooth animation */
 }
 
 .bg-glow-1 {
@@ -100,6 +101,8 @@ body {
 .logo-icon {
   font-size: 2.5rem;
   animation: bounce 3s infinite ease-in-out;
+  will-change: transform; /* GPU-composited bounce animation */
+  display: inline-block;
 }
 
 @keyframes bounce {
@@ -280,6 +283,8 @@ body {
   display: flex;
   flex-direction: column;
   height: 100%;
+  contain: layout style; /* Isolate layout recalculation to the card */
+  will-change: transform; /* GPU layer for smooth hover lift animation */
 }
 
 .freebie-card:hover {
