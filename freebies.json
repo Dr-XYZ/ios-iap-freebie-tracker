@@ -12,7 +12,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784127320
+    "last_updated": 1784137130
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -42,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784127320
+    "last_updated": 1784137130
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -102,7 +102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784131999
+    "last_updated": 1784137130
   },
   {
     "id": "961227503:專業工具",
@@ -412,12 +412,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784121207
+    "is_free": 0,
+    "last_updated": 1784137130
   },
   {
     "id": "623592465:Mix It Up",
@@ -427,12 +427,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784121207
+    "is_free": 0,
+    "last_updated": 1784137130
   },
   {
     "id": "623592465:The Ellen Show",
@@ -442,12 +442,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784121207
+    "is_free": 0,
+    "last_updated": 1784137130
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -457,12 +457,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784121207
+    "is_free": 0,
+    "last_updated": 1784137130
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -522,6 +522,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784131999
+    "last_updated": 1784137130
   }
 ]
