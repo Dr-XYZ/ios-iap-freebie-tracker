@@ -79,24 +79,30 @@ async function asyncPool(concurrency, array, iteratorFn) {
   return Promise.all(ret);
 }
 
-// Fetch dynamic App Store Top Charts (Free & Paid) across categories
+// Multi-region App Store country codes to expand discovery coverage
+const REGIONS = ['tw', 'hk', 'us', 'jp', 'kr'];
+
+// Fetch dynamic App Store Top Charts (Free & Paid) across categories AND regions
 async function getTopChartIds() {
   const ids = new Set();
   const highPriorityIds = new Set();
   const appRanks = {};
   const feeds = [];
 
-  // Generate RSS Feed URLs for overall and major categories
-  for (const [name, genreId] of Object.entries(CATEGORIES)) {
-    const genreSuffix = genreId ? `/genre=${genreId}` : '';
-    // Stable safe limits for round-robin database coverage (yields ~1,000 unique apps)
-    const limit = genreId ? 50 : 100;
-    
-    feeds.push(`https://itunes.apple.com/tw/rss/topfreeapplications/limit=${limit}${genreSuffix}/json`);
-    feeds.push(`https://itunes.apple.com/tw/rss/toppaidapplications/limit=${limit}${genreSuffix}/json`);
+  // Generate RSS Feed URLs across all regions and categories
+  // limit=200 is the maximum Apple RSS API supports
+  for (const region of REGIONS) {
+    for (const [name, genreId] of Object.entries(CATEGORIES)) {
+      const genreSuffix = genreId ? `/genre=${genreId}` : '';
+      // Use max limit=200 for all charts (up from 50/100)
+      const limit = 200;
+
+      feeds.push(`https://itunes.apple.com/${region}/rss/topfreeapplications/limit=${limit}${genreSuffix}/json`);
+      feeds.push(`https://itunes.apple.com/${region}/rss/toppaidapplications/limit=${limit}${genreSuffix}/json`);
+    }
   }
 
-  console.log(`[Discovery] Fetching ${feeds.length} App Store RSS charts...`);
+  console.log(`[Discovery] Fetching ${feeds.length} App Store RSS charts across ${REGIONS.length} regions...`);
 
   // Fetch charts in parallel with concurrency
   await asyncPool(8, feeds, async (url) => {
@@ -123,6 +129,8 @@ async function getTopChartIds() {
       // Fail silently to avoid clogging logs
     }
   });
+
+  console.log(`[Discovery] Found ${ids.size} unique App IDs across all regions.`);
 
   return {
     allIds: Array.from(ids),
