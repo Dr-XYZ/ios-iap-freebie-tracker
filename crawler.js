@@ -100,7 +100,10 @@ async function getTopChartIds() {
         if (id) {
           const idStr = id.toString();
           ids.add(idStr);
-          // If in top 5 of the chart, mark as high priority
+          const rank = index + 1;
+          if (!appRanks[idStr] || rank < appRanks[idStr]) {
+            appRanks[idStr] = rank;
+          }
           if (index < 5) {
             highPriorityIds.add(idStr);
           }
@@ -113,7 +116,8 @@ async function getTopChartIds() {
 
   return {
     allIds: Array.from(ids),
-    highPriorityIds: Array.from(highPriorityIds)
+    highPriorityIds: Array.from(highPriorityIds),
+    appRanks
   };
 }
 
@@ -129,7 +133,11 @@ async function scrapeApp(appId) {
     });
 
     if (!response.ok) {
-      throw new Error(`HTTP status ${response.status}`);
+      return {
+        failed: true,
+        appId: appId,
+        status: response.status
+      };
     }
 
     const html = await response.text();
@@ -235,8 +243,12 @@ async function scrapeApp(appId) {
     };
 
   } catch (error) {
-    // console.error(`Error scraping ${appId}:`, error.message);
-    return null;
+    return {
+      failed: true,
+      appId: appId,
+      status: 500,
+      message: error.message
+    };
   }
 }
 
@@ -257,7 +269,7 @@ async function run() {
     }
 
     // 2. Discover App IDs from Top Charts
-    const { allIds, highPriorityIds } = await getTopChartIds();
+    const { allIds, highPriorityIds, appRanks } = await getTopChartIds();
     console.log(`[Discovery] Found ${allIds.length} active apps from top charts, including ${highPriorityIds.length} high priority apps.`);
 
     // Merge newly discovered IDs into our master database list
@@ -285,48 +297,99 @@ async function run() {
 
     console.log(`[Database] Total apps registered in database: ${new Set(database.map(item => item.app_id)).size}`);
 
-    // 3. Selection Strategy (Priority Queue & Round-Robin)
-    // - Priority 1: User's custom watchlist (always checked)
-    // - Priority 2: High priority top-ranked apps (Top 5 of each chart, always checked)
-    // - Priority 3: Oldest updated apps in the database (Round-Robin)
-    
-    const appsToScrape = new Set([...customWatchlist, ...highPriorityIds]);
-    console.log(`[Queue] High-priority scraping target count: ${appsToScrape.size} apps (watchlist + top 5 charts).`);
-    
-    // Get all unique app IDs in the database, sorted by their oldest check time
-    const appLastUpdatedMap = {};
+    // 3. Selection Strategy (Dynamic Priority Score Maximization Algorithm)
+    const now = Math.floor(Date.now() / 1000);
+    const appScores = [];
+
+    // Group database records by app_id to assess their profiles
+    const appRecordsMap = {};
     database.forEach(item => {
-      if (!appLastUpdatedMap[item.app_id] || item.last_updated < appLastUpdatedMap[item.app_id]) {
-        appLastUpdatedMap[item.app_id] = item.last_updated;
+      if (!appRecordsMap[item.app_id]) {
+        appRecordsMap[item.app_id] = [];
       }
+      appRecordsMap[item.app_id].push(item);
     });
 
-    const sortedAppIds = Object.keys(appLastUpdatedMap).sort((a, b) => appLastUpdatedMap[a] - appLastUpdatedMap[b]);
-    
-    // Fill remaining slots up to MAX_APPS_PER_RUN
-    for (const appId of sortedAppIds) {
-      if (appsToScrape.size >= MAX_APPS_PER_RUN) break;
-      appsToScrape.add(appId);
+    for (const appId of Object.keys(appRecordsMap)) {
+      const records = appRecordsMap[appId];
+      
+      // Get the oldest last_updated timestamp among this app's records
+      const lastUpdated = Math.min(...records.map(r => r.last_updated || 0));
+      
+      // Calculate elapsed hours since last checked
+      let elapsedHours = 24;
+      if (lastUpdated > 0) {
+        elapsedHours = Math.max(0.1, (now - lastUpdated) / 3600);
+      } else {
+        elapsedHours = 72; // Force brand new apps to be scanned immediately
+      }
+
+      // Assign Base Weight based on app profile
+      let baseWeight = 500; // Default: App with known IAPs (highly valuable to rotate)
+
+      const isWatchlist = customWatchlist.includes(appId);
+      const isTopRank = highPriorityIds.includes(appId);
+      const isNew = records.some(r => r.iap_name === 'Initialization');
+      const isNoIap = records.some(r => r.iap_name === '無內購項目');
+      const isActiveFreebie = records.some(r => r.is_free === 1);
+      const isFailed404 = records.some(r => r.iap_name === '爬取失敗 (404-不存在)');
+      const isFailedTransient = records.some(r => r.iap_name === '爬取失敗 (暫時性錯誤)');
+      const isFailedLegacy = records.some(r => r.iap_name === '爬取失敗' || r.app_name === 'Failed Scrape');
+
+      if (isWatchlist) {
+        baseWeight = 10000; // Priority 1: User watchlists (always check hourly)
+      } else if (isActiveFreebie) {
+        baseWeight = 4000;  // Priority 2: Active deals (must check extremely frequently to verify expiration)
+      } else if (isTopRank) {
+        baseWeight = 3000;  // Priority 3: Top 5 ranked chart apps
+      } else if (isNew) {
+        baseWeight = 1000;  // Priority 4: Newly discovered placeholders
+      } else if (isFailedTransient) {
+        baseWeight = 100;   // Priority 6: Transient errors (retry after minor delay)
+      } else if (isNoIap) {
+        baseWeight = 10;    // Priority 7: Verified Apps with NO IAPs (check once a week)
+      } else if (isFailed404 || isFailedLegacy) {
+        baseWeight = 1;     // Priority 8: Dead/Deleted links (check very rarely, once a month)
+      }
+
+      // 3. Continuous Rank Factor Boost
+      const rank = appRanks[appId] || 999;
+      const rankMultiplier = 1.0 + (100.0 / rank); // Rank 1 = 101x multiplier, Rank 50 = 3x, Unranked = 1.1x
+
+      const score = baseWeight * elapsedHours * rankMultiplier;
+      appScores.push({ appId, score, baseWeight, elapsedHours, rankMultiplier });
     }
 
-    const appsList = Array.from(appsToScrape);
-    console.log(`[Queue] Selected ${appsList.length} apps to scrape in this run (including ${customWatchlist.length} from watchlist).`);
+    // Sort descending by score
+    appScores.sort((a, b) => b.score - a.score);
+
+    // Take the top MAX_APPS_PER_RUN apps
+    const appsList = appScores.slice(0, MAX_APPS_PER_RUN).map(item => item.appId);
+    console.log(`[Queue] Maximization Queue selected ${appsList.length} apps to scrape (Limit: ${MAX_APPS_PER_RUN}).`);
+    
+    // Log the top 10 prioritized items for debug transparency
+    console.log('[Queue] Top 10 priority targets:');
+    appScores.slice(0, 10).forEach((item, idx) => {
+      const records = appRecordsMap[item.appId];
+      const name = records[0].app_name;
+      console.log(`  ${idx+1}. App ${item.appId} ("${name}"): Score ${item.score.toFixed(1)} (Weight ${item.baseWeight}, Elapsed ${item.elapsedHours.toFixed(1)}h)`);
+    });
 
     // 4. Scrape concurrently
-    const now = Math.floor(Date.now() / 1000);
     const scrapedData = [];
 
     console.log(`[Scraper] Starting parallel scrape with concurrency limit of ${CONCURRENCY_LIMIT}...`);
     await asyncPool(CONCURRENCY_LIMIT, appsList, async (appId) => {
       const data = await scrapeApp(appId);
-      if (data) {
+      if (data && !data.failed) {
         scrapedData.push(data);
         console.log(`[Scraper] Scraped successfully: "${data.app.name}" (${data.iaps.length} IAPs)`);
       } else {
-        // If scrape fails, we still update the timestamp in database so it rotates to the back of the queue
+        // If scrape fails, we capture the failure status and update last_updated to cycle it
         scrapedData.push({
           failed: true,
-          appId: appId
+          appId: appId,
+          status: data ? data.status : 500
         });
       }
       // Artificial small delay between batches
@@ -343,17 +406,25 @@ async function run() {
 
     for (const res of scrapedData) {
       if (res.failed) {
-        // For failed scrapes, update the last_updated time of existing records so they cycle in round-robin
+        // Distinguish persistent 404 from transient network/rate limit issues (status 403, 429, 500 etc.)
+        const errorIapName = res.status === 404 ? "爬取失敗 (404-不存在)" : "爬取失敗 (暫時性錯誤)";
+        
         let found = false;
         updatedDatabase = updatedDatabase.map(item => {
           if (item.app_id === res.appId) {
             found = true;
-            return { ...item, last_updated: now };
+            // Overwrite status to prevent expired deals showing, but keep timestamps up to date
+            return { 
+              ...item, 
+              last_updated: now,
+              iap_name: errorIapName,
+              is_free: 0
+            };
           }
           return item;
         });
         
-        // If no records existed (e.g. only placeholder existed, but it was filtered out), put a failed placeholder back
+        // If no records existed (e.g. only initialization placeholder was present), push a failed placeholder record
         if (!found) {
           updatedDatabase.push({
             id: `${res.appId}:failed`,
@@ -363,7 +434,7 @@ async function run() {
             icon_url: "",
             category: "Utility",
             store_url: `https://apps.apple.com/tw/app/id${res.appId}`,
-            iap_name: "爬取失敗",
+            iap_name: errorIapName,
             current_price: -1,
             original_price: -1,
             currency: "TWD",
