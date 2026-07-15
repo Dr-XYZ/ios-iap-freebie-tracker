@@ -12,7 +12,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784145056
+    "last_updated": 1784151646
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -42,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784145056
+    "last_updated": 1784151646
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -102,7 +102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784148314
+    "last_updated": 1784151646
   },
   {
     "id": "961227503:專業工具",
@@ -127,12 +127,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/41/c4/3041c481-fa64-bd59-5c86-50d3c6569fe5/AppIcon-1x_U007emarketing-1-85-220.jpeg/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/7-%E5%88%86%E9%90%98%E9%AB%94%E8%83%BD%E8%A8%93%E7%B7%B4-7-minute-workout/id680170305",
-    "iap_name": "Bonus Workout Pack 3",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 30,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784116654
+    "is_free": 0,
+    "last_updated": 1784151646
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -142,12 +142,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/41/c4/3041c481-fa64-bd59-5c86-50d3c6569fe5/AppIcon-1x_U007emarketing-1-85-220.jpeg/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/7-%E5%88%86%E9%90%98%E9%AB%94%E8%83%BD%E8%A8%93%E7%B7%B4-7-minute-workout/id680170305",
-    "iap_name": "Bonus Workout Pack 4",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 60,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784116654
+    "is_free": 0,
+    "last_updated": 1784151646
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -162,7 +162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784116654
+    "last_updated": 1784151646
   },
   {
     "id": "730712409:AI 空間",
@@ -177,7 +177,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784116654
+    "last_updated": 1784151646
   },
   {
     "id": "730712409:批量相片處理",
@@ -192,7 +192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784116654
+    "last_updated": 1784151646
   },
   {
     "id": "1095903651:特效7",
@@ -405,66 +405,6 @@
     "last_updated": 1784118745
   },
   {
-    "id": "623592465:Just For Kids",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784137130
-  },
-  {
-    "id": "623592465:Mix It Up",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784137130
-  },
-  {
-    "id": "623592465:The Ellen Show",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784137130
-  },
-  {
-    "id": "623592465:Ocean Vacation",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784137130
-  },
-  {
     "id": "952050883:Garden Sticker Pack",
     "app_id": "952050883",
     "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
@@ -522,7 +462,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784145056
+    "last_updated": 1784151646
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -553,5 +493,170 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784140994
+  },
+  {
+    "id": "623592465:Just For Kids",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Just For Kids",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "623592465:Mix It Up",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Mix It Up",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "623592465:The Ellen Show",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "The Ellen Show",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "623592465:Ocean Vacation",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Ocean Vacation",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "655607914:STANDARD ROCK KIT",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/41/04/fa4104d8-9078-41f2-6a96-7518625e124c/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "STANDARD ROCK KIT",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "655607914:A MAJOR'S LOW BLOW",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/41/04/fa4104d8-9078-41f2-6a96-7518625e124c/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "A MAJOR'S LOW BLOW",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "655607914:BEAST OF SHADOWS",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/41/04/fa4104d8-9078-41f2-6a96-7518625e124c/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "BEAST OF SHADOWS",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "655607914:DEEP BLUE",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/41/04/fa4104d8-9078-41f2-6a96-7518625e124c/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "DEEP BLUE",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "655607914:BEEPING BOBBIE",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/41/04/fa4104d8-9078-41f2-6a96-7518625e124c/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "BEEPING BOBBIE",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "6757769363:Classic LifeTime Pro",
+    "app_id": "6757769363",
+    "app_name": "iGrooveMuseApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/08/9c/09089c3d-b1e5-caf6-6bab-5249bbadbee3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/igroovemuse/id6757769363",
+    "iap_name": "Classic LifeTime Pro",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
+  },
+  {
+    "id": "412380315:Version 4: Complete Features Bundle",
+    "app_id": "412380315",
+    "app_name": "Symphony Pro - Music NotationApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/97/e6/3b97e64e-a3bb-97e1-b8dc-5bd6ba477eb2/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/symphony-pro-music-notation/id412380315",
+    "iap_name": "Version 4: Complete Features Bundle",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784151646
   }
 ]
