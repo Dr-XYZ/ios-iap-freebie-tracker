@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iOS App Store IAP 限時免費追蹤</title>
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="即時追蹤 iOS App Store 內購 (In-App Purchase) 限時免費資訊，幫你省下大筆費用！完全自動化更新。">
+  <meta name="keywords" content="iOS, App Store, IAP, 限免, 限時免費, 內購限免, 蘋果商店, 降價">
+  <meta name="robots" content="index, follow">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Noto+Sans+TC:wght@300;400;700&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Dynamic Gradient Background Elements -->
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+  <div class="container">
+    <header class="app-header">
+      <div class="header-logo">
+        <span class="logo-icon">🎁</span>
+        <div class="logo-text">
+          <h1>iOS IAP 限免特惠</h1>
+          <p>即時追蹤 App Store 內購限免資訊</p>
+        </div>
+      </div>
+      <div class="header-stats">
+        <span class="stats-badge" id="freebie-count">0 個限免中</span>
+      </div>
+    </header>
+
+    <!-- Search & Filter Controls -->
+    <section class="controls-section glass-card">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder="搜尋 App 名稱、開發者或內購項目...">
+      </div>
+      <div class="filter-box">
+        <button class="filter-btn active" data-category="all">全部</button>
+        <button class="filter-btn" data-category="Game">遊戲</button>
+        <button class="filter-btn" data-category="App">應用程式</button>
+      </div>
+    </section>
+
+    <!-- Main Content Area -->
+    <main class="content-area">
+      <!-- Loading State -->
+      <div class="loading-state" id="loading-spinner">
+        <div class="spinner"></div>
+        <p>正在加載最新限免資訊...</p>
+      </div>
+
+      <!-- Empty State -->
+      <div class="empty-state hidden" id="empty-message">
+        <div class="empty-icon">☕</div>
+        <h3>目前沒有正在限免的項目</h3>
+        <p>請稍後再來看看，或者在 GitHub 上新增您想追蹤的 App！</p>
+      </div>
+
+      <!-- Grid of Cards -->
+      <div class="freebies-grid hidden" id="freebies-grid">
+        <!-- Rendered dynamically by JavaScript -->
+      </div>
+    </main>
+
+    <footer class="app-footer">
+      <p>© 2026 iOS IAP Freebie Tracker. 自動化定時更新。</p>
+      <p class="footer-links">
+        <a href="https://github.com" target="_blank" id="repo-link">GitHub 專案庫</a> • 
+        <a href="#" id="update-time">最後更新：載入中...</a>
+      </p>
+    </footer>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="app.js"></script>
+</body>
+</html>
