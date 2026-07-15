@@ -106,17 +106,53 @@ function renderData() {
     
     return matchesSearch && matchesCategory;
   });
+
+  // Group by app_id to display multiple free IAPs in a single card
+  const groupedApps = {};
+  filtered.forEach(item => {
+    if (!groupedApps[item.app_id]) {
+      groupedApps[item.app_id] = {
+        app_id: item.app_id,
+        app_name: item.app_name,
+        developer: item.developer,
+        icon_url: item.icon_url,
+        category: item.category,
+        store_url: item.store_url,
+        last_updated: item.last_updated,
+        freebies: []
+      };
+    }
+    // Avoid duplicates for identical IAPs
+    if (!groupedApps[item.app_id].freebies.some(f => f.iap_name === item.iap_name)) {
+      groupedApps[item.app_id].freebies.push({
+        iap_name: item.iap_name,
+        original_price: item.original_price,
+        currency: item.currency
+      });
+    }
+    if (item.last_updated > groupedApps[item.app_id].last_updated) {
+      groupedApps[item.app_id].last_updated = item.last_updated;
+    }
+  });
+
+  const groupedList = Object.values(groupedApps);
   
+  // Sort: newest update first
+  groupedList.sort((a, b) => b.last_updated - a.last_updated);
+  
+  // Update badge count with number of unique apps having active IAPs free
+  freebieCountBadge.textContent = `${groupedList.length} 款軟體限免中`;
+
   // Render grid
-  if (filtered.length === 0) {
+  if (groupedList.length === 0) {
     freebiesGrid.classList.add('hidden');
     emptyMessage.classList.remove('hidden');
   } else {
     emptyMessage.classList.add('hidden');
     freebiesGrid.innerHTML = '';
     
-    filtered.forEach(item => {
-      const card = createCardElement(item);
+    groupedList.forEach(app => {
+      const card = createCardElement(app);
       freebiesGrid.appendChild(card);
     });
     
@@ -124,37 +160,48 @@ function renderData() {
   }
 }
 
-// Create Card Element DOM
-function createCardElement(item) {
+// Create Card Element DOM grouped by App
+function createCardElement(app) {
   const card = document.createElement('article');
   card.className = 'glass-card freebie-card';
   
-  // Set placeholder icon if missing
-  const iconUrl = item.icon_url || 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=128&auto=format&fit=crop&q=60';
+  const iconUrl = app.icon_url || 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=128&auto=format&fit=crop&q=60';
   
-  // Parse original price display
-  const hasOriginalPrice = item.original_price && item.original_price > 0;
-  const originalPriceText = hasOriginalPrice ? `${item.currency === 'TWD' ? 'NT$' : '$'} ${item.original_price}` : '';
+  // Render list of IAPs
+  let freebiesHtml = '';
+  app.freebies.forEach(f => {
+    const hasOriginalPrice = f.original_price && f.original_price > 0;
+    const originalPriceText = hasOriginalPrice ? `${f.currency === 'TWD' ? 'NT$' : '$'} ${f.original_price}` : '';
+    
+    freebiesHtml += `
+      <div class="iap-item-row">
+        <div class="iap-item-info">
+          <span class="iap-item-bullet">🎁</span>
+          <span class="iap-item-name" title="${f.iap_name}">${f.iap_name}</span>
+        </div>
+        <div class="iap-item-pricing">
+          ${hasOriginalPrice ? `<span class="original-price">${originalPriceText}</span>` : ''}
+          <span class="free-price">免費</span>
+        </div>
+      </div>
+    `;
+  });
   
   card.innerHTML = `
     <div class="card-header">
-      <img src="${iconUrl}" alt="${item.app_name} Icon" class="app-icon" loading="lazy">
+      <img src="${iconUrl}" alt="${app.app_name} Icon" class="app-icon" loading="lazy">
       <div class="app-info">
-        <h2 class="app-name" title="${item.app_name}">${item.app_name}</h2>
-        <span class="app-developer">${item.developer}</span>
-        <span class="category-tag">${item.category}</span>
+        <h2 class="app-name" title="${app.app_name}">${app.app_name}</h2>
+        <span class="app-developer">${app.developer}</span>
+        <span class="category-tag">${app.category}</span>
       </div>
     </div>
     <div class="card-body">
-      <div class="iap-details">
-        <span class="iap-label">🎁 限免內購項目</span>
-        <h3 class="iap-name">${item.iap_name}</h3>
+      <span class="iap-label">🎁 限免內購項目</span>
+      <div class="iap-list-container">
+        ${freebiesHtml}
       </div>
-      <div class="price-container">
-        ${hasOriginalPrice ? `<span class="original-price">${originalPriceText}</span>` : ''}
-        <span class="free-price">免費</span>
-      </div>
-      <a href="${item.store_url}" target="_blank" class="get-btn">
+      <a href="${app.store_url}" target="_blank" class="get-btn">
         <span>在 App Store 取得</span>
         <span>➔</span>
       </a>
