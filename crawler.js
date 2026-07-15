@@ -344,12 +344,33 @@ async function run() {
     for (const res of scrapedData) {
       if (res.failed) {
         // For failed scrapes, update the last_updated time of existing records so they cycle in round-robin
+        let found = false;
         updatedDatabase = updatedDatabase.map(item => {
           if (item.app_id === res.appId) {
+            found = true;
             return { ...item, last_updated: now };
           }
           return item;
         });
+        
+        // If no records existed (e.g. only placeholder existed, but it was filtered out), put a failed placeholder back
+        if (!found) {
+          updatedDatabase.push({
+            id: `${res.appId}:failed`,
+            app_id: res.appId,
+            app_name: "Failed Scrape",
+            developer: "",
+            icon_url: "",
+            category: "Utility",
+            store_url: `https://apps.apple.com/tw/app/id${res.appId}`,
+            iap_name: "爬取失敗",
+            current_price: -1,
+            original_price: -1,
+            currency: "TWD",
+            is_free: 0,
+            last_updated: now
+          });
+        }
         continue;
       }
 
