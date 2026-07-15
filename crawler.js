@@ -593,7 +593,7 @@ function updateReadmeStats(database) {
 | 🟢 **追蹤中 (Active Tracking)** | **${hasIapCount}** 款 | 證實有內購，高頻輪替檢查 |
 | ⏳ **待追蹤 (Pending Discovery)** | **${pendingCount}** 款 | 剛進榜之新軟體，5 分鐘內首次爬取 |
 | 💤 **排除中 (No IAP Excluded)** | **${noIapCount}** 款 | 證實無內購，每 3 天低頻冷卻複檢 |
-| ❌ **已失效 (Persistent 404)** | **${failedCount}** 款 | 已從商店下架，每 30 天極低頻清查 |
+| ❌ **已失效 (Persistent 404)** | **${failedCount}** 款 | 疑似被伺服器阻擋或地區限制，每 30 天極低頻重試 |
 | 📦 **總收錄規模 (Total Database)** | **${uniqueApps.length}** 款 | 當前覆蓋的所有 App Store 行動目錄總量 |
 <!-- STATS_END -->`;
 
