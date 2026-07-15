@@ -203,179 +203,133 @@ async function scrapeApp(appId) {
 }
 
 async function run() {
-  console.log('[Crawler] Starting iOS App Store Multi-Category Crawler...');
-  
-  // 1. Load watchlists and existing database
-  const customWatchlist = fs.existsSync(WATCHLIST_PATH) ? JSON.parse(fs.readFileSync(WATCHLIST_PATH, 'utf8')) : [];
-  
-  let database = [];
-  if (fs.existsSync(DATABASE_PATH)) {
-    try {
-      database = JSON.parse(fs.readFileSync(DATABASE_PATH, 'utf8'));
-    } catch (e) {
-      console.warn('[Crawler] Error parsing database.json, starting fresh.', e.message);
-    }
-  }
-
-  // 2. Discover App IDs from Top Charts
-  const topChartIds = await getTopChartIds();
-  console.log(`[Discovery] Found ${topChartIds.length} active apps from top charts.`);
-
-  // Merge newly discovered IDs into our master database list
-  const knownAppIdsInDb = new Set(database.map(item => item.app_id));
-  const newAppIdsToInitialize = topChartIds.filter(id => !knownAppIdsInDb.has(id));
-  
-  // Initialize newly discovered apps with dummy records so they enter the round-robin queue
-  newAppIdsToInitialize.forEach(appId => {
-    database.push({
-      id: `${appId}:init`,
-      app_id: appId,
-      app_name: "Pending Discovery",
-      developer: "",
-      icon_url: "",
-      category: "",
-      store_url: "",
-      iap_name: "Initialization",
-      current_price: -1, // Placeholder
-      original_price: -1,
-      currency: "TWD",
-      is_free: 0,
-      last_updated: 0 // Oldest timestamp to prioritize it in next scrapes
-    });
-  });
-
-  console.log(`[Database] Total apps registered in database: ${new Set(database.map(item => item.app_id)).size}`);
-
-  // 3. Selection Strategy (Priority Queue & Round-Robin)
-  // - Priority 1: User's custom watchlist (always checked)
-  // - Priority 2: Oldest updated apps in the database (Round-Robin)
-  
-  const customWatchlistSet = new Set(customWatchlist);
-  
-  // Get all unique app IDs in the database, sorted by their oldest check time
-  const appLastUpdatedMap = {};
-  database.forEach(item => {
-    if (!appLastUpdatedMap[item.app_id] || item.last_updated < appLastUpdatedMap[item.app_id]) {
-      appLastUpdatedMap[item.app_id] = item.last_updated;
-    }
-  });
-
-  const sortedAppIds = Object.keys(appLastUpdatedMap).sort((a, b) => appLastUpdatedMap[a] - appLastUpdatedMap[b]);
-  
-  const appsToScrape = new Set(customWatchlist);
-  
-  for (const appId of sortedAppIds) {
-    if (appsToScrape.size >= MAX_APPS_PER_RUN) break;
-    appsToScrape.add(appId);
-  }
-
-  const appsList = Array.from(appsToScrape);
-  console.log(`[Queue] Selected ${appsList.length} apps to scrape in this run (including ${customWatchlist.length} from watchlist).`);
-
-  // 4. Scrape concurrently
-  const now = Math.floor(Date.now() / 1000);
-  const scrapedData = [];
-
-  console.log(`[Scraper] Starting parallel scrape with concurrency limit of ${CONCURRENCY_LIMIT}...`);
-  await asyncPool(CONCURRENCY_LIMIT, appsList, async (appId) => {
-    const data = await scrapeApp(appId);
-    if (data) {
-      scrapedData.push(data);
-      console.log(`[Scraper] Scraped successfully: "${data.app.name}" (${data.iaps.length} IAPs)`);
-    } else {
-      // If scrape fails, we still update the timestamp in database so it rotates to the back of the queue
-      scrapedData.push({
-        failed: true,
-        appId: appId
-      });
-    }
-    // Artificial small delay between batches
-    await new Promise(resolve => setTimeout(resolve, 500));
-  });
-
-  // 5. Update Database with scraped results
-  let updatedDatabase = database.filter(item => {
-    // Remove placeholder initialization records for apps we just crawled
-    const isCrawled = appsList.includes(item.app_id);
-    const isPlaceholder = item.iap_name === "Initialization";
-    return !(isCrawled && isPlaceholder);
-  });
-
-  for (const res of scrapedData) {
-    if (res.failed) {
-      // For failed scrapes, update the last_updated time of existing records so they cycle in round-robin
-      updatedDatabase = updatedDatabase.map(item => {
-        if (item.app_id === res.appId) {
-          return { ...item, last_updated: now };
-        }
-        return item;
-      });
-      continue;
-    }
-
-    const { app, iaps } = res;
-
-    // Remove any old records for this app that are not in the new scraped IAP list (dynamic clean up)
-    const scrapedIapNames = new Set(iaps.map(i => i.name));
-    updatedDatabase = updatedDatabase.filter(item => {
-      if (item.app_id === app.id) {
-        return scrapedIapNames.has(item.iap_name);
+  try {
+    console.log('[Crawler] Starting iOS App Store Multi-Category Crawler...');
+    
+    // 1. Load watchlists and existing database
+    const customWatchlist = fs.existsSync(WATCHLIST_PATH) ? JSON.parse(fs.readFileSync(WATCHLIST_PATH, 'utf8')) : [];
+    
+    let database = [];
+    if (fs.existsSync(DATABASE_PATH)) {
+      try {
+        database = JSON.parse(fs.readFileSync(DATABASE_PATH, 'utf8'));
+      } catch (e) {
+        console.warn('[Crawler] Error parsing database.json, starting fresh.', e.message);
       }
-      return true;
-    });
+    }
 
-    if (iaps.length === 0) {
-      // If an app has no IAPs, we keep a record of the app itself to know we checked it
-      const iapUniqueId = `${app.id}:No-IAP`;
-      const existingIndex = updatedDatabase.findIndex(item => item.id === iapUniqueId);
-      const record = {
-        id: iapUniqueId,
-        app_id: app.id,
-        app_name: app.name,
-        developer: app.developer,
-        icon_url: app.icon_url,
-        category: app.category,
-        store_url: app.store_url,
-        iap_name: "無內購項目",
-        current_price: -1,
+    // 2. Discover App IDs from Top Charts
+    const topChartIds = await getTopChartIds();
+    console.log(`[Discovery] Found ${topChartIds.length} active apps from top charts.`);
+
+    // Merge newly discovered IDs into our master database list
+    const knownAppIdsInDb = new Set(database.map(item => item.app_id));
+    const newAppIdsToInitialize = topChartIds.filter(id => !knownAppIdsInDb.has(id));
+    
+    // Initialize newly discovered apps with dummy records so they enter the round-robin queue
+    newAppIdsToInitialize.forEach(appId => {
+      database.push({
+        id: `${appId}:init`,
+        app_id: appId,
+        app_name: "Pending Discovery",
+        developer: "",
+        icon_url: "",
+        category: "",
+        store_url: "",
+        iap_name: "Initialization",
+        current_price: -1, // Placeholder
         original_price: -1,
         currency: "TWD",
         is_free: 0,
-        last_updated: now
-      };
-      if (existingIndex !== -1) {
-        updatedDatabase[existingIndex] = record;
-      } else {
-        updatedDatabase.push(record);
+        last_updated: 0 // Oldest timestamp to prioritize it in next scrapes
+      });
+    });
+
+    console.log(`[Database] Total apps registered in database: ${new Set(database.map(item => item.app_id)).size}`);
+
+    // 3. Selection Strategy (Priority Queue & Round-Robin)
+    // - Priority 1: User's custom watchlist (always checked)
+    // - Priority 2: Oldest updated apps in the database (Round-Robin)
+    
+    const customWatchlistSet = new Set(customWatchlist);
+    
+    // Get all unique app IDs in the database, sorted by their oldest check time
+    const appLastUpdatedMap = {};
+    database.forEach(item => {
+      if (!appLastUpdatedMap[item.app_id] || item.last_updated < appLastUpdatedMap[item.app_id]) {
+        appLastUpdatedMap[item.app_id] = item.last_updated;
       }
+    });
+
+    const sortedAppIds = Object.keys(appLastUpdatedMap).sort((a, b) => appLastUpdatedMap[a] - appLastUpdatedMap[b]);
+    
+    const appsToScrape = new Set(customWatchlist);
+    
+    for (const appId of sortedAppIds) {
+      if (appsToScrape.size >= MAX_APPS_PER_RUN) break;
+      appsToScrape.add(appId);
     }
 
-    // Upsert each scraped IAP
-    for (const iap of iaps) {
-      const iapUniqueId = `${app.id}:${iap.name}`;
-      const existingIndex = updatedDatabase.findIndex(item => item.id === iapUniqueId);
+    const appsList = Array.from(appsToScrape);
+    console.log(`[Queue] Selected ${appsList.length} apps to scrape in this run (including ${customWatchlist.length} from watchlist).`);
 
-      let originalPrice = iap.price;
-      if (existingIndex !== -1) {
-        const existingItem = updatedDatabase[existingIndex];
-        // If current price is higher, or we have an older original price, take max
-        originalPrice = Math.max(existingItem.original_price || 0, iap.price);
-        
-        updatedDatabase[existingIndex] = {
-          ...existingItem,
-          app_name: app.name,
-          developer: app.developer,
-          icon_url: app.icon_url,
-          category: app.category,
-          store_url: app.store_url,
-          current_price: iap.price,
-          original_price: originalPrice,
-          currency: iap.currency,
-          is_free: iap.price === 0 ? 1 : 0,
-          last_updated: now
-        };
+    // 4. Scrape concurrently
+    const now = Math.floor(Date.now() / 1000);
+    const scrapedData = [];
+
+    console.log(`[Scraper] Starting parallel scrape with concurrency limit of ${CONCURRENCY_LIMIT}...`);
+    await asyncPool(CONCURRENCY_LIMIT, appsList, async (appId) => {
+      const data = await scrapeApp(appId);
+      if (data) {
+        scrapedData.push(data);
+        console.log(`[Scraper] Scraped successfully: "${data.app.name}" (${data.iaps.length} IAPs)`);
       } else {
-        updatedDatabase.push({
+        // If scrape fails, we still update the timestamp in database so it rotates to the back of the queue
+        scrapedData.push({
+          failed: true,
+          appId: appId
+        });
+      }
+      // Artificial small delay between batches
+      await new Promise(resolve => setTimeout(resolve, 500));
+    });
+
+    // 5. Update Database with scraped results
+    let updatedDatabase = database.filter(item => {
+      // Remove placeholder initialization records for apps we just crawled
+      const isCrawled = appsList.includes(item.app_id);
+      const isPlaceholder = item.iap_name === "Initialization";
+      return !(isCrawled && isPlaceholder);
+    });
+
+    for (const res of scrapedData) {
+      if (res.failed) {
+        // For failed scrapes, update the last_updated time of existing records so they cycle in round-robin
+        updatedDatabase = updatedDatabase.map(item => {
+          if (item.app_id === res.appId) {
+            return { ...item, last_updated: now };
+          }
+          return item;
+        });
+        continue;
+      }
+
+      const { app, iaps } = res;
+
+      // Remove any old records for this app that are not in the new scraped IAP list (dynamic clean up)
+      const scrapedIapNames = new Set(iaps.map(i => i.name));
+      updatedDatabase = updatedDatabase.filter(item => {
+        if (item.app_id === app.id) {
+          return scrapedIapNames.has(item.iap_name);
+        }
+        return true;
+      });
+
+      if (iaps.length === 0) {
+        // If an app has no IAPs, we keep a record of the app itself to know we checked it
+        const iapUniqueId = `${app.id}:No-IAP`;
+        const existingIndex = updatedDatabase.findIndex(item => item.id === iapUniqueId);
+        const record = {
           id: iapUniqueId,
           app_id: app.id,
           app_name: app.name,
@@ -383,27 +337,78 @@ async function run() {
           icon_url: app.icon_url,
           category: app.category,
           store_url: app.store_url,
-          iap_name: iap.name,
-          current_price: iap.price,
-          original_price: originalPrice,
-          currency: iap.currency,
-          is_free: iap.price === 0 ? 1 : 0,
+          iap_name: "無內購項目",
+          current_price: -1,
+          original_price: -1,
+          currency: "TWD",
+          is_free: 0,
           last_updated: now
-        });
+        };
+        if (existingIndex !== -1) {
+          updatedDatabase[existingIndex] = record;
+        } else {
+          updatedDatabase.push(record);
+        }
+      }
+
+      // Upsert each scraped IAP
+      for (const iap of iaps) {
+        const iapUniqueId = `${app.id}:${iap.name}`;
+        const existingIndex = updatedDatabase.findIndex(item => item.id === iapUniqueId);
+
+        let originalPrice = iap.price;
+        if (existingIndex !== -1) {
+          const existingItem = updatedDatabase[existingIndex];
+          // If current price is higher, or we have an older original price, take max
+          originalPrice = Math.max(existingItem.original_price || 0, iap.price);
+          
+          updatedDatabase[existingIndex] = {
+            ...existingItem,
+            app_name: app.name,
+            developer: app.developer,
+            icon_url: app.icon_url,
+            category: app.category,
+            store_url: app.store_url,
+            current_price: iap.price,
+            original_price: originalPrice,
+            currency: iap.currency,
+            is_free: iap.price === 0 ? 1 : 0,
+            last_updated: now
+          };
+        } else {
+          updatedDatabase.push({
+            id: iapUniqueId,
+            app_id: app.id,
+            app_name: app.name,
+            developer: app.developer,
+            icon_url: app.icon_url,
+            category: app.category,
+            store_url: app.store_url,
+            iap_name: iap.name,
+            current_price: iap.price,
+            original_price: originalPrice,
+            currency: iap.currency,
+            is_free: iap.price === 0 ? 1 : 0,
+            last_updated: now
+          });
+        }
       }
     }
+
+    // 6. Save database.json
+    fs.writeFileSync(DATABASE_PATH, JSON.stringify(updatedDatabase, null, 2), 'utf8');
+    console.log(`[Database] Saved ${updatedDatabase.length} entries to database.json`);
+
+    // 7. Write currently active freebies to freebies.json
+    const activeFreebies = updatedDatabase.filter(item => item.current_price === 0);
+    fs.writeFileSync(FREEBIES_PATH, JSON.stringify(activeFreebies, null, 2), 'utf8');
+    console.log(`[Database] Saved ${activeFreebies.length} active freebies to freebies.json`);
+
+    console.log('[Crawler] Finished successfully.');
+  } catch (error) {
+    console.error('[Fatal Error] Crawler execution failed with exception:', error);
+    process.exit(1);
   }
-
-  // 6. Save database.json
-  fs.writeFileSync(DATABASE_PATH, JSON.stringify(updatedDatabase, null, 2), 'utf8');
-  console.log(`[Database] Saved ${updatedDatabase.length} entries to database.json`);
-
-  // 7. Write currently active freebies to freebies.json
-  const activeFreebies = updatedDatabase.filter(item => item.current_price === 0);
-  fs.writeFileSync(FREEBIES_PATH, JSON.stringify(activeFreebies, null, 2), 'utf8');
-  console.log(`[Database] Saved ${activeFreebies.length} active freebies to freebies.json`);
-
-  console.log('[Crawler] Finished successfully.');
 }
 
 run();
