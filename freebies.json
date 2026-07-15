@@ -508,5 +508,50 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784121207
+  },
+  {
+    "id": "952050883:Garden Sticker Pack",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Garden Sticker Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784122806
+  },
+  {
+    "id": "952050883:Travel Sticker Pack",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Travel Sticker Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784122806
+  },
+  {
+    "id": "952050883:Unlock All Features",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Unlock All Features",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784122806
   }
 ]
