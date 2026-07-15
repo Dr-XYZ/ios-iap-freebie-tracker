@@ -562,6 +562,7 @@ function updateReadmeStats(database) {
   if (!fs.existsSync(README_PATH)) return;
 
   const uniqueApps = Array.from(new Set(database.map(item => item.app_id)));
+  const dayAgo = Math.floor(Date.now() / 1000) - 86400;
   let noIapCount = 0;
   let hasIapCount = 0;
   let pendingCount = 0;
@@ -583,15 +584,21 @@ function updateReadmeStats(database) {
     } else if (records.some(r => r.iap_name && r.iap_name.startsWith('爬取失敗'))) {
       failedCount++;
     } else {
-      hasIapCount++;
+      // It has known IAPs. Check if it was scanned within the last 24 hours
+      const lastUpdated = Math.max(...records.map(r => r.last_updated || 0));
+      if (lastUpdated >= dayAgo) {
+        hasIapCount++;
+      } else {
+        pendingCount++; // Rotates back to pending discovery if not scanned within 24h
+      }
     }
   });
 
   const tableMarkdown = `<!-- STATS_START -->
 | 狀態類別 (Category) | 軟體數量 (Count) | 爬取頻率與策略 (Crawl Strategy) |
 | :--- | :--- | :--- |
-| 🟢 **追蹤中 (Active Tracking)** | **${hasIapCount}** 款 | 證實有內購，高頻輪替檢查 |
-| ⏳ **待追蹤 (Pending Discovery)** | **${pendingCount}** 款 | 剛進榜之新軟體，5 分鐘內首次爬取 |
+| 🟢 **追蹤中 (Active Tracking)** | **${hasIapCount}** 款 | 證實有內購且 24 小時內偵測過，高頻輪替檢查 |
+| ⏳ **待追蹤 (Pending Discovery)** | **${pendingCount}** 款 | 剛進榜或超過 24 小時未偵測，等待爬取中 |
 | 💤 **排除中 (No IAP Excluded)** | **${noIapCount}** 款 | 證實無內購，每 3 天低頻冷卻複檢 |
 | ❌ **已失效 (Persistent 404)** | **${failedCount}** 款 | 疑似被伺服器阻擋或地區限制，每 30 天極低頻重試 |
 | 📦 **總收錄規模 (Total Database)** | **${uniqueApps.length}** 款 | 當前覆蓋的所有 App Store 行動目錄總量 |
