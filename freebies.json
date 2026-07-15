@@ -1,50 +1,5 @@
 [
   {
-    "id": "6758056060:Photo Check-in Unlimited",
-    "app_id": "6758056060",
-    "app_name": "我去哪了?App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/8b/3f/898b3f08-5b54-3534-908d-9124a48cc0f8/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784120388
-  },
-  {
-    "id": "6758056060:Data Import Export Support",
-    "app_id": "6758056060",
-    "app_name": "我去哪了?App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/8b/3f/898b3f08-5b54-3534-908d-9124a48cc0f8/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784120388
-  },
-  {
-    "id": "6758056060:100 Fine Castles of Japan",
-    "app_id": "6758056060",
-    "app_name": "我去哪了?App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/8b/3f/898b3f08-5b54-3534-908d-9124a48cc0f8/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784120388
-  },
-  {
     "id": "6748090363:Fitness Story Pro Lifetime",
     "app_id": "6748090363",
     "app_name": "健身故事App - App Store",
@@ -57,7 +12,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784120388
+    "last_updated": 1784127320
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -87,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784127320
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -147,7 +102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784116654
+    "last_updated": 1784127320
   },
   {
     "id": "961227503:專業工具",
@@ -553,5 +508,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784122806
+  },
+  {
+    "id": "6758056060:100 Fine Castles of Japan",
+    "app_id": "6758056060",
+    "app_name": "我去哪了?App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/8b/3f/898b3f08-5b54-3534-908d-9124a48cc0f8/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
+    "iap_name": "100 Fine Castles of Japan",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784127320
   }
 ]
