@@ -12,7 +12,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784118224
   },
   {
     "id": "6758056060:Data Import Export Support",
@@ -27,7 +27,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784118224
   },
   {
     "id": "6758056060:100 Fine Castles of Japan",
@@ -42,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784118224
   },
   {
     "id": "6748090363:Fitness Story Pro Lifetime",
@@ -57,7 +57,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784118224
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -373,5 +373,35 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784117904
+  },
+  {
+    "id": "1570093460:INS G-0",
+    "app_id": "1570093460",
+    "app_name": "OldRoll - 復古底片拍照相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/46/0b/4b460b7b-662f-5bda-a98e-1bdaab6bac52/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/oldroll-%E5%BE%A9%E5%8F%A4%E5%BA%95%E7%89%87%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%A9%9F/id1570093460",
+    "iap_name": "INS G-0",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784118224
+  },
+  {
+    "id": "550101894:離線資料授權",
+    "app_id": "550101894",
+    "app_name": "高吉占星 專業版Pro 星座占卜大師App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/33/1e/b1/331eb188-9020-5e08-e6b9-1c74cc7650db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E9%AB%98%E5%90%89%E5%8D%A0%E6%98%9F-%E5%B0%88%E6%A5%AD%E7%89%88pro-%E6%98%9F%E5%BA%A7%E5%8D%A0%E5%8D%9C%E5%A4%A7%E5%B8%AB/id550101894",
+    "iap_name": "離線資料授權",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784118224
   }
 ]
