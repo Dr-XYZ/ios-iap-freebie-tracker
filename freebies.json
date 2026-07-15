@@ -12,7 +12,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784114877
+    "last_updated": 1784115325
   },
   {
     "id": "6758056060:Data Import Export Support",
@@ -27,7 +27,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784114877
+    "last_updated": 1784115325
   },
   {
     "id": "6758056060:100 Fine Castles of Japan",
@@ -42,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784114877
+    "last_updated": 1784115325
   },
   {
     "id": "6748090363:Fitness Story Pro Lifetime",
@@ -57,6 +57,81 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784114877
+    "last_updated": 1784115325
+  },
+  {
+    "id": "418331607:無限TIFF文件",
+    "app_id": "418331607",
+    "app_name": "Tiff Fax Viewer+App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/5d/27/ec5d2793-4336-9a4d-2a6c-67bd6b141dad/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/tiff-fax-viewer/id418331607",
+    "iap_name": "無限TIFF文件",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784115325
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784115325
+  },
+  {
+    "id": "448200679:Introduction to Meditation",
+    "app_id": "448200679",
+    "app_name": "Meditation & Relax Music ProApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2b/70/fd/2b70fd15-52ba-362a-9ca7-e8dd6ca15a65/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/meditation-relax-music-pro/id448200679",
+    "iap_name": "Introduction to Meditation",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784115325
+  },
+  {
+    "id": "478293637:Promo",
+    "app_id": "478293637",
+    "app_name": "Anytune Pro+: Studio Tools App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e0/00/d6e000d2-48a4-8e6d-7dfc-5eecd393c4c7/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/anytune-pro-studio-tools/id478293637",
+    "iap_name": "Promo",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784115325
+  },
+  {
+    "id": "1182856129:Pages",
+    "app_id": "1182856129",
+    "app_name": "Blink - Quick Notes & WidgetApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/cf/d3/f5cfd353-0a50-baaa-7b9a-de15dea3a072/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/blink-quick-notes-widget/id1182856129",
+    "iap_name": "Pages",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784115325
   }
 ]
