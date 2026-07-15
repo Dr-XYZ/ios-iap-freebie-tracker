@@ -8,8 +8,8 @@ const DATABASE_PATH = path.join(__dirname, 'database.json');
 const FREEBIES_PATH = path.join(__dirname, 'freebies.json');
 
 // Concurrency Settings
-const CONCURRENCY_LIMIT = 5;
-const MAX_APPS_PER_RUN = 250; // To stay safe and fast on GitHub Actions (takes ~1.5 mins)
+const CONCURRENCY_LIMIT = 8;
+const MAX_APPS_PER_RUN = 2000; // Stress testing 2,000 apps at once on GitHub Actions
 
 // App Store Categories to query top charts
 const CATEGORIES = {
@@ -79,8 +79,8 @@ async function getTopChartIds() {
   // Generate RSS Feed URLs for overall and major categories
   for (const [name, genreId] of Object.entries(CATEGORIES)) {
     const genreSuffix = genreId ? `/genre=${genreId}` : '';
-    // Limit to top 25 for categories to avoid excessive API requests, top 100 for overall
-    const limit = genreId ? 25 : 100;
+    // Fetch more apps to scale the database for the 2,000 stress test
+    const limit = genreId ? 150 : 200;
     
     feeds.push(`https://itunes.apple.com/tw/rss/topfreeapplications/limit=${limit}${genreSuffix}/json`);
     feeds.push(`https://itunes.apple.com/tw/rss/toppaidapplications/limit=${limit}${genreSuffix}/json`);
