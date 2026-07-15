@@ -13,6 +13,17 @@ const filterButtons = document.querySelectorAll('.filter-btn');
 const updateTimeText = document.getElementById('update-time');
 const repoLink = document.getElementById('repo-link');
 
+// HTML Sanitization helper (XSS Prevention)
+function escapeHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
 // Format date helper
 function formatTime(epochSeconds) {
   if (!epochSeconds) return '未知';
@@ -88,14 +99,20 @@ function renderData() {
   
   // Filter items
   const filtered = freebiesData.filter(item => {
+    // Defensive coding for null properties
+    const appName = item.app_name || '';
+    const developer = item.developer || '';
+    const iapName = item.iap_name || '';
+    const category = item.category || '';
+
     // Search filter
     const matchesSearch = 
-      item.app_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      item.developer.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      item.iap_name.toLowerCase().includes(searchQuery.toLowerCase());
+      appName.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      developer.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      iapName.toLowerCase().includes(searchQuery.toLowerCase());
       
     // Category filter
-    const isGame = item.category.toLowerCase().includes('game') || item.category.includes('遊戲');
+    const isGame = category.toLowerCase().includes('game') || category.includes('遊戲');
     let matchesCategory = true;
     
     if (activeCategory === 'Game') {
@@ -166,18 +183,25 @@ function createCardElement(app) {
   card.className = 'glass-card freebie-card';
   
   const iconUrl = app.icon_url || 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=128&auto=format&fit=crop&q=60';
+  const safeIconUrl = (iconUrl.startsWith('http') || iconUrl.startsWith('https')) ? escapeHtml(iconUrl) : '';
+  const safeStoreUrl = (app.store_url && (app.store_url.startsWith('http') || app.store_url.startsWith('https'))) ? escapeHtml(app.store_url) : '#';
   
+  const escapedAppName = escapeHtml(app.app_name);
+  const escapedDeveloper = escapeHtml(app.developer);
+  const escapedCategory = escapeHtml(app.category);
+
   // Render list of IAPs
   let freebiesHtml = '';
   app.freebies.forEach(f => {
     const hasOriginalPrice = f.original_price && f.original_price > 0;
-    const originalPriceText = hasOriginalPrice ? `${f.currency === 'TWD' ? 'NT$' : '$'} ${f.original_price}` : '';
+    const escapedIapName = escapeHtml(f.iap_name);
+    const originalPriceText = hasOriginalPrice ? `${escapeHtml(f.currency) === 'TWD' ? 'NT$' : '$'} ${escapeHtml(f.original_price)}` : '';
     
     freebiesHtml += `
       <div class="iap-item-row">
         <div class="iap-item-info">
           <span class="iap-item-bullet">🎁</span>
-          <span class="iap-item-name" title="${f.iap_name}">${f.iap_name}</span>
+          <span class="iap-item-name" title="${escapedIapName}">${escapedIapName}</span>
         </div>
         <div class="iap-item-pricing">
           ${hasOriginalPrice ? `<span class="original-price">${originalPriceText}</span>` : ''}
@@ -189,11 +213,11 @@ function createCardElement(app) {
   
   card.innerHTML = `
     <div class="card-header">
-      <img src="${iconUrl}" alt="${app.app_name} Icon" class="app-icon" loading="lazy">
+      ${safeIconUrl ? `<img src="${safeIconUrl}" alt="${escapedAppName} Icon" class="app-icon" loading="lazy">` : `<div class="app-icon-placeholder">🎁</div>`}
       <div class="app-info">
-        <h2 class="app-name" title="${app.app_name}">${app.app_name}</h2>
-        <span class="app-developer">${app.developer}</span>
-        <span class="category-tag">${app.category}</span>
+        <h2 class="app-name" title="${escapedAppName}">${escapedAppName}</h2>
+        <span class="app-developer">${escapedDeveloper}</span>
+        <span class="category-tag">${escapedCategory}</span>
       </div>
     </div>
     <div class="card-body">
@@ -201,7 +225,7 @@ function createCardElement(app) {
       <div class="iap-list-container">
         ${freebiesHtml}
       </div>
-      <a href="${app.store_url}" target="_blank" class="get-btn">
+      <a href="${safeStoreUrl}" target="_blank" class="get-btn">
         <span>在 App Store 取得</span>
         <span>➔</span>
       </a>
