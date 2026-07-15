@@ -8,8 +8,16 @@ const DATABASE_PATH = path.join(__dirname, 'database.json');
 const FREEBIES_PATH = path.join(__dirname, 'freebies.json');
 
 // Concurrency Settings
-const CONCURRENCY_LIMIT = 5;
-const MAX_APPS_PER_RUN = 250; // Stable safe rate limit for GitHub Actions (concurrency 5, delay 500ms)
+const CONCURRENCY_LIMIT = 3; // Reduced to 3 to mimic slower human browsing behavior
+const MAX_APPS_PER_RUN = 250; // Stable safe rate limit per 5-minute run
+
+const USER_AGENTS = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15',
+  'Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/605.1.15'
+];
 
 // App Store Categories to query top charts
 const CATEGORIES = {
@@ -125,9 +133,10 @@ async function scrapeApp(appId) {
   const url = `https://apps.apple.com/tw/app/id${appId}`;
   
   try {
+    const randomUA = USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
     const response = await fetch(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'User-Agent': randomUA,
         'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8'
       }
     });
@@ -392,8 +401,9 @@ async function run() {
           status: data ? data.status : 500
         });
       }
-      // Artificial small delay between batches
-      await new Promise(resolve => setTimeout(resolve, 500));
+      // Add randomized human-like jitter delay between 1.0s and 2.5s to bypass CDN patterns
+      const jitterDelay = Math.floor(Math.random() * 1500) + 1000;
+      await new Promise(resolve => setTimeout(resolve, jitterDelay));
     });
 
     // 5. Update Database with scraped results
