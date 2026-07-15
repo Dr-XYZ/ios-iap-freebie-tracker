@@ -12,7 +12,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784137130
+    "last_updated": 1784145056
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -42,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784137130
+    "last_updated": 1784145056
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -102,7 +102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784140994
+    "last_updated": 1784145056
   },
   {
     "id": "961227503:專業工具",
@@ -117,7 +117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784116654
+    "last_updated": 1784145056
   },
   {
     "id": "680170305:Bonus Workout Pack 3",
@@ -517,12 +517,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/8b/3f/898b3f08-5b54-3534-908d-9124a48cc0f8/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
-    "iap_name": "100 Fine Castles of Japan",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784140994
+    "is_free": 0,
+    "last_updated": 1784145056
   },
   {
     "id": "892279069:Constellations of Avengers",
