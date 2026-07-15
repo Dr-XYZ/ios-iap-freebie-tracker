@@ -82,6 +82,7 @@ async function asyncPool(concurrency, array, iteratorFn) {
 async function getTopChartIds() {
   const ids = new Set();
   const highPriorityIds = new Set();
+  const appRanks = {};
   const feeds = [];
 
   // Generate RSS Feed URLs for overall and major categories
