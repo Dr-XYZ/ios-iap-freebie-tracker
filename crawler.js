@@ -47,7 +47,8 @@ function parsePrice(priceStr) {
   // Match digits, periods, and commas (e.g. "NT$ 3,290" -> "3290", "$0.99" -> "0.99")
   const match = clean.match(/[\d,.]+/);
   if (match) {
-    return parseFloat(match[0].replace(/,/g, ''));
+    const val = parseFloat(match[0].replace(/,/g, ''));
+    return isNaN(val) ? null : val;
   }
   return null;
 }

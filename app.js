@@ -56,8 +56,8 @@ function setupRepoLink() {
 // Fetch and load data
 async function loadFreebies() {
   try {
-    // Read the static JSON file in the same directory
-    const response = await fetch('freebies.json');
+    // Read the static JSON file in the same directory (with cache buster for real-time updates)
+    const response = await fetch(`freebies.json?t=${Date.now()}`);
     if (!response.ok) {
       throw new Error(`Failed to load freebies.json: ${response.statusText}`);
     }
