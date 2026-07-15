@@ -77,3 +77,9 @@ graph TD
 ## 📄 開源授權
 
 本專案採用 **[MIT License](LICENSE)** 授權。
+
+---
+
+## 🤖 AI 協同開發聲明
+
+本專案之**爬蟲核心邏輯、動態優先權最大化演算法、反封鎖機制、以及 Glassmorphism 前端網頁與介面安全性優化**，皆是由人類開發者與 **Google DeepMind 的 Antigravity 智慧寫程式助手** 協同 Pair Programming 完成。🤖✨
