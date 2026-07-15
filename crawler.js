@@ -73,6 +73,7 @@ async function asyncPool(concurrency, array, iteratorFn) {
 // Fetch dynamic App Store Top Charts (Free & Paid) across categories
 async function getTopChartIds() {
   const ids = new Set();
+  const highPriorityIds = new Set();
   const feeds = [];
 
   // Generate RSS Feed URLs for overall and major categories
@@ -94,16 +95,26 @@ async function getTopChartIds() {
       if (!res.ok) return;
       const json = await res.json();
       const entries = json.feed?.entry || [];
-      for (const entry of entries) {
+      entries.forEach((entry, index) => {
         const id = entry.id?.attributes?.['im:id'];
-        if (id) ids.add(id.toString());
-      }
+        if (id) {
+          const idStr = id.toString();
+          ids.add(idStr);
+          // If in top 5 of the chart, mark as high priority
+          if (index < 5) {
+            highPriorityIds.add(idStr);
+          }
+        }
+      });
     } catch (err) {
       // Fail silently to avoid clogging logs
     }
   });
 
-  return Array.from(ids);
+  return {
+    allIds: Array.from(ids),
+    highPriorityIds: Array.from(highPriorityIds)
+  };
 }
 
 async function scrapeApp(appId) {
@@ -246,12 +257,12 @@ async function run() {
     }
 
     // 2. Discover App IDs from Top Charts
-    const topChartIds = await getTopChartIds();
-    console.log(`[Discovery] Found ${topChartIds.length} active apps from top charts.`);
+    const { allIds, highPriorityIds } = await getTopChartIds();
+    console.log(`[Discovery] Found ${allIds.length} active apps from top charts, including ${highPriorityIds.length} high priority apps.`);
 
     // Merge newly discovered IDs into our master database list
     const knownAppIdsInDb = new Set(database.map(item => item.app_id));
-    const newAppIdsToInitialize = topChartIds.filter(id => !knownAppIdsInDb.has(id));
+    const newAppIdsToInitialize = allIds.filter(id => !knownAppIdsInDb.has(id));
     
     // Initialize newly discovered apps with dummy records so they enter the round-robin queue
     newAppIdsToInitialize.forEach(appId => {
@@ -276,9 +287,11 @@ async function run() {
 
     // 3. Selection Strategy (Priority Queue & Round-Robin)
     // - Priority 1: User's custom watchlist (always checked)
-    // - Priority 2: Oldest updated apps in the database (Round-Robin)
+    // - Priority 2: High priority top-ranked apps (Top 5 of each chart, always checked)
+    // - Priority 3: Oldest updated apps in the database (Round-Robin)
     
-    const customWatchlistSet = new Set(customWatchlist);
+    const appsToScrape = new Set([...customWatchlist, ...highPriorityIds]);
+    console.log(`[Queue] High-priority scraping target count: ${appsToScrape.size} apps (watchlist + top 5 charts).`);
     
     // Get all unique app IDs in the database, sorted by their oldest check time
     const appLastUpdatedMap = {};
@@ -290,8 +303,7 @@ async function run() {
 
     const sortedAppIds = Object.keys(appLastUpdatedMap).sort((a, b) => appLastUpdatedMap[a] - appLastUpdatedMap[b]);
     
-    const appsToScrape = new Set(customWatchlist);
-    
+    // Fill remaining slots up to MAX_APPS_PER_RUN
     for (const appId of sortedAppIds) {
       if (appsToScrape.size >= MAX_APPS_PER_RUN) break;
       appsToScrape.add(appId);
