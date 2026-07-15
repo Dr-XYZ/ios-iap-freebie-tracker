@@ -21,6 +21,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          # Fetch full history so rebase works correctly after concurrency queue wait
+          fetch-depth: 0
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -45,6 +49,10 @@ jobs:
             echo "No changes in freebies or database. Skipping commit."
           else
             git commit -m "Auto Update: iOS IAP Freebies"
-            git pull --rebase
-            git push
+            # Retry push up to 3 times with rebase to handle race conditions from concurrency queue
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed, retrying..."
+              sleep 5
+            done
           fi
