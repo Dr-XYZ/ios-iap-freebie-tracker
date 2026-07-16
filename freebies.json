@@ -42,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784192966
   },
   {
     "id": "478293637:Promo",
@@ -57,7 +57,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784192966
   },
   {
     "id": "1182856129:Pages",
@@ -72,7 +72,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784115325
+    "last_updated": 1784192966
   },
   {
     "id": "961227503:專業工具",
@@ -87,7 +87,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "680170305:Bonus Workout Pack 3",
@@ -132,7 +132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784192966
   },
   {
     "id": "730712409:AI 空間",
@@ -147,7 +147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784192966
   },
   {
     "id": "730712409:批量相片處理",
@@ -162,7 +162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784192966
   },
   {
     "id": "1095903651:特效7",
@@ -172,12 +172,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
-    "iap_name": "特效7",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "1095903651:特效6",
@@ -187,12 +187,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
-    "iap_name": "特效6",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "1095903651:特效5",
@@ -202,12 +202,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
-    "iap_name": "特效5",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "1095903651:特效4",
@@ -217,12 +217,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
-    "iap_name": "特效4",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "1095903651:特效3",
@@ -232,12 +232,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
-    "iap_name": "特效3",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "1095903651:特效2",
@@ -247,12 +247,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
-    "iap_name": "特效2",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "1095903651:特效1",
@@ -262,12 +262,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
-    "iap_name": "特效1",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "1558783458:Pro version",
@@ -289,7 +289,7 @@
     "app_id": "1570093460",
     "app_name": "OldRoll - 復古底片拍照相機App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/46/0b/4b460b7b-662f-5bda-a98e-1bdaab6bac52/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/db/98/23db9827-e20e-dc9f-ebda-37706029751a/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/oldroll-%E5%BE%A9%E5%8F%A4%E5%BA%95%E7%89%87%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%A9%9F/id1570093460",
     "iap_name": "INS G-0",
@@ -297,7 +297,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784118224
+    "last_updated": 1784192966
   },
   {
     "id": "550101894:離線資料授權",
@@ -312,7 +312,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784118224
+    "last_updated": 1784192966
   },
   {
     "id": "369626098:Enhanced Grid Server Selector",
@@ -367,12 +367,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Garden Sticker Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784155133
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -382,12 +382,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Travel Sticker Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784155133
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "952050883:Unlock All Features",
@@ -397,12 +397,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Unlock All Features",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784155133
+    "is_free": 0,
+    "last_updated": 1784192966
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -447,7 +447,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "623592465:Mix It Up",
@@ -462,7 +462,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "623592465:The Ellen Show",
@@ -477,7 +477,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -492,7 +492,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -642,7 +642,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -657,7 +657,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -672,7 +672,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -687,7 +687,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -702,7 +702,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -717,7 +717,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Gottschalk: The Mutopia Collection",
@@ -732,7 +732,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -747,7 +747,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -762,6 +762,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784183656
+    "last_updated": 1784192966
+  },
+  {
+    "id": "450527929:Unlock Upgrade Features",
+    "app_id": "450527929",
+    "app_name": "djay - DJ App & AI RemixerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/81/eb/0a81ebc9-3eb9-ceac-d5ab-a791a8834205/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/djay-dj-app-ai-remixer/id450527929",
+    "iap_name": "Unlock Upgrade Features",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784192966
   }
 ]
