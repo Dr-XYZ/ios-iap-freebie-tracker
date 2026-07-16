@@ -942,7 +942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784229898
+    "last_updated": 1784233489
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -958,5 +958,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784229898
+  },
+  {
+    "id": "6760171872:Lifetime Premium",
+    "app_id": "6760171872",
+    "app_name": "Blur Photo Editor: Face & BGApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/00/ac/1b00acaa-abb8-223a-cbbb-d3329dd5e834/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/blur-photo-editor-face-bg/id6760171872",
+    "iap_name": "Lifetime Premium",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784233489
   }
 ]
