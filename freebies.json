@@ -27,7 +27,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784175496
+    "last_updated": 1784192236
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -270,21 +270,6 @@
     "last_updated": 1784117904
   },
   {
-    "id": "6757363368:SpeakFit AI Pro Lifetime",
-    "app_id": "6757363368",
-    "app_name": "SpeakFit AI 飲食熱量日誌App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/3f/dc/8c3fdcd6-f23f-d707-6c96-799aafd8487a/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/speakfit-ai-%E9%A3%B2%E9%A3%9F%E7%86%B1%E9%87%8F%E6%97%A5%E8%AA%8C/id6757363368",
-    "iap_name": "SpeakFit AI Pro Lifetime",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784117904
-  },
-  {
     "id": "1558783458:Pro version",
     "app_id": "1558783458",
     "app_name": "小怪獸- 女性按摩器App - App Store",
@@ -432,7 +417,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784140994
+    "last_updated": 1784192236
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -622,12 +607,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784183656
+    "is_free": 0,
+    "last_updated": 1784192236
   },
   {
     "id": "6758056060:100 Fine Castles of Japan",
@@ -637,12 +622,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/af/71/87af7158-3b9c-343d-d478-23e6ba79f8ba/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
-    "iap_name": "100 Fine Castles of Japan",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784183656
+    "is_free": 0,
+    "last_updated": 1784192236
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
