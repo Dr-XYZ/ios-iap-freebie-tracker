@@ -67,12 +67,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
-    "iap_name": "專業工具",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784224975
+    "is_free": 0,
+    "last_updated": 1784237397
   },
   {
     "id": "680170305:Bonus Workout Pack 3",
@@ -117,7 +117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784224975
+    "last_updated": 1784237397
   },
   {
     "id": "730712409:AI 空間",
@@ -132,7 +132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784224975
+    "last_updated": 1784237397
   },
   {
     "id": "730712409:批量相片處理",
@@ -147,7 +147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784224975
+    "last_updated": 1784237397
   },
   {
     "id": "1095903651:特效7",
@@ -427,12 +427,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784229898
+    "is_free": 0,
+    "last_updated": 1784237397
   },
   {
     "id": "623592465:Mix It Up",
@@ -442,12 +442,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784229898
+    "is_free": 0,
+    "last_updated": 1784237397
   },
   {
     "id": "623592465:The Ellen Show",
@@ -457,12 +457,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784229898
+    "is_free": 0,
+    "last_updated": 1784237397
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -472,12 +472,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784229898
+    "is_free": 0,
+    "last_updated": 1784237397
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -492,7 +492,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784237397
   },
   {
     "id": "655607914:A MAJOR'S LOW BLOW",
@@ -507,7 +507,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784237397
   },
   {
     "id": "655607914:BEAST OF SHADOWS",
@@ -522,7 +522,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784237397
   },
   {
     "id": "655607914:DEEP BLUE",
@@ -537,7 +537,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784237397
   },
   {
     "id": "655607914:BEEPING BOBBIE",
@@ -552,7 +552,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784151646
+    "last_updated": 1784237397
   },
   {
     "id": "6757769363:Classic LifeTime Pro",
@@ -900,21 +900,6 @@
     "last_updated": 1784194740
   },
   {
-    "id": "6758056060:100 Fine Castles of Japan",
-    "app_id": "6758056060",
-    "app_name": "我去哪了?App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/af/71/87af7158-3b9c-343d-d478-23e6ba79f8ba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784229898
-  },
-  {
     "id": "1080181813:Pro Version",
     "app_id": "1080181813",
     "app_name": "VocularApp - App Store",
@@ -942,7 +927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784233489
+    "last_updated": 1784237397
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -957,7 +942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784229898
+    "last_updated": 1784237397
   },
   {
     "id": "6760171872:Lifetime Premium",
@@ -973,5 +958,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784233489
+  },
+  {
+    "id": "6758056060:100 Fine Castles of Japan",
+    "app_id": "6758056060",
+    "app_name": "我去哪了?App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/af/71/87af7158-3b9c-343d-d478-23e6ba79f8ba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E6%88%91%E5%8E%BB%E5%93%AA%E4%BA%86/id6758056060",
+    "iap_name": "100 Fine Castles of Japan",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784237397
   }
 ]
