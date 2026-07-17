@@ -97,12 +97,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784276905
+    "is_free": 0,
+    "last_updated": 1784307064
   },
   {
     "id": "730712409:AI 空間",
@@ -112,12 +112,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784276905
+    "is_free": 0,
+    "last_updated": 1784307064
   },
   {
     "id": "730712409:批量相片處理",
@@ -127,12 +127,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784276905
+    "is_free": 0,
+    "last_updated": 1784307064
   },
   {
     "id": "1095903651:特效7",
@@ -912,7 +912,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784297992
+    "last_updated": 1784307064
   },
   {
     "id": "6443877058:TV Remote for Mobile",
@@ -937,12 +937,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784297992
+    "is_free": 0,
+    "last_updated": 1784307064
   },
   {
     "id": "623592465:Just For Kids",
@@ -957,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784297992
+    "last_updated": 1784307064
   },
   {
     "id": "623592465:Mix It Up",
@@ -972,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784297992
+    "last_updated": 1784307064
   },
   {
     "id": "623592465:The Ellen Show",
@@ -987,7 +987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784297992
+    "last_updated": 1784307064
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1002,6 +1002,36 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784297992
+    "last_updated": 1784307064
+  },
+  {
+    "id": "1352687747:Movesense Support",
+    "app_id": "1352687747",
+    "app_name": "HolonApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/dd/45/f4dd451a-5c28-ec85-eda4-e433b552cbfe/holon-appIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/holon/id1352687747",
+    "iap_name": "Movesense Support",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784307064
+  },
+  {
+    "id": "1352687747:Apple Watch support",
+    "app_id": "1352687747",
+    "app_name": "HolonApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/dd/45/f4dd451a-5c28-ec85-eda4-e433b552cbfe/holon-appIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/holon/id1352687747",
+    "iap_name": "Apple Watch support",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784307064
   }
 ]
