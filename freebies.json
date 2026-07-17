@@ -840,21 +840,6 @@
     "last_updated": 1784202441
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784260701
-  },
-  {
     "id": "6760171872:Lifetime Premium",
     "app_id": "6760171872",
     "app_name": "Blur Photo Editor: Face & BGApp - App Store",
@@ -973,5 +958,35 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784268827
+  },
+  {
+    "id": "1439723850:桌面透明小組件",
+    "app_id": "1439723850",
+    "app_name": "Countdown! Reminders and TimerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/e7/6f/4ee76f13-2545-3e9e-f9f1-296a789ec492/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/countdown-reminders-and-timer/id1439723850",
+    "iap_name": "桌面透明小組件",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784274982
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784274982
   }
 ]
