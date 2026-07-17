@@ -292,12 +292,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/0d/e9/2a0de9d7-b86c-bc77-1397-353f95171016/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/remoter-vnc-remote-desktop/id369626098",
-    "iap_name": "Enhanced Grid Server Selector",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784118745
+    "is_free": 0,
+    "last_updated": 1784313910
   },
   {
     "id": "1024395134:Drag and Drop",
@@ -912,7 +912,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784307064
+    "last_updated": 1784313910
   },
   {
     "id": "6443877058:TV Remote for Mobile",
@@ -942,7 +942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784307064
+    "last_updated": 1784313910
   },
   {
     "id": "623592465:Just For Kids",
@@ -957,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784307064
+    "last_updated": 1784313910
   },
   {
     "id": "623592465:Mix It Up",
@@ -972,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784307064
+    "last_updated": 1784313910
   },
   {
     "id": "623592465:The Ellen Show",
@@ -987,7 +987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784307064
+    "last_updated": 1784313910
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1002,7 +1002,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784307064
+    "last_updated": 1784313910
   },
   {
     "id": "1352687747:Movesense Support",
