@@ -222,7 +222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784326871
+    "last_updated": 1784385673
   },
   {
     "id": "550101894:離線資料授權",
@@ -232,12 +232,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/33/1e/b1/331eb188-9020-5e08-e6b9-1c74cc7650db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E9%AB%98%E5%90%89%E5%8D%A0%E6%98%9F-%E5%B0%88%E6%A5%AD%E7%89%88pro-%E6%98%9F%E5%BA%A7%E5%8D%A0%E5%8D%9C%E5%A4%A7%E5%B8%AB/id550101894",
-    "iap_name": "離線資料授權",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784326871
+    "is_free": 0,
+    "last_updated": 1784385673
   },
   {
     "id": "369626098:Enhanced Grid Server Selector",
@@ -702,7 +702,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784320656
+    "last_updated": 1784385673
   },
   {
     "id": "1439723850:桌面透明小組件",
@@ -778,66 +778,6 @@
     "currency": "USD",
     "is_free": 0,
     "last_updated": 1784323705
-  },
-  {
-    "id": "623592465:Just For Kids",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784376668
-  },
-  {
-    "id": "623592465:Mix It Up",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784376668
-  },
-  {
-    "id": "623592465:The Ellen Show",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784376668
-  },
-  {
-    "id": "623592465:Ocean Vacation",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784376668
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -987,7 +927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784382382
+    "last_updated": 1784385673
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1033,5 +973,65 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784382382
+  },
+  {
+    "id": "623592465:Just For Kids",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Just For Kids",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784385673
+  },
+  {
+    "id": "623592465:Mix It Up",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Mix It Up",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784385673
+  },
+  {
+    "id": "623592465:The Ellen Show",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "The Ellen Show",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784385673
+  },
+  {
+    "id": "623592465:Ocean Vacation",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Ocean Vacation",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784385673
   }
 ]
