@@ -417,7 +417,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784326871
+    "last_updated": 1784376668
   },
   {
     "id": "655607914:A MAJOR'S LOW BLOW",
@@ -432,7 +432,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784326871
+    "last_updated": 1784376668
   },
   {
     "id": "655607914:BEAST OF SHADOWS",
@@ -447,7 +447,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784326871
+    "last_updated": 1784376668
   },
   {
     "id": "655607914:DEEP BLUE",
@@ -462,7 +462,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784326871
+    "last_updated": 1784376668
   },
   {
     "id": "655607914:BEEPING BOBBIE",
@@ -477,7 +477,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784326871
+    "last_updated": 1784376668
   },
   {
     "id": "6757769363:Classic LifeTime Pro",
@@ -832,12 +832,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784370214
+    "is_free": 0,
+    "last_updated": 1784376668
   },
   {
     "id": "623592465:Mix It Up",
@@ -847,12 +847,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784370214
+    "is_free": 0,
+    "last_updated": 1784376668
   },
   {
     "id": "623592465:The Ellen Show",
@@ -862,12 +862,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784370214
+    "is_free": 0,
+    "last_updated": 1784376668
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -877,12 +877,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784370214
+    "is_free": 0,
+    "last_updated": 1784376668
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -1032,6 +1032,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784374031
+    "last_updated": 1784376668
   }
 ]
