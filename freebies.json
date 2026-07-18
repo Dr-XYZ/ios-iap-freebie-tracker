@@ -732,7 +732,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784388968
+    "last_updated": 1784396022
   },
   {
     "id": "6443877058:TV Remote for Mobile",
@@ -927,7 +927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784396022
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -942,7 +942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784382382
+    "last_updated": 1784396022
   },
   {
     "id": "730712409:AI 空間",
@@ -957,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784382382
+    "last_updated": 1784396022
   },
   {
     "id": "730712409:批量相片處理",
@@ -972,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784382382
+    "last_updated": 1784396022
   },
   {
     "id": "623592465:Just For Kids",
@@ -1168,5 +1168,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784392324
+  },
+  {
+    "id": "6779157571:Arca Premium Lifetime",
+    "app_id": "6779157571",
+    "app_name": "私密照片保險箱 - ArcaApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/eb/a3/bbeba33e-2925-28c6-d3bc-a791651a124e/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E7%A7%81%E5%AF%86%E7%85%A7%E7%89%87%E4%BF%9D%E9%9A%AA%E7%AE%B1-arca/id6779157571",
+    "iap_name": "Arca Premium Lifetime",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784396022
   }
 ]
