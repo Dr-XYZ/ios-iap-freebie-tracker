@@ -90,51 +90,6 @@
     "last_updated": 1784151646
   },
   {
-    "id": "730712409:ZERO: 直接感測器擷取",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784307064
-  },
-  {
-    "id": "730712409:AI 空間",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784307064
-  },
-  {
-    "id": "730712409:批量相片處理",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784307064
-  },
-  {
     "id": "1095903651:特效7",
     "app_id": "1095903651",
     "app_name": "甜蛙 - 甜甜约会！！！App - App Store",
@@ -777,7 +732,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784374031
+    "last_updated": 1784382382
   },
   {
     "id": "6443877058:TV Remote for Mobile",
@@ -897,7 +852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -912,7 +867,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -927,7 +882,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -942,7 +897,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -957,7 +912,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -972,7 +927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -987,7 +942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1002,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "363738376:Gottschalk: The Mutopia Collection",
@@ -1017,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784382382
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1032,6 +987,51 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784376668
+    "last_updated": 1784382382
+  },
+  {
+    "id": "730712409:ZERO: 直接感測器擷取",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "ZERO: 直接感測器擷取",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784382382
+  },
+  {
+    "id": "730712409:AI 空間",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "AI 空間",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784382382
+  },
+  {
+    "id": "730712409:批量相片處理",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/0a/5e/9d0a5e0b-e9ec-940a-a13b-3cb192eb9bc8/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "批量相片處理",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784382382
   }
 ]
