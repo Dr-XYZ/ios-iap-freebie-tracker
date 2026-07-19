@@ -27,7 +27,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784388968
+    "last_updated": 1784462942
   },
   {
     "id": "478293637:Promo",
@@ -72,7 +72,7 @@
     "original_price": 990,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784460067
+    "last_updated": 1784462942
   },
   {
     "id": "680170305:Bonus Workout Pack 3",
@@ -237,7 +237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784385673
+    "last_updated": 1784462942
   },
   {
     "id": "550101894:離線資料授權",
@@ -477,7 +477,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784403850
+    "last_updated": 1784462942
   },
   {
     "id": "450527929:Unlock Upgrade Features",
@@ -852,7 +852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:比較行星的大小",
@@ -867,7 +867,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:地球週期",
@@ -882,7 +882,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:電影關於日食",
@@ -897,7 +897,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:電影關於月相",
@@ -912,7 +912,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:電影關於緯線",
@@ -927,7 +927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:電影關於 黃道星座",
@@ -942,7 +942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:卡西尼－惠更斯號 (Cassini–Huygens)",
@@ -957,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "347546771:Movies Bundle",
@@ -972,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784392324
+    "last_updated": 1784462942
   },
   {
     "id": "6779157571:Arca Premium Lifetime",
@@ -1102,12 +1102,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Brahms: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1117,12 +1117,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Liszt: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1132,12 +1132,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Tchaikovsky: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1147,12 +1147,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Schumann: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1162,12 +1162,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Burgmüller: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1177,12 +1177,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Satie: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1192,12 +1192,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Haydn: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1207,12 +1207,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Rameau: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784462942
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1222,11 +1222,26 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Händel: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 0,
+    "last_updated": 1784462942
+  },
+  {
+    "id": "443693213:PDFTaxPro",
+    "app_id": "443693213",
+    "app_name": "myFuelLog: Car MaintenanceApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/5f/7d/be/5f7dbe6f-ce9e-8f26-4b07-856c3c5ba091/AppIcon-1x_U007emarketing-85-220-0-6.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/myfuellog-car-maintenance/id443693213",
+    "iap_name": "PDFTaxPro",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784455779
+    "last_updated": 1784462942
   }
 ]
