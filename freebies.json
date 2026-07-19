@@ -60,21 +60,6 @@
     "last_updated": 1784460067
   },
   {
-    "id": "1260277664:Life Time",
-    "app_id": "1260277664",
-    "app_name": "Luxroom - 極影相機 拍照 照片編輯 拍照軟體App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/bf/51/7cbf5130-53c2-a2af-97cb-0351d1ba26b9/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/luxroom-%E6%A5%B5%E5%BD%B1%E7%9B%B8%E6%A9%9F-%E6%8B%8D%E7%85%A7-%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF-%E6%8B%8D%E7%85%A7%E8%BB%9F%E9%AB%94/id1260277664",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 990,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784475462
-  },
-  {
     "id": "680170305:Bonus Workout Pack 3",
     "app_id": "680170305",
     "app_name": "7 分鐘體能訓練 - 7 Minute WorkoutApp - App Store",
@@ -1062,7 +1047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784468898
+    "last_updated": 1784478693
   },
   {
     "id": "730712409:AI 空間",
@@ -1077,7 +1062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784468898
+    "last_updated": 1784478693
   },
   {
     "id": "730712409:批量相片處理",
@@ -1092,7 +1077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784468898
+    "last_updated": 1784478693
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1107,7 +1092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784475462
+    "last_updated": 1784478693
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -1243,5 +1228,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784475462
+  },
+  {
+    "id": "1260277664:Life Time",
+    "app_id": "1260277664",
+    "app_name": "Luxroom - 極影相機 拍照 照片編輯 拍照軟體App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/bf/51/7cbf5130-53c2-a2af-97cb-0351d1ba26b9/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/luxroom-%E6%A5%B5%E5%BD%B1%E7%9B%B8%E6%A9%9F-%E6%8B%8D%E7%85%A7-%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF-%E6%8B%8D%E7%85%A7%E8%BB%9F%E9%AB%94/id1260277664",
+    "iap_name": "Life Time",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784478693
   }
 ]
