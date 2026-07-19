@@ -642,7 +642,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784450073
+    "last_updated": 1784490253
   },
   {
     "id": "1080181813:Pro Version",
@@ -727,12 +727,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784482392
+    "is_free": 0,
+    "last_updated": 1784490253
   },
   {
     "id": "6443877058:TV Remote for Mobile",
@@ -972,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "623592465:Mix It Up",
@@ -987,7 +987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1002,7 +1002,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1017,7 +1017,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "443693213:PDFTaxPro",
@@ -1047,7 +1047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784478693
+    "last_updated": 1784490253
   },
   {
     "id": "730712409:AI 空間",
@@ -1062,7 +1062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784478693
+    "last_updated": 1784490253
   },
   {
     "id": "730712409:批量相片處理",
@@ -1077,7 +1077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784478693
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -1092,7 +1092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1107,7 +1107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1122,7 +1122,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1137,7 +1137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1152,7 +1152,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1167,7 +1167,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1182,7 +1182,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1197,7 +1197,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1212,7 +1212,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784490253
   },
   {
     "id": "1260277664:Life Time",
@@ -1227,7 +1227,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784485918
+    "last_updated": 1784490253
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1242,6 +1242,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784485918
+    "last_updated": 1784490253
   }
 ]
