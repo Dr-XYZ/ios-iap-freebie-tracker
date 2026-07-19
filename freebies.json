@@ -57,7 +57,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784482392
+    "last_updated": 1784502719
   },
   {
     "id": "680170305:Bonus Workout Pack 3",
@@ -957,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784496295
+    "last_updated": 1784502719
   },
   {
     "id": "623592465:Mix It Up",
@@ -972,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784496295
+    "last_updated": 1784502719
   },
   {
     "id": "623592465:The Ellen Show",
@@ -987,7 +987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784496295
+    "last_updated": 1784502719
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1002,7 +1002,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784496295
+    "last_updated": 1784502719
   },
   {
     "id": "443693213:PDFTaxPro",
@@ -1207,12 +1207,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784496295
+    "is_free": 0,
+    "last_updated": 1784502719
   },
   {
     "id": "1260277664:Life Time",
@@ -1227,7 +1227,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784499221
+    "last_updated": 1784502719
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1242,6 +1242,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784499221
+    "last_updated": 1784502719
+  },
+  {
+    "id": "6736862015:Enso Lifetime",
+    "app_id": "6736862015",
+    "app_name": "Enso - Social Media BlockerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/ec/e3/2fece36c-9184-d4a6-8751-7ffa4b90e43d/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/enso-social-media-blocker/id6736862015",
+    "iap_name": "Enso Lifetime",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784502719
   }
 ]
