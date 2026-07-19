@@ -57,7 +57,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784370214
+    "last_updated": 1784460067
   },
   {
     "id": "1260277664:Life Time",
@@ -72,7 +72,7 @@
     "original_price": 990,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784450073
+    "last_updated": 1784460067
   },
   {
     "id": "680170305:Bonus Workout Pack 3",
@@ -367,12 +367,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/autopad-ambient-pad-loops/id1270890718",
-    "iap_name": "Bonus Sounds",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784399491
+    "is_free": 0,
+    "last_updated": 1784460067
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -747,7 +747,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784450073
+    "last_updated": 1784460067
   },
   {
     "id": "6443877058:TV Remote for Mobile",
@@ -1032,7 +1032,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784450073
+    "last_updated": 1784460067
   },
   {
     "id": "623592465:Mix It Up",
@@ -1047,7 +1047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784450073
+    "last_updated": 1784460067
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1062,7 +1062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784450073
+    "last_updated": 1784460067
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1077,7 +1077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784450073
+    "last_updated": 1784460067
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1087,12 +1087,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784455779
+    "is_free": 0,
+    "last_updated": 1784460067
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
