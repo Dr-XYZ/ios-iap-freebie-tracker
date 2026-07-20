@@ -222,7 +222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "550101894:離線資料授權",
@@ -777,7 +777,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:比較行星的大小",
@@ -792,7 +792,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:地球週期",
@@ -807,7 +807,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:電影關於日食",
@@ -822,7 +822,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:電影關於月相",
@@ -837,7 +837,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:電影關於緯線",
@@ -852,7 +852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:電影關於 黃道星座",
@@ -867,7 +867,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:卡西尼－惠更斯號 (Cassini–Huygens)",
@@ -882,7 +882,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "347546771:Movies Bundle",
@@ -897,7 +897,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784462942
+    "last_updated": 1784571383
   },
   {
     "id": "6779157571:Arca Premium Lifetime",
@@ -1003,21 +1003,6 @@
     "currency": "USD",
     "is_free": 0,
     "last_updated": 1784549183
-  },
-  {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784557790
   },
   {
     "id": "6736862015:Enso Lifetime",
@@ -1182,7 +1167,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784563756
+    "last_updated": 1784571383
   },
   {
     "id": "494472589:Batch Watermarking",
@@ -1347,7 +1332,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784563756
+    "last_updated": 1784571383
   },
   {
     "id": "623592465:Mix It Up",
@@ -1362,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784563756
+    "last_updated": 1784571383
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1377,7 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784563756
+    "last_updated": 1784571383
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1392,6 +1377,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784563756
+    "last_updated": 1784571383
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784571383
   }
 ]
