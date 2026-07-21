@@ -987,7 +987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1002,7 +1002,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1017,7 +1017,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1032,7 +1032,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1047,7 +1047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1062,7 +1062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1077,7 +1077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1092,7 +1092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1107,7 +1107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784585562
+    "last_updated": 1784614557
   },
   {
     "id": "494472589:Batch Watermarking",
@@ -1282,12 +1282,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784592581
+    "is_free": 0,
+    "last_updated": 1784614557
   },
   {
     "id": "730712409:AI 空間",
@@ -1297,12 +1297,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784592581
+    "is_free": 0,
+    "last_updated": 1784614557
   },
   {
     "id": "730712409:批量相片處理",
@@ -1312,12 +1312,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784592581
+    "is_free": 0,
+    "last_updated": 1784614557
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1347,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784605224
+    "last_updated": 1784614557
   },
   {
     "id": "623592465:Just For Kids",
@@ -1362,7 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784605224
+    "last_updated": 1784614557
   },
   {
     "id": "623592465:Mix It Up",
@@ -1377,7 +1377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784605224
+    "last_updated": 1784614557
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1392,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784605224
+    "last_updated": 1784614557
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1407,6 +1407,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784605224
+    "last_updated": 1784614557
+  },
+  {
+    "id": "6738013677:終身",
+    "app_id": "6738013677",
+    "app_name": "Waketag：音樂標籤批次編輯器App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/59/1c/3f591c77-52ff-107d-0599-e898455e3342/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/waketag-%E9%9F%B3%E6%A8%82%E6%A8%99%E7%B1%A4%E6%89%B9%E6%AC%A1%E7%B7%A8%E8%BC%AF%E5%99%A8/id6738013677",
+    "iap_name": "終身",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784614557
   }
 ]
