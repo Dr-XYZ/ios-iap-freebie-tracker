@@ -862,12 +862,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/eb/a3/bbeba33e-2925-28c6-d3bc-a791651a124e/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%A7%81%E5%AF%86%E7%85%A7%E7%89%87%E4%BF%9D%E9%9A%AA%E7%AE%B1-arca/id6779157571",
-    "iap_name": "Arca Premium Lifetime",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784506276
+    "is_free": 0,
+    "last_updated": 1784750703
   },
   {
     "id": "970358327:Unlimited Recording",
@@ -1147,12 +1147,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784740582
+    "is_free": 0,
+    "last_updated": 1784750703
   },
   {
     "id": "623592465:Mix It Up",
@@ -1162,12 +1162,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784740582
+    "is_free": 0,
+    "last_updated": 1784750703
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1177,12 +1177,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784740582
+    "is_free": 0,
+    "last_updated": 1784750703
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1192,12 +1192,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784740582
+    "is_free": 0,
+    "last_updated": 1784750703
   },
   {
     "id": "6738013677:終身",
@@ -1242,7 +1242,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1257,7 +1257,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Verdi: The Mutopia Collection",
@@ -1272,7 +1272,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1287,7 +1287,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1302,7 +1302,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1317,7 +1317,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1332,7 +1332,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1347,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1362,7 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784730431
+    "last_updated": 1784750703
   },
   {
     "id": "961227503:專業工具",
@@ -1392,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784740582
+    "last_updated": 1784750703
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1407,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784745346
+    "last_updated": 1784750703
   },
   {
     "id": "6760213216:Lifetime Unlock – Chinese",
@@ -1432,11 +1432,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/9e/4b/3a9e4b64-7efe-8c6c-a599-2894c649ff4a/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002",
-    "iap_name": "全功能終身存取（家庭）",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784745346
+    "is_free": 0,
+    "last_updated": 1784750703
   }
 ]
