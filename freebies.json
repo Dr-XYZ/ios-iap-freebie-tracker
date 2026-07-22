@@ -1167,7 +1167,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784691477
+    "last_updated": 1784700809
   },
   {
     "id": "623592465:Mix It Up",
@@ -1182,7 +1182,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784691477
+    "last_updated": 1784700809
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1197,7 +1197,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784691477
+    "last_updated": 1784700809
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1212,7 +1212,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784691477
+    "last_updated": 1784700809
   },
   {
     "id": "6738013677:終身",
@@ -1245,21 +1245,6 @@
     "last_updated": 1784668962
   },
   {
-    "id": "6740015002:全功能終身存取（家庭）",
-    "app_id": "6740015002",
-    "app_name": "和弦與調音器: Guitar WizApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/9e/4b/3a9e4b64-7efe-8c6c-a599-2894c649ff4a/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784678820
-  },
-  {
     "id": "432850619:Groove Machine Synth",
     "app_id": "432850619",
     "app_name": "FL Studio MobileApp - App Store",
@@ -1267,12 +1252,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/e6/d5/ede6d582-eede-02e5-d406-4c843ba12ddb/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784691477
+    "is_free": 0,
+    "last_updated": 1784700809
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1287,7 +1272,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784691477
+    "last_updated": 1784700809
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -1423,5 +1408,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784691477
+  },
+  {
+    "id": "6740015002:全功能終身存取（家庭）",
+    "app_id": "6740015002",
+    "app_name": "和弦與調音器: Guitar WizApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/9e/4b/3a9e4b64-7efe-8c6c-a599-2894c649ff4a/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002",
+    "iap_name": "全功能終身存取（家庭）",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784700809
   }
 ]
