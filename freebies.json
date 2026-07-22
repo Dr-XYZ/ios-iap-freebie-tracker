@@ -1152,7 +1152,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "623592465:Mix It Up",
@@ -1167,7 +1167,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1182,7 +1182,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1197,7 +1197,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "6738013677:終身",
@@ -1242,7 +1242,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1257,7 +1257,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Verdi: The Mutopia Collection",
@@ -1272,7 +1272,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1287,7 +1287,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1302,7 +1302,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1317,7 +1317,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1332,7 +1332,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1347,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1362,22 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
-  },
-  {
-    "id": "6740015002:全功能終身存取（家庭）",
-    "app_id": "6740015002",
-    "app_name": "和弦與調音器: Guitar WizApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/9e/4b/3a9e4b64-7efe-8c6c-a599-2894c649ff4a/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "961227503:專業工具",
@@ -1407,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784717498
+    "last_updated": 1784730431
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1422,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784730431
   },
   {
     "id": "6760213216:Lifetime Unlock – Chinese",
@@ -1438,5 +1423,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784717498
+  },
+  {
+    "id": "6740015002:全功能終身存取（家庭）",
+    "app_id": "6740015002",
+    "app_name": "和弦與調音器: Guitar WizApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/9e/4b/3a9e4b64-7efe-8c6c-a599-2894c649ff4a/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002",
+    "iap_name": "全功能終身存取（家庭）",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784730431
   }
 ]
