@@ -942,7 +942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:Custom Fonts",
@@ -957,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:Christmas",
@@ -972,7 +972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:Emotions Pack",
@@ -987,7 +987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:horoscopes set",
@@ -1002,7 +1002,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:Funkit",
@@ -1017,7 +1017,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:Cute Cartoons",
@@ -1032,7 +1032,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:eagles set",
@@ -1047,7 +1047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:NewYear",
@@ -1062,7 +1062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "494472589:Stickers",
@@ -1077,7 +1077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784722658
+    "last_updated": 1784811531
   },
   {
     "id": "6761011882:永久會員",
@@ -1260,21 +1260,6 @@
     "last_updated": 1784790702
   },
   {
-    "id": "961227503:專業工具",
-    "app_id": "961227503",
-    "app_name": "燒杯 - BEAKERApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784790702
-  },
-  {
     "id": "6471479898:Blue Cat",
     "app_id": "6471479898",
     "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
@@ -1287,7 +1272,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784799314
+    "last_updated": 1784811531
   },
   {
     "id": "6760213216:Lifetime Unlock – Chinese",
@@ -1305,21 +1290,6 @@
     "last_updated": 1784760443
   },
   {
-    "id": "6740015002:全功能終身存取（家庭）",
-    "app_id": "6740015002",
-    "app_name": "和弦與調音器: Guitar WizApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/9e/4b/3a9e4b64-7efe-8c6c-a599-2894c649ff4a/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784806077
-  },
-  {
     "id": "730712409:ZERO: 直接感測器擷取",
     "app_id": "730712409",
     "app_name": "ProCam - 專業相機App - App Store",
@@ -1327,12 +1297,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784799314
+    "is_free": 0,
+    "last_updated": 1784811531
   },
   {
     "id": "730712409:AI 空間",
@@ -1342,12 +1312,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784799314
+    "is_free": 0,
+    "last_updated": 1784811531
   },
   {
     "id": "730712409:批量相片處理",
@@ -1357,12 +1327,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784799314
+    "is_free": 0,
+    "last_updated": 1784811531
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1377,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784799314
+    "last_updated": 1784811531
   },
   {
     "id": "623592465:Just For Kids",
@@ -1438,5 +1408,35 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784806077
+  },
+  {
+    "id": "6740015002:全功能終身存取（家庭）",
+    "app_id": "6740015002",
+    "app_name": "和弦與調音器: Guitar WizApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/9e/4b/3a9e4b64-7efe-8c6c-a599-2894c649ff4a/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002",
+    "iap_name": "全功能終身存取（家庭）",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784811531
+  },
+  {
+    "id": "961227503:專業工具",
+    "app_id": "961227503",
+    "app_name": "燒杯 - BEAKERApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
+    "iap_name": "專業工具",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784811531
   }
 ]
