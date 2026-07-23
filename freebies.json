@@ -1095,21 +1095,6 @@
     "last_updated": 1784654271
   },
   {
-    "id": "6738013677:終身",
-    "app_id": "6738013677",
-    "app_name": "Waketag：音樂標籤批次編輯器App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/59/1c/3f591c77-52ff-107d-0599-e898455e3342/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/waketag-%E9%9F%B3%E6%A8%82%E6%A8%99%E7%B1%A4%E6%89%B9%E6%AC%A1%E7%B7%A8%E8%BC%AF%E5%99%A8/id6738013677",
-    "iap_name": "終身",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784760443
-  },
-  {
     "id": "680170305:Bonus Workout Pack 4",
     "app_id": "680170305",
     "app_name": "7 分鐘體能訓練 - 7 Minute WorkoutApp - App Store",
@@ -1267,27 +1252,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/4b/c1/974bc1a4-f66f-1447-5f64-810f0b782d23/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/typeflow-chinese/id6760213216",
-    "iap_name": "Lifetime Unlock – Chinese",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784760443
-  },
-  {
-    "id": "961227503:專業工具",
-    "app_id": "961227503",
-    "app_name": "燒杯 - BEAKERApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
     "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784829663
+    "last_updated": 1784846123
   },
   {
     "id": "6787898135:FIT AI Premium Lifetime",
@@ -1362,7 +1332,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784838879
+    "last_updated": 1784846123
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1377,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784838879
+    "last_updated": 1784846123
   },
   {
     "id": "6788200034:Lifetime",
@@ -1407,7 +1377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784838879
+    "last_updated": 1784846123
   },
   {
     "id": "623592465:Mix It Up",
@@ -1422,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784838879
+    "last_updated": 1784846123
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1437,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784838879
+    "last_updated": 1784846123
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1452,6 +1422,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784838879
+    "last_updated": 1784846123
+  },
+  {
+    "id": "961227503:專業工具",
+    "app_id": "961227503",
+    "app_name": "燒杯 - BEAKERApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
+    "iap_name": "專業工具",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784846123
   }
 ]
