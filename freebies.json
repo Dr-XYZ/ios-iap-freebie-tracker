@@ -27,7 +27,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784735895
+    "last_updated": 1784824961
   },
   {
     "id": "478293637:Promo",
@@ -1423,5 +1423,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1784811531
+  },
+  {
+    "id": "6787898135:FIT AI Premium Lifetime",
+    "app_id": "6787898135",
+    "app_name": "減肥飲食計畫卡路里: FIT AIApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/0b/1c/4b0b1c65-bbe2-a73a-f54c-23e955ff40ea/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E6%B8%9B%E8%82%A5%E9%A3%B2%E9%A3%9F%E8%A8%88%E7%95%AB%E5%8D%A1%E8%B7%AF%E9%87%8C-fit-ai/id6787898135",
+    "iap_name": "FIT AI Premium Lifetime",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784824961
   }
 ]
