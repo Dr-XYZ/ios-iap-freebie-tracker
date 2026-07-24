@@ -192,7 +192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784891411
+    "last_updated": 1784935944
   },
   {
     "id": "550101894:離線資料授權",
@@ -1155,21 +1155,6 @@
     "last_updated": 1784908305
   },
   {
-    "id": "1112481571:Constellations of Avengers",
-    "app_id": "1112481571",
-    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/6d/23/f16d239d-06a3-fb6c-06e6-a34c2764521f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784927787
-  },
-  {
     "id": "519994935:Cosmic Eye Pro",
     "app_id": "519994935",
     "app_name": "Cosmic EyeApp - App Store",
@@ -1257,7 +1242,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1272,7 +1257,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "730712409:AI 空間",
@@ -1287,7 +1272,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "730712409:批量相片處理",
@@ -1302,7 +1287,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1317,7 +1302,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784927787
+    "last_updated": 1784935944
   },
   {
     "id": "623592465:Just For Kids",
@@ -1392,7 +1377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1407,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1422,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1437,7 +1422,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1452,7 +1437,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1467,7 +1452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Verdi: The Mutopia Collection",
@@ -1482,7 +1467,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1497,7 +1482,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1512,6 +1497,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784932129
+    "last_updated": 1784935944
+  },
+  {
+    "id": "1112481571:Constellations of Avengers",
+    "app_id": "1112481571",
+    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/6d/23/f16d239d-06a3-fb6c-06e6-a34c2764521f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
+    "iap_name": "Constellations of Avengers",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1784935944
   }
 ]
