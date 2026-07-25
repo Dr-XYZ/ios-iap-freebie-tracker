@@ -342,7 +342,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784923503
+    "last_updated": 1785017644
   },
   {
     "id": "655607914:A MAJOR'S LOW BLOW",
@@ -357,7 +357,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784923503
+    "last_updated": 1785017644
   },
   {
     "id": "655607914:BEAST OF SHADOWS",
@@ -372,7 +372,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784923503
+    "last_updated": 1785017644
   },
   {
     "id": "655607914:DEEP BLUE",
@@ -387,7 +387,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784923503
+    "last_updated": 1785017644
   },
   {
     "id": "655607914:BEEPING BOBBIE",
@@ -402,7 +402,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784923503
+    "last_updated": 1785017644
   },
   {
     "id": "6757769363:Classic LifeTime Pro",
@@ -1132,12 +1132,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/85/09/6185099f-fa17-2d38-16fd-5bfc8e59652c/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/itemia-home-inventory-boxes/id6788200034",
-    "iap_name": "Lifetime",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1784913390
+    "is_free": 0,
+    "last_updated": 1785017644
   },
   {
     "id": "961227503:專業工具",
@@ -1477,12 +1477,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785011282
+    "is_free": 0,
+    "last_updated": 1785017644
   },
   {
     "id": "730712409:AI 空間",
@@ -1492,12 +1492,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785011282
+    "is_free": 0,
+    "last_updated": 1785017644
   },
   {
     "id": "730712409:批量相片處理",
@@ -1507,12 +1507,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785011282
+    "is_free": 0,
+    "last_updated": 1785017644
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1527,6 +1527,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785014627
+    "last_updated": 1785017644
+  },
+  {
+    "id": "6772496637:Family Plus",
+    "app_id": "6772496637",
+    "app_name": "AllowanceGo：兒童零用錢App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/38/44/223844f9-4656-5598-e23d-0061bd08f645/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/allowancego-%E5%85%92%E7%AB%A5%E9%9B%B6%E7%94%A8%E9%8C%A2/id6772496637",
+    "iap_name": "Family Plus",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785017644
   }
 ]
