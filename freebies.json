@@ -27,7 +27,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784979122
+    "last_updated": 1785066447
   },
   {
     "id": "478293637:Promo",
@@ -328,81 +328,6 @@
     "currency": "USD",
     "is_free": 0,
     "last_updated": 1784460067
-  },
-  {
-    "id": "655607914:STANDARD ROCK KIT",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785062299
-  },
-  {
-    "id": "655607914:A MAJOR'S LOW BLOW",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785062299
-  },
-  {
-    "id": "655607914:BEAST OF SHADOWS",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785062299
-  },
-  {
-    "id": "655607914:DEEP BLUE",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785062299
-  },
-  {
-    "id": "655607914:BEEPING BOBBIE",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785062299
   },
   {
     "id": "6757769363:Classic LifeTime Pro",
@@ -1167,7 +1092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784979122
+    "last_updated": 1785066447
   },
   {
     "id": "601467470:Film Pack",
@@ -1392,7 +1317,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785007889
+    "last_updated": 1785066447
   },
   {
     "id": "6772496637:Family Plus",
@@ -1482,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785062299
+    "last_updated": 1785066447
   },
   {
     "id": "6742887304:永久会员",
@@ -1678,5 +1603,80 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1785062299
+  },
+  {
+    "id": "655607914:STANDARD ROCK KIT",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "STANDARD ROCK KIT",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785066447
+  },
+  {
+    "id": "655607914:A MAJOR'S LOW BLOW",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "A MAJOR'S LOW BLOW",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785066447
+  },
+  {
+    "id": "655607914:BEAST OF SHADOWS",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "BEAST OF SHADOWS",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785066447
+  },
+  {
+    "id": "655607914:DEEP BLUE",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "DEEP BLUE",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785066447
+  },
+  {
+    "id": "655607914:BEEPING BOBBIE",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "BEEPING BOBBIE",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785066447
   }
 ]
