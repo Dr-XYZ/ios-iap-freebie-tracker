@@ -192,7 +192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784996041
+    "last_updated": 1785069973
   },
   {
     "id": "550101894:離線資料授權",
@@ -582,7 +582,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1784834751
+    "last_updated": 1785069973
   },
   {
     "id": "1439723850:桌面透明小組件",
@@ -1342,12 +1342,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/e2/ea/11e2ea73-9002-25ec-2a76-6955d45a5055/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785062299
+    "is_free": 0,
+    "last_updated": 1785069973
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1357,12 +1357,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785062299
+    "is_free": 0,
+    "last_updated": 1785069973
   },
   {
     "id": "730712409:AI 空間",
@@ -1372,12 +1372,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785062299
+    "is_free": 0,
+    "last_updated": 1785069973
   },
   {
     "id": "730712409:批量相片處理",
@@ -1387,12 +1387,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785062299
+    "is_free": 0,
+    "last_updated": 1785069973
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1407,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785066447
+    "last_updated": 1785069973
   },
   {
     "id": "6742887304:永久会员",
@@ -1437,7 +1437,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785062299
+    "last_updated": 1785069973
   },
   {
     "id": "623592465:Mix It Up",
@@ -1452,7 +1452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785062299
+    "last_updated": 1785069973
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1467,7 +1467,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785062299
+    "last_updated": 1785069973
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1482,7 +1482,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785062299
+    "last_updated": 1785069973
   },
   {
     "id": "824289194:ヘアサロン・美容室",
@@ -1617,7 +1617,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785066447
+    "last_updated": 1785069973
   },
   {
     "id": "655607914:A MAJOR'S LOW BLOW",
@@ -1632,7 +1632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785066447
+    "last_updated": 1785069973
   },
   {
     "id": "655607914:BEAST OF SHADOWS",
@@ -1647,7 +1647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785066447
+    "last_updated": 1785069973
   },
   {
     "id": "655607914:DEEP BLUE",
@@ -1662,7 +1662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785066447
+    "last_updated": 1785069973
   },
   {
     "id": "655607914:BEEPING BOBBIE",
@@ -1677,6 +1677,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785066447
+    "last_updated": 1785069973
   }
 ]
