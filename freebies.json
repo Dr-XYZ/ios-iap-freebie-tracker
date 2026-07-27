@@ -1335,81 +1335,6 @@
     "last_updated": 1785062299
   },
   {
-    "id": "655607914:STANDARD ROCK KIT",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785098404
-  },
-  {
-    "id": "655607914:A MAJOR'S LOW BLOW",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785098404
-  },
-  {
-    "id": "655607914:BEAST OF SHADOWS",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785098404
-  },
-  {
-    "id": "655607914:DEEP BLUE",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785098404
-  },
-  {
-    "id": "655607914:BEEPING BOBBIE",
-    "app_id": "655607914",
-    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785098404
-  },
-  {
     "id": "369626098:Enhanced Grid Server Selector",
     "app_id": "369626098",
     "app_name": "Remoter VNC - Remote DesktopApp - App Store",
@@ -1452,7 +1377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785108967
+    "last_updated": 1785114832
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -1467,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785087281
+    "last_updated": 1785114832
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -1497,7 +1422,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785108967
+    "last_updated": 1785114832
   },
   {
     "id": "6781162182:Lifetime Pro",
@@ -1527,7 +1452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1542,7 +1467,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1557,7 +1482,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1572,7 +1497,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1587,7 +1512,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1602,7 +1527,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1617,7 +1542,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Verdi: The Mutopia Collection",
@@ -1632,7 +1557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1647,7 +1572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785105409
+    "last_updated": 1785114832
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1662,7 +1587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785108967
+    "last_updated": 1785114832
   },
   {
     "id": "730712409:AI 空間",
@@ -1677,7 +1602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785108967
+    "last_updated": 1785114832
   },
   {
     "id": "730712409:批量相片處理",
@@ -1692,6 +1617,81 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785108967
+    "last_updated": 1785114832
+  },
+  {
+    "id": "655607914:STANDARD ROCK KIT",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "STANDARD ROCK KIT",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785114832
+  },
+  {
+    "id": "655607914:A MAJOR'S LOW BLOW",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "A MAJOR'S LOW BLOW",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785114832
+  },
+  {
+    "id": "655607914:BEAST OF SHADOWS",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "BEAST OF SHADOWS",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785114832
+  },
+  {
+    "id": "655607914:DEEP BLUE",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "DEEP BLUE",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785114832
+  },
+  {
+    "id": "655607914:BEEPING BOBBIE",
+    "app_id": "655607914",
+    "app_name": "Drumtune PRO | Drum TunerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c3/3d/3fc33d04-6d27-2ada-d65c-3793af449bba/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
+    "iap_name": "BEEPING BOBBIE",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785114832
   }
 ]
