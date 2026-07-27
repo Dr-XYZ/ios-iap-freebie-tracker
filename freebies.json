@@ -1107,7 +1107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785066447
+    "last_updated": 1785169019
   },
   {
     "id": "6772496637:Family Plus",
@@ -1282,12 +1282,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
-    "iap_name": "Pro Version",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785140297
+    "is_free": 0,
+    "last_updated": 1785169019
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1542,7 +1542,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785114832
+    "last_updated": 1785169019
   },
   {
     "id": "655607914:A MAJOR'S LOW BLOW",
@@ -1557,7 +1557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785114832
+    "last_updated": 1785169019
   },
   {
     "id": "655607914:BEAST OF SHADOWS",
@@ -1572,7 +1572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785114832
+    "last_updated": 1785169019
   },
   {
     "id": "655607914:DEEP BLUE",
@@ -1587,7 +1587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785114832
+    "last_updated": 1785169019
   },
   {
     "id": "655607914:BEEPING BOBBIE",
@@ -1602,7 +1602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785114832
+    "last_updated": 1785169019
   },
   {
     "id": "623592465:Just For Kids",
@@ -1692,6 +1692,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785160702
+    "last_updated": 1785169019
   }
 ]
