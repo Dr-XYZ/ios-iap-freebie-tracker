@@ -582,7 +582,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:比較行星的大小",
@@ -597,7 +597,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:地球週期",
@@ -612,7 +612,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:電影關於日食",
@@ -627,7 +627,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:電影關於月相",
@@ -642,7 +642,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:電影關於緯線",
@@ -657,7 +657,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:電影關於 黃道星座",
@@ -672,7 +672,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:卡西尼－惠更斯號 (Cassini–Huygens)",
@@ -687,7 +687,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "347546771:Movies Bundle",
@@ -702,7 +702,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "6779157571:Arca Premium Lifetime",
@@ -1032,7 +1032,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "601467470:Color Boost Pack",
@@ -1047,7 +1047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "601467470:B&W Pack",
@@ -1062,7 +1062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "601467470:Grunge Font Pack",
@@ -1077,7 +1077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785185259
+    "last_updated": 1785276787
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -1332,7 +1332,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785263008
+    "last_updated": 1785276787
   },
   {
     "id": "438132417:Full Book Content (Past Purchase)",
@@ -1362,7 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785272607
+    "last_updated": 1785276787
   },
   {
     "id": "427637607:Studio Pack",
@@ -1537,12 +1537,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785268627
+    "is_free": 0,
+    "last_updated": 1785276787
   },
   {
     "id": "730712409:AI 空間",
@@ -1552,12 +1552,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785268627
+    "is_free": 0,
+    "last_updated": 1785276787
   },
   {
     "id": "730712409:批量相片處理",
@@ -1567,12 +1567,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/be/e1/8fbee1f6-8d83-6c6b-e899-8aa705719752/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785268627
+    "is_free": 0,
+    "last_updated": 1785276787
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
