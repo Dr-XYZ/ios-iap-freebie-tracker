@@ -1362,7 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785296106
+    "last_updated": 1785305790
   },
   {
     "id": "427637607:Studio Pack",
@@ -1407,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1422,7 +1422,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1437,7 +1437,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1452,7 +1452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1467,7 +1467,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1482,7 +1482,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1497,7 +1497,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1512,22 +1512,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785268627
-  },
-  {
-    "id": "363738376:Verdi: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Verdi: The Mutopia Collection",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785268627
+    "last_updated": 1785305790
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -1617,7 +1602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785296106
+    "last_updated": 1785305790
   },
   {
     "id": "623592465:Just For Kids",
@@ -1692,7 +1677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785296106
+    "last_updated": 1785305790
   },
   {
     "id": "730712409:AI 空間",
@@ -1707,7 +1692,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785296106
+    "last_updated": 1785305790
   },
   {
     "id": "730712409:批量相片處理",
@@ -1722,6 +1707,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785296106
+    "last_updated": 1785305790
+  },
+  {
+    "id": "363738376:Händel: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Händel: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785305790
   }
 ]
