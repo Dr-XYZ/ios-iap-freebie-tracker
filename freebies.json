@@ -762,7 +762,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785200835
+    "last_updated": 1785343316
   },
   {
     "id": "494472589:Batch Watermarking",
@@ -1272,7 +1272,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785263008
+    "last_updated": 1785343316
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -1335,21 +1335,6 @@
     "last_updated": 1785324796
   },
   {
-    "id": "6471479898:Blue Cat",
-    "app_id": "6471479898",
-    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785338495
-  },
-  {
     "id": "427637607:Studio Pack",
     "app_id": "427637607",
     "app_name": "Anytune Pro: Music Trainer App - App Store",
@@ -1392,7 +1377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1407,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1422,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1437,7 +1422,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1452,7 +1437,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1467,7 +1452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1482,7 +1467,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1497,7 +1482,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -1647,7 +1632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785305790
+    "last_updated": 1785343316
   },
   {
     "id": "478293637:Promo",
@@ -1723,5 +1708,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1785338495
+  },
+  {
+    "id": "6471479898:Blue Cat",
+    "app_id": "6471479898",
+    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
+    "iap_name": "Blue Cat",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785343316
   }
 ]
