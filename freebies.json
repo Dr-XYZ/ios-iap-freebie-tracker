@@ -567,7 +567,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:比較行星的大小",
@@ -582,7 +582,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:地球週期",
@@ -597,7 +597,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:電影關於日食",
@@ -612,7 +612,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:電影關於月相",
@@ -627,7 +627,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:電影關於緯線",
@@ -642,7 +642,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:電影關於 黃道星座",
@@ -657,7 +657,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:卡西尼－惠更斯號 (Cassini–Huygens)",
@@ -672,7 +672,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "347546771:Movies Bundle",
@@ -687,7 +687,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785359213
+    "last_updated": 1785442825
   },
   {
     "id": "6779157571:Arca Premium Lifetime",
@@ -762,7 +762,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785343316
+    "last_updated": 1785442825
   },
   {
     "id": "494472589:Batch Watermarking",
@@ -1627,12 +1627,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/3f/c5/203fc54c-60e5-0795-3686-33675551a0d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785433589
+    "is_free": 0,
+    "last_updated": 1785442825
   },
   {
     "id": "686378579:無限同步",
@@ -1687,12 +1687,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785438132
+    "is_free": 0,
+    "last_updated": 1785442825
   },
   {
     "id": "1515226301:Trial for 14 days",
@@ -1752,7 +1752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785433589
+    "last_updated": 1785442825
   },
   {
     "id": "623592465:Mix It Up",
@@ -1767,7 +1767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785433589
+    "last_updated": 1785442825
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1782,7 +1782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785433589
+    "last_updated": 1785442825
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1797,6 +1797,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785433589
+    "last_updated": 1785442825
   }
 ]
