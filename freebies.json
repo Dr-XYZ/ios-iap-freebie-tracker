@@ -154,7 +154,7 @@
     "app_id": "1570093460",
     "app_name": "OldRoll - 復古底片拍照相機App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/db/98/23db9827-e20e-dc9f-ebda-37706029751a/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/48/0d/a3480df7-a943-c82b-6866-cefe8a1e640d/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/oldroll-%E5%BE%A9%E5%8F%A4%E5%BA%95%E7%89%87%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%A9%9F/id1570093460",
     "iap_name": "INS G-0",
@@ -162,7 +162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785433589
+    "last_updated": 1785525079
   },
   {
     "id": "550101894:離線資料授權",
@@ -747,7 +747,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785272607
+    "last_updated": 1785525079
   },
   {
     "id": "6736862015:Enso Lifetime",
@@ -1077,7 +1077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785263008
+    "last_updated": 1785525079
   },
   {
     "id": "6742887304:永久会员",
@@ -1282,12 +1282,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/cf/d3/f5cfd353-0a50-baaa-7b9a-de15dea3a072/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/blink-quick-notes-widget/id1182856129",
-    "iap_name": "Pages",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785438132
+    "is_free": 0,
+    "last_updated": 1785525079
   },
   {
     "id": "438132417:Full Book Content (Past Purchase)",
@@ -1347,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1362,7 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1377,7 +1377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1392,7 +1392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1407,7 +1407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1422,7 +1422,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1437,7 +1437,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1452,7 +1452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -1542,7 +1542,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785499840
+    "last_updated": 1785525079
   },
   {
     "id": "478293637:Promo",
@@ -1552,12 +1552,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e0/00/d6e000d2-48a4-8e6d-7dfc-5eecd393c4c7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/anytune-pro-studio-tools/id478293637",
-    "iap_name": "Promo",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785508331
+    "is_free": 0,
+    "last_updated": 1785525079
   },
   {
     "id": "686378579:無限同步",
@@ -1812,7 +1812,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785508331
+    "last_updated": 1785525079
   },
   {
     "id": "730712409:AI 空間",
@@ -1827,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785508331
+    "last_updated": 1785525079
   },
   {
     "id": "730712409:批量相片處理",
@@ -1842,7 +1842,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785508331
+    "last_updated": 1785525079
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785514691
+    "last_updated": 1785525079
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1872,6 +1872,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785520570
+    "last_updated": 1785525079
   }
 ]
