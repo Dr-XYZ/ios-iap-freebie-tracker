@@ -975,6 +975,36 @@
     "last_updated": 1785017644
   },
   {
+    "id": "1437345765:音叉",
+    "app_id": "1437345765",
+    "app_name": "三線調音器App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/90/4e/ec904e53-f486-5bf9-e5de-523210a3f24f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E4%B8%89%E7%B7%9A%E8%AA%BF%E9%9F%B3%E5%99%A8/id1437345765",
+    "iap_name": "音叉",
+    "current_price": 0,
+    "original_price": 60,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785604621
+  },
+  {
+    "id": "1437345765:刪除廣告",
+    "app_id": "1437345765",
+    "app_name": "三線調音器App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/90/4e/ec904e53-f486-5bf9-e5de-523210a3f24f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E4%B8%89%E7%B7%9A%E8%AA%BF%E9%9F%B3%E5%99%A8/id1437345765",
+    "iap_name": "刪除廣告",
+    "current_price": 0,
+    "original_price": 60,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785604621
+  },
+  {
     "id": "519994935:Cosmic Eye Pro",
     "app_id": "519994935",
     "app_name": "Cosmic EyeApp - App Store",
@@ -1545,21 +1575,6 @@
     "last_updated": 1785597514
   },
   {
-    "id": "478293637:Promo",
-    "app_id": "478293637",
-    "app_name": "Anytune Pro+: Studio Tools App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e0/00/d6e000d2-48a4-8e6d-7dfc-5eecd393c4c7/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/anytune-pro-studio-tools/id478293637",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785600970
-  },
-  {
     "id": "686378579:無限同步",
     "app_id": "686378579",
     "app_name": "聯絡人同步專業版 (Contacts Sync Pro)App - App Store",
@@ -1747,12 +1762,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785597514
+    "is_free": 0,
+    "last_updated": 1785604621
   },
   {
     "id": "623592465:Mix It Up",
@@ -1762,12 +1777,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785597514
+    "is_free": 0,
+    "last_updated": 1785604621
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1777,12 +1792,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785597514
+    "is_free": 0,
+    "last_updated": 1785604621
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1792,12 +1807,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785597514
+    "is_free": 0,
+    "last_updated": 1785604621
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1812,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785600970
+    "last_updated": 1785604621
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1873,5 +1888,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1785600970
+  },
+  {
+    "id": "478293637:Promo",
+    "app_id": "478293637",
+    "app_name": "Anytune Pro+: Studio Tools App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e0/00/d6e000d2-48a4-8e6d-7dfc-5eecd393c4c7/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/anytune-pro-studio-tools/id478293637",
+    "iap_name": "Promo",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785604621
   }
 ]
