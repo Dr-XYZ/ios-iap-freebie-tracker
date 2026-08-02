@@ -22,12 +22,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2b/70/fd/2b70fd15-52ba-362a-9ca7-e8dd6ca15a65/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/meditation-relax-music-pro/id448200679",
-    "iap_name": "Introduction to Meditation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785588202
+    "is_free": 0,
+    "last_updated": 1785671303
   },
   {
     "id": "1095903651:特效7",
@@ -162,7 +162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785597514
+    "last_updated": 1785671303
   },
   {
     "id": "550101894:離線資料授權",
@@ -1017,7 +1017,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785438132
+    "last_updated": 1785671303
   },
   {
     "id": "601467470:Film Pack",
@@ -1672,12 +1672,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Flanges B16.47",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785585012
+    "is_free": 0,
+    "last_updated": 1785671303
   },
   {
     "id": "361124046:Flange Joint  Bolt Tightening Sequence",
@@ -1687,12 +1687,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Flange Joint  Bolt Tightening Sequence",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785585012
+    "is_free": 0,
+    "last_updated": 1785671303
   },
   {
     "id": "361124046:Pipe Spacing",
@@ -1702,12 +1702,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Pipe Spacing",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785585012
+    "is_free": 0,
+    "last_updated": 1785671303
   },
   {
     "id": "361124046:Orifice Flanges B16.36",
@@ -1717,12 +1717,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Orifice Flanges B16.36",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785585012
+    "is_free": 0,
+    "last_updated": 1785671303
   },
   {
     "id": "361124046:Malleable Iron Fittings",
@@ -1732,12 +1732,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Malleable Iron Fittings",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785585012
+    "is_free": 0,
+    "last_updated": 1785671303
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -1800,21 +1800,6 @@
     "last_updated": 1785667924
   },
   {
-    "id": "6793336267:Lifetime",
-    "app_id": "6793336267",
-    "app_name": "UseBurner Mail: Temp EmailApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/3b/2b/b43b2bae-afad-73bc-dd38-05202e905d78/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/useburner-mail-temp-email/id6793336267",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785662277
-  },
-  {
     "id": "1298766877:AUv3 plugin",
     "app_id": "1298766877",
     "app_name": "Senode - Graph SequencerApp - App Store",
@@ -1842,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785662277
+    "last_updated": 1785671303
   },
   {
     "id": "478293637:Promo",
@@ -1897,11 +1882,26 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 0,
+    "last_updated": 1785671303
+  },
+  {
+    "id": "6793336267:Lifetime",
+    "app_id": "6793336267",
+    "app_name": "UseBurner Mail: Temp EmailApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/3b/2b/b43b2bae-afad-73bc-dd38-05202e905d78/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/useburner-mail-temp-email/id6793336267",
+    "iap_name": "Lifetime",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785667924
+    "last_updated": 1785671303
   }
 ]
