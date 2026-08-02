@@ -1762,12 +1762,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/3f/c5/203fc54c-60e5-0795-3686-33675551a0d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785687442
+    "is_free": 0,
+    "last_updated": 1785694463
   },
   {
     "id": "478293637:Promo",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785691124
+    "last_updated": 1785694463
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785684017
+    "last_updated": 1785694463
   },
   {
     "id": "730712409:AI 空間",
@@ -1917,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785684017
+    "last_updated": 1785694463
   },
   {
     "id": "730712409:批量相片處理",
@@ -1932,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785684017
+    "last_updated": 1785694463
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
