@@ -1572,7 +1572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785623234
+    "last_updated": 1785706049
   },
   {
     "id": "686378579:自動同步",
@@ -1587,7 +1587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785623234
+    "last_updated": 1785706049
   },
   {
     "id": "961227503:專業工具",
@@ -1842,7 +1842,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785702702
+    "last_updated": 1785706049
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785694463
+    "last_updated": 1785706049
   },
   {
     "id": "730712409:AI 空間",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785694463
+    "last_updated": 1785706049
   },
   {
     "id": "730712409:批量相片處理",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785694463
+    "last_updated": 1785706049
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -1912,12 +1912,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785699309
+    "is_free": 0,
+    "last_updated": 1785706049
   },
   {
     "id": "623592465:Mix It Up",
@@ -1927,12 +1927,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785699309
+    "is_free": 0,
+    "last_updated": 1785706049
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1942,12 +1942,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785699309
+    "is_free": 0,
+    "last_updated": 1785706049
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1957,12 +1957,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785699309
+    "is_free": 0,
+    "last_updated": 1785706049
   },
   {
     "id": "432850619:Groove Machine Synth",
