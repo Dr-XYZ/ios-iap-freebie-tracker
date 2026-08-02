@@ -1012,12 +1012,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "Film Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785619499
+    "is_free": 0,
+    "last_updated": 1785699309
   },
   {
     "id": "601467470:Color Boost Pack",
@@ -1027,12 +1027,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "Color Boost Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785619499
+    "is_free": 0,
+    "last_updated": 1785699309
   },
   {
     "id": "601467470:B&W Pack",
@@ -1042,12 +1042,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "B&W Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785619499
+    "is_free": 0,
+    "last_updated": 1785699309
   },
   {
     "id": "601467470:Grunge Font Pack",
@@ -1057,12 +1057,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "Grunge Font Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785619499
+    "is_free": 0,
+    "last_updated": 1785699309
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -1845,36 +1845,6 @@
     "last_updated": 1785674631
   },
   {
-    "id": "623592465:Love Island USA Fan Deck",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785691124
-  },
-  {
-    "id": "623592465:Heads Up! - BYO Free Deck",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785691124
-  },
-  {
     "id": "6471479898:Blue Cat",
     "app_id": "6471479898",
     "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
@@ -1887,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785694463
+    "last_updated": 1785699309
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1947,6 +1917,66 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785691124
+    "last_updated": 1785699309
+  },
+  {
+    "id": "623592465:Just For Kids",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Just For Kids",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785699309
+  },
+  {
+    "id": "623592465:Mix It Up",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Mix It Up",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785699309
+  },
+  {
+    "id": "623592465:The Ellen Show",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "The Ellen Show",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785699309
+  },
+  {
+    "id": "623592465:Ocean Vacation",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Ocean Vacation",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785699309
   }
 ]
