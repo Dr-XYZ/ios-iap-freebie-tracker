@@ -1432,12 +1432,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/8d/25/678d259e-f158-8ebb-b547-9b468d372b91/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/chorus-lesson/id1515226301",
-    "iap_name": "Trial for 14 days",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785623234
+    "is_free": 0,
+    "last_updated": 1785879612
   },
   {
     "id": "1515226301:BWV226-1 Bars 1-145",
@@ -1447,12 +1447,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/8d/25/678d259e-f158-8ebb-b547-9b468d372b91/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/chorus-lesson/id1515226301",
-    "iap_name": "BWV226-1 Bars 1-145",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785623234
+    "is_free": 0,
+    "last_updated": 1785879612
   },
   {
     "id": "1515226301:BWV227 All through",
@@ -1462,12 +1462,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/8d/25/678d259e-f158-8ebb-b547-9b468d372b91/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/chorus-lesson/id1515226301",
-    "iap_name": "BWV227 All through",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785623234
+    "is_free": 0,
+    "last_updated": 1785879612
   },
   {
     "id": "361124046:Flanges B16.47",
@@ -1737,7 +1737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785780913
+    "last_updated": 1785879612
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785869730
+    "last_updated": 1785879612
   },
   {
     "id": "623592465:Mix It Up",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785869730
+    "last_updated": 1785879612
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1917,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785869730
+    "last_updated": 1785879612
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1932,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785869730
+    "last_updated": 1785879612
   },
   {
     "id": "961227503:專業工具",
@@ -1977,7 +1977,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785879612
   },
   {
     "id": "951251308:Full Edition: Unlimited Projects & Exporting",
@@ -1992,7 +1992,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785857892
+    "last_updated": 1785879612
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -2007,7 +2007,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785869730
+    "last_updated": 1785879612
   },
   {
     "id": "6791968686:stampout lifetime",
@@ -2052,7 +2052,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785874760
+    "last_updated": 1785879612
   },
   {
     "id": "974402184:赏善罚恶令",
