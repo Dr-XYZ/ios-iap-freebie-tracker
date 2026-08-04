@@ -1752,7 +1752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1767,7 +1767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1782,7 +1782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1797,7 +1797,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1812,7 +1812,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1827,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1842,7 +1842,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785834536
+    "last_updated": 1785869730
   },
   {
     "id": "623592465:Just For Kids",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785857892
+    "last_updated": 1785869730
   },
   {
     "id": "623592465:Mix It Up",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785857892
+    "last_updated": 1785869730
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1917,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785857892
+    "last_updated": 1785869730
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1932,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785857892
+    "last_updated": 1785869730
   },
   {
     "id": "961227503:專業工具",
@@ -1942,12 +1942,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
-    "iap_name": "專業工具",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785849445
+    "is_free": 0,
+    "last_updated": 1785869730
   },
   {
     "id": "478293637:Promo",
@@ -1962,7 +1962,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785849445
+    "last_updated": 1785869730
   },
   {
     "id": "1558783458:Pro version",
@@ -2007,7 +2007,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785857892
+    "last_updated": 1785869730
   },
   {
     "id": "6471479898:Blue Cat",
@@ -2017,12 +2017,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785863809
+    "is_free": 0,
+    "last_updated": 1785869730
   },
   {
     "id": "6791968686:stampout lifetime",
