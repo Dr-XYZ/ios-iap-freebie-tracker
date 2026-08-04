@@ -1707,7 +1707,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785799169
+    "last_updated": 1785824096
   },
   {
     "id": "730712409:AI 空間",
@@ -1722,7 +1722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785799169
+    "last_updated": 1785824096
   },
   {
     "id": "730712409:批量相片處理",
@@ -1737,7 +1737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785799169
+    "last_updated": 1785824096
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -1767,7 +1767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785795255
+    "last_updated": 1785824096
   },
   {
     "id": "1067575393:移除廣告",
@@ -1947,7 +1947,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785814902
+    "last_updated": 1785824096
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1957,12 +1957,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/3f/c5/203fc54c-60e5-0795-3686-33675551a0d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785814902
+    "is_free": 0,
+    "last_updated": 1785824096
   },
   {
     "id": "623592465:Just For Kids",
@@ -1977,7 +1977,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785814902
+    "last_updated": 1785824096
   },
   {
     "id": "623592465:Mix It Up",
@@ -1992,7 +1992,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785814902
+    "last_updated": 1785824096
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2007,7 +2007,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785814902
+    "last_updated": 1785824096
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -2022,6 +2022,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785814902
+    "last_updated": 1785824096
   }
 ]
