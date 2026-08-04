@@ -987,7 +987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785671303
+    "last_updated": 1785886926
   },
   {
     "id": "601467470:Film Pack",
@@ -1587,7 +1587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785843114
+    "last_updated": 1785886926
   },
   {
     "id": "406541444:倒計時主題",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785879612
+    "last_updated": 1785886926
   },
   {
     "id": "623592465:Mix It Up",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785879612
+    "last_updated": 1785886926
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1917,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785879612
+    "last_updated": 1785886926
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1932,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785879612
+    "last_updated": 1785886926
   },
   {
     "id": "961227503:專業工具",
@@ -1962,7 +1962,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785869730
+    "last_updated": 1785886926
   },
   {
     "id": "1558783458:Pro version",
@@ -2007,7 +2007,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785879612
+    "last_updated": 1785886926
   },
   {
     "id": "6791968686:stampout lifetime",
@@ -2017,12 +2017,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/43/60/7c436085-f29c-9723-08e8-9e793d3e8ae1/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/stampout-photo-stamp-camera/id6791968686",
-    "iap_name": "stampout lifetime",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785843114
+    "is_free": 0,
+    "last_updated": 1785886926
   },
   {
     "id": "1182856129:Pages",
@@ -2037,7 +2037,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785874760
+    "last_updated": 1785886926
   },
   {
     "id": "6471479898:Blue Cat",
@@ -2052,7 +2052,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785886926
   },
   {
     "id": "974402184:赏善罚恶令",
