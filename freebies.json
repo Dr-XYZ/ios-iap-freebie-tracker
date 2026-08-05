@@ -165,36 +165,6 @@
     "last_updated": 1784385673
   },
   {
-    "id": "1024395134:Drag and Drop",
-    "app_id": "1024395134",
-    "app_name": "Yam DisplayApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/57/15/2d5715d8-121f-92da-0378-b3ee2fc4bec9/AppIcon_yamdisplay-0-0-1x_U007emarketing-0-10-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/yam-display/id1024395134",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784224975
-  },
-  {
-    "id": "1024395134:Teleprompter Mode",
-    "app_id": "1024395134",
-    "app_name": "Yam DisplayApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/57/15/2d5715d8-121f-92da-0378-b3ee2fc4bec9/AppIcon_yamdisplay-0-0-1x_U007emarketing-0-10-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/yam-display/id1024395134",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784224975
-  },
-  {
     "id": "952050883:Garden Sticker Pack",
     "app_id": "952050883",
     "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
@@ -552,7 +522,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:比較行星的大小",
@@ -567,7 +537,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:地球週期",
@@ -582,7 +552,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:電影關於日食",
@@ -597,7 +567,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:電影關於月相",
@@ -612,7 +582,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:電影關於緯線",
@@ -627,7 +597,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:電影關於 黃道星座",
@@ -642,7 +612,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:卡西尼－惠更斯號 (Cassini–Huygens)",
@@ -657,7 +627,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "347546771:Movies Bundle",
@@ -672,7 +642,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785883331
+    "last_updated": 1785972797
   },
   {
     "id": "6779157571:Arca Premium Lifetime",
@@ -1747,12 +1717,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Brahms: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1762,12 +1732,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Liszt: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1777,12 +1747,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Schumann: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1792,12 +1762,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Burgmüller: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1807,12 +1777,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Satie: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1822,12 +1792,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Tchaikovsky: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1837,12 +1807,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Haydn: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1852,12 +1822,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Rameau: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1867,12 +1837,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Händel: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785955344
+    "is_free": 0,
+    "last_updated": 1785972797
   },
   {
     "id": "623592465:Just For Kids",
@@ -1887,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785965561
+    "last_updated": 1785972797
   },
   {
     "id": "623592465:Mix It Up",
@@ -1902,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785965561
+    "last_updated": 1785972797
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1917,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785965561
+    "last_updated": 1785972797
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1932,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785965561
+    "last_updated": 1785972797
   },
   {
     "id": "961227503:專業工具",
@@ -2007,7 +1977,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785965561
+    "last_updated": 1785972797
   },
   {
     "id": "6791968686:stampout lifetime",
@@ -2052,7 +2022,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785874760
+    "last_updated": 1785972797
   },
   {
     "id": "6471479898:Blue Cat",
@@ -2067,6 +2037,36 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785969389
+    "last_updated": 1785972797
+  },
+  {
+    "id": "1024395134:Drag and Drop",
+    "app_id": "1024395134",
+    "app_name": "Yam DisplayApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/57/15/2d5715d8-121f-92da-0378-b3ee2fc4bec9/AppIcon_yamdisplay-0-0-1x_U007emarketing-0-10-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/yam-display/id1024395134",
+    "iap_name": "Drag and Drop",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785972797
+  },
+  {
+    "id": "1024395134:Teleprompter Mode",
+    "app_id": "1024395134",
+    "app_name": "Yam DisplayApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/57/15/2d5715d8-121f-92da-0378-b3ee2fc4bec9/AppIcon_yamdisplay-0-0-1x_U007emarketing-0-10-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/yam-display/id1024395134",
+    "iap_name": "Teleprompter Mode",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1785972797
   }
 ]
