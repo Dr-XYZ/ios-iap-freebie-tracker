@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785988661
+    "last_updated": 1785997577
   },
   {
     "id": "623592465:Mix It Up",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785988661
+    "last_updated": 1785997577
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785988661
+    "last_updated": 1785997577
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785988661
+    "last_updated": 1785997577
   },
   {
     "id": "961227503:專業工具",
@@ -1972,12 +1972,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/3f/c5/203fc54c-60e5-0795-3686-33675551a0d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785988661
+    "is_free": 0,
+    "last_updated": 1785997577
   },
   {
     "id": "6791968686:stampout lifetime",
@@ -2067,6 +2067,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785988661
+    "last_updated": 1785997577
   }
 ]
