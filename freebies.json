@@ -1537,12 +1537,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/94/b3/63/94b36359-f98b-2ef5-f80b-b86032aa13b0/AppIcon-1x_U007emarketing-85-220-0-6.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/relax-melodies-p-sleep-sounds/id331529422",
-    "iap_name": "Free for Life Promo",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786083550
+    "is_free": 0,
+    "last_updated": 1786119254
   },
   {
     "id": "406541444:倒計時主題",
@@ -2007,7 +2007,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786116363
+    "last_updated": 1786119254
   },
   {
     "id": "432850619:Groove Machine Synth",
