@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786134056
+    "last_updated": 1786139413
   },
   {
     "id": "623592465:Mix It Up",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786134056
+    "last_updated": 1786139413
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786134056
+    "last_updated": 1786139413
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1917,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786134056
+    "last_updated": 1786139413
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1927,12 +1927,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786134056
+    "is_free": 0,
+    "last_updated": 1786139413
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -2097,6 +2097,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786136662
+    "last_updated": 1786139413
   }
 ]
