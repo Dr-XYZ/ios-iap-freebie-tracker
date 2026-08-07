@@ -240,21 +240,6 @@
     "last_updated": 1784581918
   },
   {
-    "id": "450527929:Unlock Upgrade Features",
-    "app_id": "450527929",
-    "app_name": "djay - DJ App & AI RemixerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/81/eb/0a81ebc9-3eb9-ceac-d5ab-a791a8834205/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/djay-dj-app-ai-remixer/id450527929",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784370214
-  },
-  {
     "id": "1598130789:所有內容",
     "app_id": "1598130789",
     "app_name": "Company of Heroes CollectionApp - App Store",
@@ -702,7 +687,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785965561
+    "last_updated": 1786134056
   },
   {
     "id": "6736862015:Enso Lifetime",
@@ -1527,7 +1512,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785965561
+    "last_updated": 1786134056
   },
   {
     "id": "331529422:Free for Life Promo",
@@ -1867,12 +1852,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786131675
+    "is_free": 0,
+    "last_updated": 1786134056
   },
   {
     "id": "6499069241:终身会员 • 随心付 L1",
@@ -1902,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786128825
+    "last_updated": 1786134056
   },
   {
     "id": "623592465:Mix It Up",
@@ -1917,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786128825
+    "last_updated": 1786134056
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1932,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786128825
+    "last_updated": 1786134056
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1947,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786128825
+    "last_updated": 1786134056
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -1962,7 +1947,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786128825
+    "last_updated": 1786134056
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -2098,5 +2083,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786128825
+  },
+  {
+    "id": "450527929:Unlock Upgrade Features",
+    "app_id": "450527929",
+    "app_name": "djay - DJ App & AI RemixerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/e3/bf/8ae3bfc5-6104-3406-3449-88f3489d4a39/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/djay-dj-app-ai-remixer/id450527929",
+    "iap_name": "Unlock Upgrade Features",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786134056
   }
 ]
