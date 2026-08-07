@@ -1617,7 +1617,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785955344
+    "last_updated": 1786131675
   },
   {
     "id": "1067575393:移除廣告",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786128825
+    "last_updated": 1786131675
   },
   {
     "id": "6499069241:终身会员 • 随心付 L1",
@@ -1882,12 +1882,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/15/b0/f015b080-32f4-8584-945b-cedf407adedf/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.jpeg/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/truenoiser/id6499069241",
-    "iap_name": "终身会员 • 随心付 L1",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786112944
+    "is_free": 0,
+    "last_updated": 1786131675
   },
   {
     "id": "623592465:Just For Kids",
