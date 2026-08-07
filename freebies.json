@@ -1972,12 +1972,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/autopad-ambient-pad-loops/id1270890718",
-    "iap_name": "Bonus Sounds",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786101869
+    "is_free": 0,
+    "last_updated": 1786112944
   },
   {
     "id": "623592465:Just For Kids",
@@ -2067,7 +2067,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786108988
+    "last_updated": 1786112944
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -2083,5 +2083,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786108988
+  },
+  {
+    "id": "6499069241:终身会员 • 随心付 L1",
+    "app_id": "6499069241",
+    "app_name": "TrueNoiserApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/15/b0/f015b080-32f4-8584-945b-cedf407adedf/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.jpeg/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/truenoiser/id6499069241",
+    "iap_name": "终身会员 • 随心付 L1",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786112944
   }
 ]
