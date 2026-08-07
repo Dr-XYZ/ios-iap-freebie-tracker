@@ -42,7 +42,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784192966
+    "last_updated": 1786098686
   },
   {
     "id": "1095903651:特效6",
@@ -57,7 +57,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784192966
+    "last_updated": 1786098686
   },
   {
     "id": "1095903651:特效5",
@@ -72,7 +72,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784192966
+    "last_updated": 1786098686
   },
   {
     "id": "1095903651:特效4",
@@ -87,7 +87,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784192966
+    "last_updated": 1786098686
   },
   {
     "id": "1095903651:特效3",
@@ -102,7 +102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784192966
+    "last_updated": 1786098686
   },
   {
     "id": "1095903651:特效2",
@@ -117,7 +117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784192966
+    "last_updated": 1786098686
   },
   {
     "id": "1095903651:特效1",
@@ -132,7 +132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1784192966
+    "last_updated": 1786098686
   },
   {
     "id": "1570093460:INS G-0",
@@ -922,12 +922,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/90/4e/ec904e53-f486-5bf9-e5de-523210a3f24f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E4%B8%89%E7%B7%9A%E8%AA%BF%E9%9F%B3%E5%99%A8/id1437345765",
-    "iap_name": "音叉",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 60,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785874760
+    "is_free": 0,
+    "last_updated": 1786098686
   },
   {
     "id": "1437345765:刪除廣告",
@@ -937,12 +937,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/90/4e/ec904e53-f486-5bf9-e5de-523210a3f24f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E4%B8%89%E7%B7%9A%E8%AA%BF%E9%9F%B3%E5%99%A8/id1437345765",
-    "iap_name": "刪除廣告",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 60,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1785874760
+    "is_free": 0,
+    "last_updated": 1786098686
   },
   {
     "id": "519994935:Cosmic Eye Pro",
@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1917,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1932,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1947,7 +1947,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1962,7 +1962,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1977,7 +1977,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786098686
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -2007,7 +2007,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786095566
+    "last_updated": 1786098686
   },
   {
     "id": "623592465:Just For Kids",
