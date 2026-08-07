@@ -957,7 +957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1785886926
+    "last_updated": 1786101869
   },
   {
     "id": "601467470:Film Pack",
@@ -1822,12 +1822,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786095566
+    "is_free": 0,
+    "last_updated": 1786101869
   },
   {
     "id": "1182856129:Pages",
@@ -1992,7 +1992,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786088800
+    "last_updated": 1786101869
   },
   {
     "id": "6471479898:Blue Cat",
@@ -2002,12 +2002,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786098686
+    "is_free": 0,
+    "last_updated": 1786101869
   },
   {
     "id": "623592465:Just For Kids",
@@ -2022,7 +2022,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786095566
+    "last_updated": 1786101869
   },
   {
     "id": "623592465:Mix It Up",
@@ -2037,7 +2037,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786095566
+    "last_updated": 1786101869
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2052,7 +2052,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786095566
+    "last_updated": 1786101869
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -2067,6 +2067,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786095566
+    "last_updated": 1786101869
+  },
+  {
+    "id": "467703220:\"Playdate With Elmo\" Pack",
+    "app_id": "467703220",
+    "app_name": "Elmo CallsApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/50/6a/58506a20-06a6-2c4b-2920-04225c667f0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/elmo-calls/id467703220",
+    "iap_name": "\"Playdate With Elmo\" Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786101869
   }
 ]
