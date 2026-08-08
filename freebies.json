@@ -1737,7 +1737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786187781
+    "last_updated": 1786222037
   },
   {
     "id": "1182856129:Pages",
@@ -1747,12 +1747,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/cf/d3/f5cfd353-0a50-baaa-7b9a-de15dea3a072/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/blink-quick-notes-widget/id1182856129",
-    "iap_name": "Pages",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786215474
+    "is_free": 0,
+    "last_updated": 1786222037
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -1762,12 +1762,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b1/fa/14b1fa16-63bc-4cff-5938-c6e74cd3e746/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786215474
+    "is_free": 0,
+    "last_updated": 1786222037
   },
   {
     "id": "730712409:AI 空間",
@@ -1777,12 +1777,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b1/fa/14b1fa16-63bc-4cff-5938-c6e74cd3e746/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786215474
+    "is_free": 0,
+    "last_updated": 1786222037
   },
   {
     "id": "730712409:批量相片處理",
@@ -1792,12 +1792,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b1/fa/14b1fa16-63bc-4cff-5938-c6e74cd3e746/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786215474
+    "is_free": 0,
+    "last_updated": 1786222037
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -2142,7 +2142,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786218707
+    "last_updated": 1786222037
   },
   {
     "id": "1464645812:所有內容",
@@ -2442,7 +2442,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786218707
+    "last_updated": 1786222037
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -2592,7 +2592,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786218707
+    "last_updated": 1786222037
   },
   {
     "id": "623592465:Mix It Up",
@@ -2607,7 +2607,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786218707
+    "last_updated": 1786222037
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2622,7 +2622,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786218707
+    "last_updated": 1786222037
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -2637,7 +2637,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786218707
+    "last_updated": 1786222037
   },
   {
     "id": "6471479898:Blue Cat",
@@ -2652,7 +2652,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786219993
+    "last_updated": 1786222037
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
