@@ -1822,12 +1822,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/5d/27/ec5d2793-4336-9a4d-2a6c-67bd6b141dad/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/tiff-fax-viewer/id418331607",
-    "iap_name": "無限TIFF文件",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786141378
+    "is_free": 0,
+    "last_updated": 1786187781
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -1977,7 +1977,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786147341
+    "last_updated": 1786187781
   },
   {
     "id": "1182856129:Pages",
@@ -2052,7 +2052,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786182653
+    "last_updated": 1786187781
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -2203,5 +2203,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786186374
+  },
+  {
+    "id": "912314964:i-FlashDrive 容量升級",
+    "app_id": "912314964",
+    "app_name": "PhotoFast ONEApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/7d/58/817d5813-1550-d625-c327-d37433fe8e3f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/photofast-one/id912314964",
+    "iap_name": "i-FlashDrive 容量升級",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786187781
   }
 ]
