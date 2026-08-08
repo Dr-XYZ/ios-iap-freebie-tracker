@@ -1747,12 +1747,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786189508
+    "is_free": 0,
+    "last_updated": 1786194337
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -1782,7 +1782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1797,7 +1797,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1812,7 +1812,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1827,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1842,7 +1842,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786189508
+    "last_updated": 1786194337
   },
   {
     "id": "550101894:離線資料授權",
@@ -1978,21 +1978,6 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786182653
-  },
-  {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786187781
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -2137,12 +2122,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/e8/0e/23e80e80-1bdf-1689-098a-80ef8c87971e/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/star-walk-2-pro-%E8%A7%80%E6%98%9F%E8%BB%9F%E4%BB%B6%E5%92%8C%E6%98%9F%E7%A9%BA%E5%9C%B0%E5%9C%96/id892279069",
-    "iap_name": "Constellations of Avengers",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786186374
+    "is_free": 0,
+    "last_updated": 1786194337
   },
   {
     "id": "912314964:i-FlashDrive 容量升級",
@@ -2302,12 +2287,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786190594
+    "is_free": 0,
+    "last_updated": 1786194337
   },
   {
     "id": "623592465:Mix It Up",
@@ -2317,12 +2302,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786190594
+    "is_free": 0,
+    "last_updated": 1786194337
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2332,12 +2317,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786190594
+    "is_free": 0,
+    "last_updated": 1786194337
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -2347,12 +2332,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786190594
+    "is_free": 0,
+    "last_updated": 1786194337
   },
   {
     "id": "650415564:Outfitter Formula Pack",
@@ -2383,5 +2368,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786190594
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786194337
   }
 ]
