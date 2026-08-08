@@ -1827,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1917,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1932,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1947,7 +1947,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -1962,7 +1962,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -1977,7 +1977,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786177544
+    "last_updated": 1786180110
   },
   {
     "id": "550101894:離線資料授權",
@@ -2113,5 +2113,80 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786177544
+  },
+  {
+    "id": "938571723:Cupcake Mania",
+    "app_id": "938571723",
+    "app_name": "Pastel Keyboard Themes ColorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ab/e7/39abe79f-31a8-29a1-63e4-485b1b8174cf/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/pastel-keyboard-themes-color/id938571723",
+    "iap_name": "Cupcake Mania",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786180110
+  },
+  {
+    "id": "938571723:Retro Pastel Pack",
+    "app_id": "938571723",
+    "app_name": "Pastel Keyboard Themes ColorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ab/e7/39abe79f-31a8-29a1-63e4-485b1b8174cf/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/pastel-keyboard-themes-color/id938571723",
+    "iap_name": "Retro Pastel Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786180110
+  },
+  {
+    "id": "938571723:Thailand Flag",
+    "app_id": "938571723",
+    "app_name": "Pastel Keyboard Themes ColorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ab/e7/39abe79f-31a8-29a1-63e4-485b1b8174cf/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/pastel-keyboard-themes-color/id938571723",
+    "iap_name": "Thailand Flag",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786180110
+  },
+  {
+    "id": "938571723:Little Mod",
+    "app_id": "938571723",
+    "app_name": "Pastel Keyboard Themes ColorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ab/e7/39abe79f-31a8-29a1-63e4-485b1b8174cf/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/pastel-keyboard-themes-color/id938571723",
+    "iap_name": "Little Mod",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786180110
+  },
+  {
+    "id": "938571723:Pastel Color Way Pack",
+    "app_id": "938571723",
+    "app_name": "Pastel Keyboard Themes ColorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ab/e7/39abe79f-31a8-29a1-63e4-485b1b8174cf/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/pastel-keyboard-themes-color/id938571723",
+    "iap_name": "Pastel Color Way Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786180110
   }
 ]
