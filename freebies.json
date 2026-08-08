@@ -135,51 +135,6 @@
     "last_updated": 1785787177
   },
   {
-    "id": "952050883:Garden Sticker Pack",
-    "app_id": "952050883",
-    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785362990
-  },
-  {
-    "id": "952050883:Travel Sticker Pack",
-    "app_id": "952050883",
-    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785362990
-  },
-  {
-    "id": "952050883:Unlock All Features",
-    "app_id": "952050883",
-    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/84/1a/91841a85-3a79-0a73-2065-39f643dfe02d/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785362990
-  },
-  {
     "id": "6757769363:Classic LifeTime Pro",
     "app_id": "6757769363",
     "app_name": "iGrooveMuseApp - App Store",
@@ -1617,7 +1572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786092038
+    "last_updated": 1786177544
   },
   {
     "id": "961227503:專業工具",
@@ -1797,7 +1752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786172615
+    "last_updated": 1786177544
   },
   {
     "id": "623592465:Mix It Up",
@@ -1812,7 +1767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786172615
+    "last_updated": 1786177544
   },
   {
     "id": "623592465:The Ellen Show",
@@ -1827,7 +1782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786172615
+    "last_updated": 1786177544
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -1842,7 +1797,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786172615
+    "last_updated": 1786177544
   },
   {
     "id": "450527929:Unlock Upgrade Features",
@@ -1857,7 +1812,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786134056
+    "last_updated": 1786177544
   },
   {
     "id": "6471479898:Blue Cat",
@@ -1872,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -1902,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -1917,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -1932,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -1947,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -1962,7 +1917,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -1977,7 +1932,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -1992,7 +1947,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -2007,7 +1962,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -2022,7 +1977,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786175685
+    "last_updated": 1786177544
   },
   {
     "id": "550101894:離線資料授權",
@@ -2107,11 +2062,56 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 0,
+    "last_updated": 1786177544
+  },
+  {
+    "id": "952050883:Garden Sticker Pack",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/4f/c6/1d4fc620-175e-4eec-e3e6-530218d88b92/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Garden Sticker Pack",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786172615
+    "last_updated": 1786177544
+  },
+  {
+    "id": "952050883:Travel Sticker Pack",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/4f/c6/1d4fc620-175e-4eec-e3e6-530218d88b92/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Travel Sticker Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786177544
+  },
+  {
+    "id": "952050883:Unlock All Features",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/4f/c6/1d4fc620-175e-4eec-e3e6-530218d88b92/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Unlock All Features",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786177544
   }
 ]
