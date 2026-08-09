@@ -2742,7 +2742,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786280947
+    "last_updated": 1786283775
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -2818,5 +2818,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786280947
+  },
+  {
+    "id": "6746359965:Pro - 季度訂閱 (KOL)",
+    "app_id": "6746359965",
+    "app_name": "Colorby - AI追色 & 你的風格庫App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/1a/a2/7d1aa284-fa38-7fd0-e1e6-ba123a6e0acd/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/colorby-ai%E8%BF%BD%E8%89%B2-%E4%BD%A0%E7%9A%84%E9%A2%A8%E6%A0%BC%E5%BA%AB/id6746359965",
+    "iap_name": "Pro - 季度訂閱 (KOL)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786283775
   }
 ]
