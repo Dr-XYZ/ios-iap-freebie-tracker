@@ -315,21 +315,6 @@
     "last_updated": 1784834751
   },
   {
-    "id": "1339418001:Minimoog Classics",
-    "app_id": "1339418001",
-    "app_name": "Minimoog Model D SynthesizerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a6/be/02a6becf-cfce-2ed0-4c51-6cc40d23fcac/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/minimoog-model-d-synthesizer/id1339418001",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784668962
-  },
-  {
     "id": "6760171872:Lifetime Premium",
     "app_id": "6760171872",
     "app_name": "Blur Photo Editor: Face & BGApp - App Store",
@@ -1497,7 +1482,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786255865
+    "last_updated": 1786291269
   },
   {
     "id": "1558783458:Pro version",
@@ -1632,7 +1617,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786262495
+    "last_updated": 1786291269
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -2772,7 +2757,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786289642
+    "last_updated": 1786291269
   },
   {
     "id": "623592465:Just For Kids",
@@ -2833,5 +2818,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786289642
+  },
+  {
+    "id": "1339418001:Minimoog Classics",
+    "app_id": "1339418001",
+    "app_name": "Minimoog Model D SynthesizerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a6/be/02a6becf-cfce-2ed0-4c51-6cc40d23fcac/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/minimoog-model-d-synthesizer/id1339418001",
+    "iap_name": "Minimoog Classics",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786291269
   }
 ]
