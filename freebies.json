@@ -1552,12 +1552,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/1c/7a/59/1c7a598f-ce6c-11b3-50fd-c2f8bc1e5205/mzl.jpopkhql.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E5%8D%95%E6%9C%BA%E8%B5%B5%E4%BA%91%E4%BC%A0-0%E5%85%83%E5%86%85%E8%B4%AD/id974402184",
-    "iap_name": "赏善罚恶令",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786226605
+    "is_free": 0,
+    "last_updated": 1786262495
   },
   {
     "id": "1024395134:Drag and Drop",
@@ -1632,7 +1632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786212797
+    "last_updated": 1786262495
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -2307,7 +2307,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -2322,7 +2322,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -2337,7 +2337,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -2352,7 +2352,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -2367,7 +2367,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -2382,7 +2382,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -2397,7 +2397,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -2412,7 +2412,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -2427,7 +2427,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786262495
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -2577,7 +2577,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786259652
+    "last_updated": 1786262495
   },
   {
     "id": "6499069241:终身会员 • 随心付 L1",
@@ -2587,12 +2587,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/15/b0/f015b080-32f4-8584-945b-cedf407adedf/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.jpeg/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/truenoiser/id6499069241",
-    "iap_name": "终身会员 • 随心付 L1",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786255865
+    "is_free": 0,
+    "last_updated": 1786262495
   },
   {
     "id": "1536417255:Gallia & Corsica",
