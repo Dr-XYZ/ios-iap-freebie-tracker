@@ -2007,7 +2007,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "1464645812:所有內容",
@@ -2302,12 +2302,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/15/b0/f015b080-32f4-8584-945b-cedf407adedf/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.jpeg/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/truenoiser/id6499069241",
-    "iap_name": "终身会员 • 随心付 L1",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786239698
+    "is_free": 0,
+    "last_updated": 1786245641
   },
   {
     "id": "623592465:Just For Kids",
@@ -2317,12 +2317,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786239698
+    "is_free": 0,
+    "last_updated": 1786245641
   },
   {
     "id": "623592465:Mix It Up",
@@ -2332,12 +2332,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786239698
+    "is_free": 0,
+    "last_updated": 1786245641
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2347,12 +2347,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786239698
+    "is_free": 0,
+    "last_updated": 1786245641
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -2362,12 +2362,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786239698
+    "is_free": 0,
+    "last_updated": 1786245641
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -2397,7 +2397,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -2412,7 +2412,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -2427,7 +2427,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -2442,7 +2442,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -2457,7 +2457,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -2472,7 +2472,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -2487,7 +2487,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -2502,7 +2502,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -2517,7 +2517,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786239698
+    "last_updated": 1786245641
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -2607,7 +2607,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786233531
+    "last_updated": 1786245641
   },
   {
     "id": "730712409:AI 空間",
@@ -2622,7 +2622,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786233531
+    "last_updated": 1786245641
   },
   {
     "id": "730712409:批量相片處理",
@@ -2637,7 +2637,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786233531
+    "last_updated": 1786245641
   },
   {
     "id": "1182856129:Pages",
@@ -2662,11 +2662,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786239698
+    "is_free": 0,
+    "last_updated": 1786245641
   }
 ]
