@@ -1497,7 +1497,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786211174
+    "last_updated": 1786255865
   },
   {
     "id": "1558783458:Pro version",
@@ -2295,21 +2295,6 @@
     "last_updated": 1786205128
   },
   {
-    "id": "6499069241:终身会员 • 随心付 L1",
-    "app_id": "6499069241",
-    "app_name": "TrueNoiserApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/15/b0/f015b080-32f4-8584-945b-cedf407adedf/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.jpeg/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/truenoiser/id6499069241",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786245641
-  },
-  {
     "id": "623592465:Just For Kids",
     "app_id": "623592465",
     "app_name": "Heads Up!App - App Store",
@@ -2667,6 +2652,36 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786253574
+    "last_updated": 1786255865
+  },
+  {
+    "id": "6499069241:终身会员 • 随心付 L1",
+    "app_id": "6499069241",
+    "app_name": "TrueNoiserApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/15/b0/f015b080-32f4-8584-945b-cedf407adedf/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.jpeg/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/truenoiser/id6499069241",
+    "iap_name": "终身会员 • 随心付 L1",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786255865
+  },
+  {
+    "id": "1536417255:Gallia & Corsica",
+    "app_id": "1536417255",
+    "app_name": "Concordia: Digital EditionApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/97/b6/3097b6ef-8bb9-847e-cb5f-812e2eac7d28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/concordia-digital-edition/id1536417255",
+    "iap_name": "Gallia & Corsica",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786255865
   }
 ]
