@@ -2280,49 +2280,19 @@
     "last_updated": 1786273995
   },
   {
-    "id": "680170305:Bonus Workout Pack 1",
+    "id": "680170305:Bonus Workout Pack 4",
     "app_id": "680170305",
     "app_name": "7 分鐘體能訓練 - 7 Minute WorkoutApp - App Store",
     "developer": "Unknown Developer",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/41/c4/3041c481-fa64-bd59-5c86-50d3c6569fe5/AppIcon-1x_U007emarketing-1-85-220.jpeg/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/7-%E5%88%86%E9%90%98%E9%AB%94%E8%83%BD%E8%A8%93%E7%B7%B4-7-minute-workout/id680170305",
-    "iap_name": "Bonus Workout Pack 1",
+    "iap_name": "Bonus Workout Pack 4",
     "current_price": 0,
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786265597
-  },
-  {
-    "id": "680170305:Bonus Workout Pack 2",
-    "app_id": "680170305",
-    "app_name": "7 分鐘體能訓練 - 7 Minute WorkoutApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/41/c4/3041c481-fa64-bd59-5c86-50d3c6569fe5/AppIcon-1x_U007emarketing-1-85-220.jpeg/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/7-%E5%88%86%E9%90%98%E9%AB%94%E8%83%BD%E8%A8%93%E7%B7%B4-7-minute-workout/id680170305",
-    "iap_name": "Bonus Workout Pack 2",
-    "current_price": 0,
-    "original_price": 60,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786265597
-  },
-  {
-    "id": "680170305:Bonus Workout Pack 3",
-    "app_id": "680170305",
-    "app_name": "7 分鐘體能訓練 - 7 Minute WorkoutApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/41/c4/3041c481-fa64-bd59-5c86-50d3c6569fe5/AppIcon-1x_U007emarketing-1-85-220.jpeg/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/7-%E5%88%86%E9%90%98%E9%AB%94%E8%83%BD%E8%A8%93%E7%B7%B4-7-minute-workout/id680170305",
-    "iap_name": "Bonus Workout Pack 3",
-    "current_price": 0,
-    "original_price": 30,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786265597
+    "last_updated": 1786275886
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -2602,12 +2572,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786273995
+    "is_free": 0,
+    "last_updated": 1786275886
   },
   {
     "id": "6499069241:终身会员 • 随心付 L1",
