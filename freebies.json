@@ -597,7 +597,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786230108
+    "last_updated": 1786319179
   },
   {
     "id": "6736862015:Enso Lifetime",
@@ -1347,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786230108
+    "last_updated": 1786319179
   },
   {
     "id": "331529422:Free for Life Promo",
@@ -1467,7 +1467,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786232159
+    "last_updated": 1786319179
   },
   {
     "id": "6791968686:stampout lifetime",
@@ -1767,7 +1767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786319179
   },
   {
     "id": "588013838:The Aesthetic Series",
@@ -2082,7 +2082,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786273995
+    "last_updated": 1786319179
   },
   {
     "id": "1016313601:Feed Source for Instagram",
@@ -2097,7 +2097,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786273995
+    "last_updated": 1786319179
   },
   {
     "id": "1444383602:Goodnotes 6 免費試用",
@@ -2172,7 +2172,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786273995
+    "last_updated": 1786319179
   },
   {
     "id": "382418196:Hazard Symbols",
@@ -2187,7 +2187,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786273995
+    "last_updated": 1786319179
   },
   {
     "id": "382418196:Memes",
@@ -2202,7 +2202,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786273995
+    "last_updated": 1786319179
   },
   {
     "id": "382418196:AWS",
@@ -2217,7 +2217,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786273995
+    "last_updated": 1786319179
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -2563,21 +2563,6 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786317235
-  },
-  {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786315750
   },
   {
     "id": "406541444:倒計時主題",
@@ -2937,7 +2922,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786317235
+    "last_updated": 1786319179
   },
   {
     "id": "1458958919:Video",
@@ -2967,7 +2952,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786315750
+    "last_updated": 1786319179
   },
   {
     "id": "623592465:Mix It Up",
@@ -2982,7 +2967,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786315750
+    "last_updated": 1786319179
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2997,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786315750
+    "last_updated": 1786319179
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3012,6 +2997,51 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786315750
+    "last_updated": 1786319179
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786319179
+  },
+  {
+    "id": "1149994032:Auto",
+    "app_id": "1149994032",
+    "app_name": "Facetune：圖片、影片、相片編輯，全方位美顏自拍神器App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/6e/83/a96e8360-bf41-2669-0a79-a152d1c46d1f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/facetune-%E5%9C%96%E7%89%87-%E5%BD%B1%E7%89%87-%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF-%E5%85%A8%E6%96%B9%E4%BD%8D%E7%BE%8E%E9%A1%8F%E8%87%AA%E6%8B%8D%E7%A5%9E%E5%99%A8/id1149994032",
+    "iap_name": "Auto",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786319179
+  },
+  {
+    "id": "1149994032:燈光效果",
+    "app_id": "1149994032",
+    "app_name": "Facetune：圖片、影片、相片編輯，全方位美顏自拍神器App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/6e/83/a96e8360-bf41-2669-0a79-a152d1c46d1f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/facetune-%E5%9C%96%E7%89%87-%E5%BD%B1%E7%89%87-%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF-%E5%85%A8%E6%96%B9%E4%BD%8D%E7%BE%8E%E9%A1%8F%E8%87%AA%E6%8B%8D%E7%A5%9E%E5%99%A8/id1149994032",
+    "iap_name": "燈光效果",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786319179
   }
 ]
