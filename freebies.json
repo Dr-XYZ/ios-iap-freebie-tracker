@@ -1365,51 +1365,6 @@
     "last_updated": 1786119254
   },
   {
-    "id": "406541444:倒計時主題",
-    "app_id": "406541444",
-    "app_name": "8mm Vintage CameraApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/37/d2/5237d29f-44dc-5dc6-2a56-75bc2d88ce57/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785713274
-  },
-  {
-    "id": "406541444:炫光主題",
-    "app_id": "406541444",
-    "app_name": "8mm Vintage CameraApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/37/d2/5237d29f-44dc-5dc6-2a56-75bc2d88ce57/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785713274
-  },
-  {
-    "id": "406541444:默片主題",
-    "app_id": "406541444",
-    "app_name": "8mm Vintage CameraApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/37/d2/5237d29f-44dc-5dc6-2a56-75bc2d88ce57/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785713274
-  },
-  {
     "id": "686525577:離線數據",
     "app_id": "686525577",
     "app_name": "聖經新約舊約英文朗讀有聲全集The Holy BibleApp - App Store",
@@ -2277,7 +2232,7 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786297608
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -2670,21 +2625,6 @@
     "last_updated": 1786277038
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786293717
-  },
-  {
     "id": "6746359965:Pro - 季度訂閱 (KOL)",
     "app_id": "6746359965",
     "app_name": "Colorby - AI追色 & 你的風格庫App - App Store",
@@ -2712,7 +2652,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786295580
+    "last_updated": 1786297608
   },
   {
     "id": "623592465:Just For Kids",
@@ -2727,7 +2667,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786293717
+    "last_updated": 1786297608
   },
   {
     "id": "623592465:Mix It Up",
@@ -2742,7 +2682,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786293717
+    "last_updated": 1786297608
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2757,7 +2697,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786293717
+    "last_updated": 1786297608
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -2772,7 +2712,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786293717
+    "last_updated": 1786297608
   },
   {
     "id": "1339418001:Minimoog Classics",
@@ -2833,5 +2773,65 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786293717
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786297608
+  },
+  {
+    "id": "406541444:倒計時主題",
+    "app_id": "406541444",
+    "app_name": "8mm Vintage CameraApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/37/d2/5237d29f-44dc-5dc6-2a56-75bc2d88ce57/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444",
+    "iap_name": "倒計時主題",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786297608
+  },
+  {
+    "id": "406541444:炫光主題",
+    "app_id": "406541444",
+    "app_name": "8mm Vintage CameraApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/37/d2/5237d29f-44dc-5dc6-2a56-75bc2d88ce57/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444",
+    "iap_name": "炫光主題",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786297608
+  },
+  {
+    "id": "406541444:默片主題",
+    "app_id": "406541444",
+    "app_name": "8mm Vintage CameraApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/37/d2/5237d29f-44dc-5dc6-2a56-75bc2d88ce57/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/8mm-vintage-camera/id406541444",
+    "iap_name": "默片主題",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786297608
   }
 ]
