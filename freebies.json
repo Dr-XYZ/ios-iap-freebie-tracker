@@ -150,21 +150,6 @@
     "last_updated": 1784913390
   },
   {
-    "id": "412380315:Version 4: Complete Features Bundle",
-    "app_id": "412380315",
-    "app_name": "Symphony Pro - Music NotationApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/97/e6/3b97e64e-a3bb-97e1-b8dc-5bd6ba477eb2/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/symphony-pro-music-notation/id412380315",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784581918
-  },
-  {
     "id": "1598130789:所有內容",
     "app_id": "1598130789",
     "app_name": "Company of Heroes CollectionApp - App Store",
@@ -2787,7 +2772,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786319179
+    "last_updated": 1786359656
   },
   {
     "id": "1149994032:燈光效果",
@@ -2802,7 +2787,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786319179
+    "last_updated": 1786359656
   },
   {
     "id": "6471479898:Blue Cat",
@@ -2817,7 +2802,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786355783
+    "last_updated": 1786359656
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3058,5 +3043,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786355783
+  },
+  {
+    "id": "412380315:Version 4: Complete Features Bundle",
+    "app_id": "412380315",
+    "app_name": "Symphony Pro - Music NotationApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/97/e6/3b97e64e-a3bb-97e1-b8dc-5bd6ba477eb2/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/symphony-pro-music-notation/id412380315",
+    "iap_name": "Version 4: Complete Features Bundle",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786359656
   }
 ]
