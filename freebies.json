@@ -2310,21 +2310,6 @@
     "last_updated": 1786287601
   },
   {
-    "id": "1182856129:Pages",
-    "app_id": "1182856129",
-    "app_name": "Blink - Quick Notes & WidgetApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/cf/d3/f5cfd353-0a50-baaa-7b9a-de15dea3a072/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/blink-quick-notes-widget/id1182856129",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786285583
-  },
-  {
     "id": "6499069241:终身会员 • 随心付 L1",
     "app_id": "6499069241",
     "app_name": "TrueNoiserApp - App Store",
@@ -2907,7 +2892,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786345167
+    "last_updated": 1786350430
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3043,5 +3028,35 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786345167
+  },
+  {
+    "id": "1182856129:Pages",
+    "app_id": "1182856129",
+    "app_name": "Blink - Quick Notes & WidgetApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/cf/d3/f5cfd353-0a50-baaa-7b9a-de15dea3a072/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/blink-quick-notes-widget/id1182856129",
+    "iap_name": "Pages",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786350430
+  },
+  {
+    "id": "6761483717:Expirify Pro Lifetime",
+    "app_id": "6761483717",
+    "app_name": "ExpirifyApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/b3/e3/28b3e340-fb93-b96e-7934-5bccf95fca24/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/expirify/id6761483717",
+    "iap_name": "Expirify Pro Lifetime",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786350430
   }
 ]
