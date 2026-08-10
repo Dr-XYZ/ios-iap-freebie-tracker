@@ -2337,7 +2337,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "1460011387:TW 帳戶圖示包 2",
@@ -2352,7 +2352,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "1460011387:TW 帳戶圖示包 3",
@@ -2367,7 +2367,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "1460011387:TW 帳戶圖示包 4",
@@ -2382,7 +2382,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "1460011387:TW 帳戶圖示包 5",
@@ -2397,7 +2397,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "1460011387:TW 帳戶圖示包 6",
@@ -2412,7 +2412,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "1460011387:TW 帳戶圖示包 7",
@@ -2427,7 +2427,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "1460011387:TW 帳戶圖示包 9",
@@ -2442,7 +2442,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786277038
+    "last_updated": 1786400565
   },
   {
     "id": "6746359965:Pro - 季度訂閱 (KOL)",
@@ -3135,21 +3135,6 @@
     "last_updated": 1786391060
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786396018
-  },
-  {
     "id": "730712409:ZERO: 直接感測器擷取",
     "app_id": "730712409",
     "app_name": "ProCam - 專業相機App - App Store",
@@ -3193,5 +3178,35 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786396018
+  },
+  {
+    "id": "1062358764:Teleprompter Mode",
+    "app_id": "1062358764",
+    "app_name": "Yam AirApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/87/5f/d6875fb5-bad6-3d43-f907-89f8e6fd9cf6/AppIcon_yamair-1x_U007emarketing-0-10-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/yam-air/id1062358764",
+    "iap_name": "Teleprompter Mode",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786400565
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786400565
   }
 ]
