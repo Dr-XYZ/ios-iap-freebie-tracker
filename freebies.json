@@ -3012,7 +3012,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786398840
+    "last_updated": 1786402880
   },
   {
     "id": "623592465:Mix It Up",
@@ -3027,7 +3027,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786398840
+    "last_updated": 1786402880
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3042,7 +3042,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786398840
+    "last_updated": 1786402880
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3057,7 +3057,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786398840
+    "last_updated": 1786402880
   },
   {
     "id": "970358327:Unlimited Recording",
@@ -3072,22 +3072,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786378024
-  },
-  {
-    "id": "6471479898:Blue Cat",
-    "app_id": "6471479898",
-    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786398840
+    "last_updated": 1786402880
   },
   {
     "id": "6759009234:Business Speak Premium Lifetime ",
@@ -3142,12 +3127,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786396018
+    "is_free": 0,
+    "last_updated": 1786402880
   },
   {
     "id": "730712409:AI 空間",
@@ -3157,12 +3142,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786396018
+    "is_free": 0,
+    "last_updated": 1786402880
   },
   {
     "id": "730712409:批量相片處理",
@@ -3172,12 +3157,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786396018
+    "is_free": 0,
+    "last_updated": 1786402880
   },
   {
     "id": "1062358764:Teleprompter Mode",
@@ -3208,5 +3193,50 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786400565
+  },
+  {
+    "id": "6471479898:Blue Cat",
+    "app_id": "6471479898",
+    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
+    "iap_name": "Blue Cat",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786402880
+  },
+  {
+    "id": "802792057:音叉",
+    "app_id": "802792057",
+    "app_name": "小提琴調音器專業版 - Violin Tuner ProApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/28/a6/2228a6b2-f7e4-7983-e202-6ee193389a03/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%B0%8F%E6%8F%90%E7%90%B4%E8%AA%BF%E9%9F%B3%E5%99%A8%E5%B0%88%E6%A5%AD%E7%89%88-violin-tuner-pro/id802792057",
+    "iap_name": "音叉",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786402880
+  },
+  {
+    "id": "802792057:設置",
+    "app_id": "802792057",
+    "app_name": "小提琴調音器專業版 - Violin Tuner ProApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/28/a6/2228a6b2-f7e4-7983-e202-6ee193389a03/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%B0%8F%E6%8F%90%E7%90%B4%E8%AA%BF%E9%9F%B3%E5%99%A8%E5%B0%88%E6%A5%AD%E7%89%88-violin-tuner-pro/id802792057",
+    "iap_name": "設置",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786402880
   }
 ]
