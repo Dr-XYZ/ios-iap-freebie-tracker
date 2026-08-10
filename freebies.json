@@ -1737,7 +1737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786319179
+    "last_updated": 1786387752
   },
   {
     "id": "588013838:The Aesthetic Series",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786309985
+    "last_updated": 1786387752
   },
   {
     "id": "650415564:X-Film Bundle",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786309985
+    "last_updated": 1786387752
   },
   {
     "id": "1464645812:所有內容",
@@ -2707,12 +2707,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/6e/83/a96e8360-bf41-2669-0a79-a152d1c46d1f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/facetune-%E5%9C%96%E7%89%87-%E5%BD%B1%E7%89%87-%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF-%E5%85%A8%E6%96%B9%E4%BD%8D%E7%BE%8E%E9%A1%8F%E8%87%AA%E6%8B%8D%E7%A5%9E%E5%99%A8/id1149994032",
-    "iap_name": "Auto",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786359656
+    "is_free": 0,
+    "last_updated": 1786387752
   },
   {
     "id": "1149994032:燈光效果",
@@ -2722,12 +2722,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/6e/83/a96e8360-bf41-2669-0a79-a152d1c46d1f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/facetune-%E5%9C%96%E7%89%87-%E5%BD%B1%E7%89%87-%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF-%E5%85%A8%E6%96%B9%E4%BD%8D%E7%BE%8E%E9%A1%8F%E8%87%AA%E6%8B%8D%E7%A5%9E%E5%99%A8/id1149994032",
-    "iap_name": "燈光效果",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786359656
+    "is_free": 0,
+    "last_updated": 1786387752
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -2892,7 +2892,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786350430
+    "last_updated": 1786387752
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3022,12 +3022,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786381505
+    "is_free": 0,
+    "last_updated": 1786387752
   },
   {
     "id": "730712409:AI 空間",
@@ -3037,12 +3037,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786381505
+    "is_free": 0,
+    "last_updated": 1786387752
   },
   {
     "id": "730712409:批量相片處理",
@@ -3052,12 +3052,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786381505
+    "is_free": 0,
+    "last_updated": 1786387752
   },
   {
     "id": "623592465:Just For Kids",
@@ -3072,7 +3072,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786384632
+    "last_updated": 1786387752
   },
   {
     "id": "623592465:Mix It Up",
@@ -3087,7 +3087,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786384632
+    "last_updated": 1786387752
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3102,7 +3102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786384632
+    "last_updated": 1786387752
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3117,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786384632
+    "last_updated": 1786387752
   },
   {
     "id": "970358327:Unlimited Recording",
@@ -3147,6 +3147,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786384632
+    "last_updated": 1786387752
+  },
+  {
+    "id": "6759009234:Business Speak Premium Lifetime ",
+    "app_id": "6759009234",
+    "app_name": "Business Speak AI: Job EnglishApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/16/39/fd163982-f99d-f472-b005-7f470430614f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/business-speak-ai-job-english/id6759009234",
+    "iap_name": "Business Speak Premium Lifetime ",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786387752
   }
 ]
