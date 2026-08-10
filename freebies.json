@@ -1092,7 +1092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1785169019
+    "last_updated": 1786391060
   },
   {
     "id": "6781162182:Lifetime Pro",
@@ -2895,21 +2895,6 @@
     "last_updated": 1786387752
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786384632
-  },
-  {
     "id": "412380315:Version 4: Complete Features Bundle",
     "app_id": "412380315",
     "app_name": "Symphony Pro - Music NotationApp - App Store",
@@ -3072,7 +3057,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786391060
   },
   {
     "id": "623592465:Mix It Up",
@@ -3087,7 +3072,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786391060
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3102,7 +3087,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786391060
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3117,7 +3102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786391060
   },
   {
     "id": "970358327:Unlimited Recording",
@@ -3147,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786391060
   },
   {
     "id": "6759009234:Business Speak Premium Lifetime ",
@@ -3163,5 +3148,50 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786387752
+  },
+  {
+    "id": "1152749877:香檳金主題",
+    "app_id": "1152749877",
+    "app_name": "舒適注音 ProApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/9c/a9/8a9ca93c-da81-5d94-b96f-ff08d6eba24d/AppIcon-Zhuyin-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E8%88%92%E9%81%A9%E6%B3%A8%E9%9F%B3-pro/id1152749877",
+    "iap_name": "香檳金主題",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786391060
+  },
+  {
+    "id": "1152749877:清新桃主題",
+    "app_id": "1152749877",
+    "app_name": "舒適注音 ProApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/9c/a9/8a9ca93c-da81-5d94-b96f-ff08d6eba24d/AppIcon-Zhuyin-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E8%88%92%E9%81%A9%E6%B3%A8%E9%9F%B3-pro/id1152749877",
+    "iap_name": "清新桃主題",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786391060
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786391060
   }
 ]
