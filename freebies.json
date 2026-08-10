@@ -1557,7 +1557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786317235
+    "last_updated": 1786362718
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -1767,7 +1767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:Hypebeast / HB",
@@ -1782,7 +1782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:Krochet Kids intl.",
@@ -1797,7 +1797,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:Ta-ku x VSCO",
@@ -1812,7 +1812,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:Distortia Pack",
@@ -1827,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:We the Creators",
@@ -1842,7 +1842,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:Nike Sportswear / Tech Pack",
@@ -1857,7 +1857,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:Isle of Dogs",
@@ -1872,7 +1872,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "588013838:NikeLab ACG",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786287601
+    "last_updated": 1786362718
   },
   {
     "id": "650415564:Outfitter Formula Pack",
@@ -2497,12 +2497,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786355783
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "730712409:AI 空間",
@@ -2512,12 +2512,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786355783
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "730712409:批量相片處理",
@@ -2527,12 +2527,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786355783
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "406541444:倒計時主題",
@@ -2797,12 +2797,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786359656
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -2812,12 +2812,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Brahms: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -2827,12 +2827,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Liszt: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -2842,12 +2842,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Schumann: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -2857,12 +2857,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Burgmüller: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -2872,12 +2872,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Satie: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -2887,12 +2887,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Tchaikovsky: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -2902,12 +2902,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Haydn: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -2917,12 +2917,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Rameau: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -2932,12 +2932,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Händel: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786345167
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "1182856129:Pages",
@@ -2947,12 +2947,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/cf/d3/f5cfd353-0a50-baaa-7b9a-de15dea3a072/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/blink-quick-notes-widget/id1182856129",
-    "iap_name": "Pages",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786350430
+    "is_free": 0,
+    "last_updated": 1786362718
   },
   {
     "id": "6761483717:Expirify Pro Lifetime",
@@ -2982,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786355783
+    "last_updated": 1786362718
   },
   {
     "id": "623592465:Just For Kids",
@@ -2997,7 +2997,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786355783
+    "last_updated": 1786362718
   },
   {
     "id": "623592465:Mix It Up",
@@ -3012,7 +3012,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786355783
+    "last_updated": 1786362718
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3027,7 +3027,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786355783
+    "last_updated": 1786362718
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3042,7 +3042,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786355783
+    "last_updated": 1786362718
   },
   {
     "id": "412380315:Version 4: Complete Features Bundle",
