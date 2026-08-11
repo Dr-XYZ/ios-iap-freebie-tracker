@@ -2697,7 +2697,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786313572
+    "last_updated": 1786427913
   },
   {
     "id": "1149994032:Auto",
@@ -2880,21 +2880,6 @@
     "last_updated": 1786362718
   },
   {
-    "id": "6761483717:Expirify Pro Lifetime",
-    "app_id": "6761483717",
-    "app_name": "ExpirifyApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/b3/e3/28b3e340-fb93-b96e-7934-5bccf95fca24/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/expirify/id6761483717",
-    "iap_name": "Expirify Pro Lifetime",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786387752
-  },
-  {
     "id": "412380315:Version 4: Complete Features Bundle",
     "app_id": "412380315",
     "app_name": "Symphony Pro - Music NotationApp - App Store",
@@ -3007,12 +2992,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786420629
+    "is_free": 0,
+    "last_updated": 1786427913
   },
   {
     "id": "623592465:Mix It Up",
@@ -3022,12 +3007,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786420629
+    "is_free": 0,
+    "last_updated": 1786427913
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3037,12 +3022,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786420629
+    "is_free": 0,
+    "last_updated": 1786427913
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3052,12 +3037,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786420629
+    "is_free": 0,
+    "last_updated": 1786427913
   },
   {
     "id": "970358327:Unlimited Recording",
@@ -3132,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786414903
+    "last_updated": 1786427913
   },
   {
     "id": "730712409:AI 空間",
@@ -3147,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786414903
+    "last_updated": 1786427913
   },
   {
     "id": "730712409:批量相片處理",
@@ -3162,7 +3147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786414903
+    "last_updated": 1786427913
   },
   {
     "id": "1062358764:Teleprompter Mode",
@@ -3217,12 +3202,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786424551
+    "is_free": 0,
+    "last_updated": 1786427913
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3237,6 +3222,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786424551
+    "last_updated": 1786427913
   }
 ]
