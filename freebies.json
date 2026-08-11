@@ -2397,7 +2397,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786446195
+    "last_updated": 1786490689
   },
   {
     "id": "406541444:倒計時主題",
@@ -3217,12 +3217,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786488486
+    "is_free": 0,
+    "last_updated": 1786490689
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3238,5 +3238,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786488486
+  },
+  {
+    "id": "6772528649:Lifetiom Pro",
+    "app_id": "6772528649",
+    "app_name": "Exiv - EXIF Viewer & EditorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/e2/d7/44e2d7dd-14cd-3932-2fc0-5048c897b7f4/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/exiv-exif-viewer-editor/id6772528649",
+    "iap_name": "Lifetiom Pro",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786490689
   }
 ]
