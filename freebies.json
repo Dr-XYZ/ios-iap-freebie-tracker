@@ -3000,21 +3000,6 @@
     "last_updated": 1786479694
   },
   {
-    "id": "6783103263:Ideon Lifetime",
-    "app_id": "6783103263",
-    "app_name": "Ideon: Scroll Your Own IdeasApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/6c/3a/8d6c3aac-8b83-e60d-0c83-b005dec8b252/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/ideon-scroll-your-own-ideas/id6783103263",
-    "iap_name": "Ideon Lifetime",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786431818
-  },
-  {
     "id": "6761749464:Pro Lifetime",
     "app_id": "6761749464",
     "app_name": "TypeletApp - App Store",
@@ -3042,7 +3027,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786485629
+    "last_updated": 1786488486
   },
   {
     "id": "623592465:Mix It Up",
@@ -3057,7 +3042,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786485629
+    "last_updated": 1786488486
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3072,7 +3057,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786485629
+    "last_updated": 1786488486
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3087,7 +3072,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786485629
+    "last_updated": 1786488486
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -3097,12 +3082,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786482539
+    "is_free": 0,
+    "last_updated": 1786488486
   },
   {
     "id": "730712409:AI 空間",
@@ -3112,12 +3097,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786482539
+    "is_free": 0,
+    "last_updated": 1786488486
   },
   {
     "id": "730712409:批量相片處理",
@@ -3127,12 +3112,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786482539
+    "is_free": 0,
+    "last_updated": 1786488486
   },
   {
     "id": "1574175808:Lisa character",
@@ -3237,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786485629
+    "last_updated": 1786488486
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3252,6 +3237,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786485629
+    "last_updated": 1786488486
   }
 ]
