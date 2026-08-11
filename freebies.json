@@ -1737,7 +1737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786449104
   },
   {
     "id": "588013838:The Aesthetic Series",
@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786449104
   },
   {
     "id": "650415564:X-Film Bundle",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786387752
+    "last_updated": 1786449104
   },
   {
     "id": "1464645812:所有內容",
@@ -2082,7 +2082,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786378024
+    "last_updated": 1786449104
   },
   {
     "id": "1444383602:多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）",
@@ -2097,7 +2097,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786378024
+    "last_updated": 1786449104
   },
   {
     "id": "1444383602:好心智雜誌",
@@ -2112,7 +2112,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786378024
+    "last_updated": 1786449104
   },
   {
     "id": "1444383602:秋貓貼紙組",
@@ -2127,7 +2127,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786378024
+    "last_updated": 1786449104
   },
   {
     "id": "382418196:Azure Services",
@@ -2682,7 +2682,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786304389
+    "last_updated": 1786449104
   },
   {
     "id": "1458958919:Video",
@@ -3045,51 +3045,6 @@
     "last_updated": 1786431818
   },
   {
-    "id": "730712409:ZERO: 直接感測器擷取",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786443033
-  },
-  {
-    "id": "730712409:AI 空間",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786443033
-  },
-  {
-    "id": "730712409:批量相片處理",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786443033
-  },
-  {
     "id": "1062358764:Teleprompter Mode",
     "app_id": "1062358764",
     "app_name": "Yam AirApp - App Store",
@@ -3135,21 +3090,6 @@
     "last_updated": 1786402880
   },
   {
-    "id": "6471479898:Blue Cat",
-    "app_id": "6471479898",
-    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786446195
-  },
-  {
     "id": "6783103263:Ideon Lifetime",
     "app_id": "6783103263",
     "app_name": "Ideon: Scroll Your Own IdeasApp - App Store",
@@ -3177,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786443033
+    "last_updated": 1786449104
   },
   {
     "id": "623592465:Mix It Up",
@@ -3192,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786443033
+    "last_updated": 1786449104
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3207,7 +3147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786443033
+    "last_updated": 1786449104
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3222,7 +3162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786443033
+    "last_updated": 1786449104
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3253,5 +3193,65 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786439619
+  },
+  {
+    "id": "6471479898:Blue Cat",
+    "app_id": "6471479898",
+    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
+    "iap_name": "Blue Cat",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786449104
+  },
+  {
+    "id": "730712409:ZERO: 直接感測器擷取",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "ZERO: 直接感測器擷取",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786449104
+  },
+  {
+    "id": "730712409:AI 空間",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "AI 空間",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786449104
+  },
+  {
+    "id": "730712409:批量相片處理",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "批量相片處理",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786449104
   }
 ]
