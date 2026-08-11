@@ -822,7 +822,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786309985
+    "last_updated": 1786451524
   },
   {
     "id": "601467470:Film Pack",
@@ -912,7 +912,7 @@
     "original_price": 90,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786309985
+    "last_updated": 1786451524
   },
   {
     "id": "1549511268:The Beat Community Preset Pack",
@@ -2992,12 +2992,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/21/11/bf/2111bffe-cd9e-f667-012a-370d62590ed6/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/death-lens/id970358327",
-    "iap_name": "Unlimited Recording",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786402880
+    "is_free": 0,
+    "last_updated": 1786451524
   },
   {
     "id": "6759009234:Business Speak Premium Lifetime ",
@@ -3172,12 +3172,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786446195
+    "is_free": 0,
+    "last_updated": 1786451524
   },
   {
     "id": "6761749464:Pro Lifetime",
@@ -3207,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786449104
+    "last_updated": 1786451524
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
