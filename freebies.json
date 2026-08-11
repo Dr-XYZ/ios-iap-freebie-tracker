@@ -1887,7 +1887,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786449104
+    "last_updated": 1786477057
   },
   {
     "id": "650415564:X-Film Bundle",
@@ -1902,7 +1902,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786449104
+    "last_updated": 1786477057
   },
   {
     "id": "1464645812:所有內容",
@@ -3132,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786473125
+    "last_updated": 1786477057
   },
   {
     "id": "623592465:Mix It Up",
@@ -3147,7 +3147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786473125
+    "last_updated": 1786477057
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3162,7 +3162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786473125
+    "last_updated": 1786477057
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3177,7 +3177,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786473125
+    "last_updated": 1786477057
   },
   {
     "id": "6471479898:Blue Cat",
@@ -3192,7 +3192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786473125
+    "last_updated": 1786477057
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -3207,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786469984
+    "last_updated": 1786477057
   },
   {
     "id": "730712409:AI 空間",
@@ -3222,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786469984
+    "last_updated": 1786477057
   },
   {
     "id": "730712409:批量相片處理",
@@ -3237,6 +3237,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786469984
+    "last_updated": 1786477057
+  },
+  {
+    "id": "1574175808:Lisa character",
+    "app_id": "1574175808",
+    "app_name": "Specimen Zero - HorrorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/08/2f/6c082f66-24db-df3f-b089-2f2e45229848/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/specimen-zero-horror/id1574175808",
+    "iap_name": "Lisa character",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786477057
   }
 ]
