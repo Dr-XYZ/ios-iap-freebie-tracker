@@ -3192,7 +3192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786513930
+    "last_updated": 1786522834
   },
   {
     "id": "730712409:AI 空間",
@@ -3207,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786513930
+    "last_updated": 1786522834
   },
   {
     "id": "730712409:批量相片處理",
@@ -3222,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786513930
+    "last_updated": 1786522834
   },
   {
     "id": "6471479898:Blue Cat",
@@ -3237,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786518022
+    "last_updated": 1786522834
   },
   {
     "id": "6756879281:Lifetime Premium",
@@ -3267,6 +3267,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786518022
+    "last_updated": 1786522834
+  },
+  {
+    "id": "6762170209:Lifetime",
+    "app_id": "6762170209",
+    "app_name": "QR Forge - QR Code CreatorApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/ae/ac/a8aeac0d-5e5f-56ad-f856-8f6464a9e5c4/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/qr-forge-qr-code-creator/id6762170209",
+    "iap_name": "Lifetime",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786522834
   }
 ]
