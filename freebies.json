@@ -1432,12 +1432,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/e3/bf/8ae3bfc5-6104-3406-3449-88f3489d4a39/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/djay-dj-app-ai-remixer/id450527929",
-    "iap_name": "Unlock Upgrade Features",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786534046
+    "is_free": 0,
+    "last_updated": 1786571895
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -2347,12 +2347,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a6/be/02a6becf-cfce-2ed0-4c51-6cc40d23fcac/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/minimoog-model-d-synthesizer/id1339418001",
-    "iap_name": "Minimoog Classics",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786490689
+    "is_free": 0,
+    "last_updated": 1786571895
   },
   {
     "id": "406541444:倒計時主題",
@@ -2862,7 +2862,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786571895
   },
   {
     "id": "361124046:Flange Joint  Bolt Tightening Sequence",
@@ -2877,7 +2877,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786571895
   },
   {
     "id": "361124046:Pipe Spacing",
@@ -2892,7 +2892,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786571895
   },
   {
     "id": "361124046:Orifice Flanges B16.36",
@@ -2907,7 +2907,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786571895
   },
   {
     "id": "361124046:Malleable Iron Fittings",
@@ -2922,7 +2922,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786571895
   },
   {
     "id": "6772528649:Lifetiom Pro",
@@ -3180,21 +3180,6 @@
     "last_updated": 1786568852
   },
   {
-    "id": "1112481571:Constellations of Avengers",
-    "app_id": "1112481571",
-    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/13/b6/9213b685-a1ae-96b6-2aaa-2178f54e013e/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786563399
-  },
-  {
     "id": "730712409:ZERO: 直接感測器擷取",
     "app_id": "730712409",
     "app_name": "ProCam - 專業相機App - App Store",
@@ -3207,7 +3192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786563399
+    "last_updated": 1786571895
   },
   {
     "id": "730712409:AI 空間",
@@ -3222,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786563399
+    "last_updated": 1786571895
   },
   {
     "id": "730712409:批量相片處理",
@@ -3237,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786563399
+    "last_updated": 1786571895
   },
   {
     "id": "6471479898:Blue Cat",
@@ -3252,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786568852
+    "last_updated": 1786571895
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3283,5 +3268,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786568852
+  },
+  {
+    "id": "1112481571:Constellations of Avengers",
+    "app_id": "1112481571",
+    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/13/b6/9213b685-a1ae-96b6-2aaa-2178f54e013e/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
+    "iap_name": "Constellations of Avengers",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786571895
   }
 ]
