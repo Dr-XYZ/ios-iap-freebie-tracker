@@ -870,21 +870,6 @@
     "last_updated": 1785699309
   },
   {
-    "id": "1112481571:Constellations of Avengers",
-    "app_id": "1112481571",
-    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/6d/23/f16d239d-06a3-fb6c-06e6-a34c2764521f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786198784
-  },
-  {
     "id": "949277404:All Packs",
     "app_id": "949277404",
     "app_name": "Fisheye Camera Pro - 魚眼攝影App - App Store",
@@ -2967,7 +2952,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786552296
+    "last_updated": 1786555902
   },
   {
     "id": "6756879281:Lifetime Premium",
@@ -3012,7 +2997,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786555902
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3222,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786555902
   },
   {
     "id": "623592465:Just For Kids",
@@ -3237,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786555902
   },
   {
     "id": "623592465:Mix It Up",
@@ -3252,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786555902
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3267,7 +3252,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786555902
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3282,6 +3267,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786555902
+  },
+  {
+    "id": "1112481571:Constellations of Avengers",
+    "app_id": "1112481571",
+    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/13/b6/9213b685-a1ae-96b6-2aaa-2178f54e013e/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
+    "iap_name": "Constellations of Avengers",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786555902
   }
 ]
