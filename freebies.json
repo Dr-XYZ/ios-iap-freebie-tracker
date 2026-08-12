@@ -540,21 +540,6 @@
     "last_updated": 1784750703
   },
   {
-    "id": "1389771232:Calendar large Widget",
-    "app_id": "1389771232",
-    "app_name": "PLANBELLA - Planner AppApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/7f/04/377f04a2-189e-8a3d-1e83-627ef7190e7a/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/planbella-planner-app/id1389771232",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784455779
-  },
-  {
     "id": "443693213:PDFTaxPro",
     "app_id": "443693213",
     "app_name": "myFuelLog: Car MaintenanceApp - App Store",
@@ -3027,7 +3012,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786536458
+    "last_updated": 1786541967
   },
   {
     "id": "6756879281:Lifetime Premium",
@@ -3057,7 +3042,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786534046
+    "last_updated": 1786541967
   },
   {
     "id": "6762170209:Lifetime",
@@ -3087,7 +3072,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786531139
+    "last_updated": 1786541967
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3232,12 +3217,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786534046
+    "is_free": 0,
+    "last_updated": 1786541967
   },
   {
     "id": "623592465:Mix It Up",
@@ -3247,12 +3232,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786534046
+    "is_free": 0,
+    "last_updated": 1786541967
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3262,12 +3247,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786534046
+    "is_free": 0,
+    "last_updated": 1786541967
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3277,11 +3262,26 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bb/64/76bb64e0-3ee8-6fba-2fa2-7a535ecb3352/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 0,
+    "last_updated": 1786541967
+  },
+  {
+    "id": "1389771232:Calendar large Widget",
+    "app_id": "1389771232",
+    "app_name": "PLANBELLA - Planner AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/7f/04/377f04a2-189e-8a3d-1e83-627ef7190e7a/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/planbella-planner-app/id1389771232",
+    "iap_name": "Calendar large Widget",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786534046
+    "last_updated": 1786541967
   }
 ]
