@@ -1257,7 +1257,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786565997
+    "last_updated": 1786649723
   },
   {
     "id": "478293637:Promo",
@@ -2827,12 +2827,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Flanges B16.47",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786614386
+    "is_free": 0,
+    "last_updated": 1786649723
   },
   {
     "id": "361124046:Flange Joint  Bolt Tightening Sequence",
@@ -2842,12 +2842,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Flange Joint  Bolt Tightening Sequence",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786614386
+    "is_free": 0,
+    "last_updated": 1786649723
   },
   {
     "id": "361124046:Pipe Spacing",
@@ -2857,12 +2857,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Pipe Spacing",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786614386
+    "is_free": 0,
+    "last_updated": 1786649723
   },
   {
     "id": "361124046:Orifice Flanges B16.36",
@@ -2872,12 +2872,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Orifice Flanges B16.36",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786614386
+    "is_free": 0,
+    "last_updated": 1786649723
   },
   {
     "id": "361124046:Malleable Iron Fittings",
@@ -2887,12 +2887,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/16/56/3e/16563e6b-1ca0-8e6f-5541-c307039291aa/mzl.ipryhulr.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/piping-database-xtreme/id361124046",
-    "iap_name": "Malleable Iron Fittings",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786614386
+    "is_free": 0,
+    "last_updated": 1786649723
   },
   {
     "id": "6772528649:Lifetiom Pro",
@@ -2992,12 +2992,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/13/b6/9213b685-a1ae-96b6-2aaa-2178f54e013e/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
-    "iap_name": "Constellations of Avengers",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786635571
+    "is_free": 0,
+    "last_updated": 1786649723
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -3150,21 +3150,6 @@
     "last_updated": 1786614386
   },
   {
-    "id": "6471479898:Blue Cat",
-    "app_id": "6471479898",
-    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786645780
-  },
-  {
     "id": "1080181813:Pro Version",
     "app_id": "1080181813",
     "app_name": "VocularApp - App Store",
@@ -3297,7 +3282,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786642326
+    "last_updated": 1786649723
   },
   {
     "id": "623592465:Just For Kids",
@@ -3358,5 +3343,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786645780
+  },
+  {
+    "id": "6471479898:Blue Cat",
+    "app_id": "6471479898",
+    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
+    "iap_name": "Blue Cat",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786649723
   }
 ]
