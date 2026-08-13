@@ -1050,21 +1050,6 @@
     "last_updated": 1785238482
   },
   {
-    "id": "1080181813:Pro Version",
-    "app_id": "1080181813",
-    "app_name": "VocularApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786391060
-  },
-  {
     "id": "6781162182:Lifetime Pro",
     "app_id": "6781162182",
     "app_name": "剪流 - 一站式音视频处理工具App - App Store",
@@ -2997,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786605070
+    "last_updated": 1786610551
   },
   {
     "id": "623592465:Mix It Up",
@@ -3012,7 +2997,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786605070
+    "last_updated": 1786610551
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3027,7 +3012,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786605070
+    "last_updated": 1786610551
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3042,7 +3027,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786605070
+    "last_updated": 1786610551
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -3057,7 +3042,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786595284
+    "last_updated": 1786610551
   },
   {
     "id": "730712409:AI 空間",
@@ -3072,7 +3057,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786595284
+    "last_updated": 1786610551
   },
   {
     "id": "730712409:批量相片處理",
@@ -3087,7 +3072,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786595284
+    "last_updated": 1786610551
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3102,7 +3087,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786605070
+    "last_updated": 1786610551
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -3117,7 +3102,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786600526
+    "last_updated": 1786610551
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -3132,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786600526
+    "last_updated": 1786610551
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3282,6 +3267,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786605070
+    "last_updated": 1786610551
+  },
+  {
+    "id": "1080181813:Pro Version",
+    "app_id": "1080181813",
+    "app_name": "VocularApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
+    "iap_name": "Pro Version",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786610551
   }
 ]
