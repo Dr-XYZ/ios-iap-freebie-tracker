@@ -2967,7 +2967,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786617940
+    "last_updated": 1786623094
   },
   {
     "id": "623592465:Mix It Up",
@@ -2982,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786617940
+    "last_updated": 1786623094
   },
   {
     "id": "623592465:The Ellen Show",
@@ -2997,7 +2997,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786617940
+    "last_updated": 1786623094
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3012,7 +3012,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786617940
+    "last_updated": 1786623094
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -3060,21 +3060,6 @@
     "last_updated": 1786620652
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786617940
-  },
-  {
     "id": "1112481571:Constellations of Avengers",
     "app_id": "1112481571",
     "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
@@ -3087,7 +3072,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786610551
+    "last_updated": 1786623094
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -3102,7 +3087,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786617940
+    "last_updated": 1786623094
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3252,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786620652
+    "last_updated": 1786623094
   },
   {
     "id": "1080181813:Pro Version",
@@ -3267,6 +3252,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786617940
+    "last_updated": 1786623094
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786623094
   }
 ]
