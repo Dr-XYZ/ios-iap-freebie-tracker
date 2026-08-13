@@ -1395,6 +1395,21 @@
     "last_updated": 1786141378
   },
   {
+    "id": "1447312762:終身高級訪問",
+    "app_id": "1447312762",
+    "app_name": "音樂下載器和播放器App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/46/74/d346746f-423b-c7da-fa8c-a286e1490b14/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E9%9F%B3%E6%A8%82%E4%B8%8B%E8%BC%89%E5%99%A8%E5%92%8C%E6%92%AD%E6%94%BE%E5%99%A8/id1447312762",
+    "iap_name": "終身高級訪問",
+    "current_price": 0,
+    "original_price": 2990,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786651702
+  },
+  {
     "id": "450527929:Unlock Upgrade Features",
     "app_id": "450527929",
     "app_name": "djay - DJ App & AI RemixerApp - App Store",
@@ -2767,12 +2782,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/28/a6/2228a6b2-f7e4-7983-e202-6ee193389a03/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E5%B0%8F%E6%8F%90%E7%90%B4%E8%AA%BF%E9%9F%B3%E5%99%A8%E5%B0%88%E6%A5%AD%E7%89%88-violin-tuner-pro/id802792057",
-    "iap_name": "音叉",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786565997
+    "is_free": 0,
+    "last_updated": 1786651702
   },
   {
     "id": "802792057:設置",
@@ -2782,12 +2797,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/28/a6/2228a6b2-f7e4-7983-e202-6ee193389a03/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E5%B0%8F%E6%8F%90%E7%90%B4%E8%AA%BF%E9%9F%B3%E5%99%A8%E5%B0%88%E6%A5%AD%E7%89%88-violin-tuner-pro/id802792057",
-    "iap_name": "設置",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786565997
+    "is_free": 0,
+    "last_updated": 1786651702
   },
   {
     "id": "6761749464:Pro Lifetime",
@@ -3150,21 +3165,6 @@
     "last_updated": 1786614386
   },
   {
-    "id": "1080181813:Pro Version",
-    "app_id": "1080181813",
-    "app_name": "VocularApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786642326
-  },
-  {
     "id": "961227503:專業工具",
     "app_id": "961227503",
     "app_name": "燒杯 - BEAKERApp - App Store",
@@ -3357,6 +3357,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786649723
+    "last_updated": 1786651702
+  },
+  {
+    "id": "1080181813:Pro Version",
+    "app_id": "1080181813",
+    "app_name": "VocularApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
+    "iap_name": "Pro Version",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786651702
   }
 ]
