@@ -1602,7 +1602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786534046
+    "last_updated": 1786617940
   },
   {
     "id": "588013838:The Aesthetic Series",
@@ -2562,7 +2562,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786518022
+    "last_updated": 1786617940
   },
   {
     "id": "1149994032:Auto",
@@ -2967,7 +2967,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786541967
+    "last_updated": 1786617940
   },
   {
     "id": "623592465:Just For Kids",
@@ -2982,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786610551
+    "last_updated": 1786617940
   },
   {
     "id": "623592465:Mix It Up",
@@ -2997,7 +2997,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786610551
+    "last_updated": 1786617940
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3012,7 +3012,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786610551
+    "last_updated": 1786617940
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3027,7 +3027,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786610551
+    "last_updated": 1786617940
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -3082,12 +3082,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786610551
+    "is_free": 0,
+    "last_updated": 1786617940
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -3117,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786610551
+    "last_updated": 1786617940
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3267,7 +3267,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786614386
+    "last_updated": 1786617940
   },
   {
     "id": "1080181813:Pro Version",
@@ -3282,6 +3282,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786610551
+    "last_updated": 1786617940
   }
 ]
