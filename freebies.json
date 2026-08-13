@@ -3132,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786579340
+    "last_updated": 1786588598
   },
   {
     "id": "623592465:Mix It Up",
@@ -3147,7 +3147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786579340
+    "last_updated": 1786588598
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3162,7 +3162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786579340
+    "last_updated": 1786588598
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3177,7 +3177,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786579340
+    "last_updated": 1786588598
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -3225,21 +3225,6 @@
     "last_updated": 1786579340
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786579340
-  },
-  {
     "id": "892279069:Constellations of Avengers",
     "app_id": "892279069",
     "app_name": "Star Walk 2 Pro: 觀星軟件和星空地圖App - App Store",
@@ -3252,22 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786579340
-  },
-  {
-    "id": "1112481571:Constellations of Avengers",
-    "app_id": "1112481571",
-    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/13/b6/9213b685-a1ae-96b6-2aaa-2178f54e013e/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786576843
+    "last_updated": 1786588598
   },
   {
     "id": "6471479898:Blue Cat",
@@ -3277,11 +3247,41 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "iap_name": "Blue Cat",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786579340
+    "is_free": 1,
+    "last_updated": 1786588598
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786588598
+  },
+  {
+    "id": "1112481571:Constellations of Avengers",
+    "app_id": "1112481571",
+    "app_name": "Star Walk 2 Plus: 觀星的應用 ARApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/13/b6/9213b685-a1ae-96b6-2aaa-2178f54e013e/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/star-walk-2-plus-%E8%A7%80%E6%98%9F%E7%9A%84%E6%87%89%E7%94%A8-ar/id1112481571",
+    "iap_name": "Constellations of Avengers",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786588598
   }
 ]
