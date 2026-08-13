@@ -2812,12 +2812,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/08/2f/6c082f66-24db-df3f-b089-2f2e45229848/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/specimen-zero-horror/id1574175808",
-    "iap_name": "Lisa character",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786477057
+    "is_free": 0,
+    "last_updated": 1786638733
   },
   {
     "id": "361124046:Flanges B16.47",
@@ -3067,12 +3067,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/aa/23/a2aa23b1-3f21-22ca-8515-922b43466095/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/star-walk-2-pro-%E8%A7%80%E6%98%9F%E8%BB%9F%E4%BB%B6%E5%92%8C%E6%98%9F%E7%A9%BA%E5%9C%B0%E5%9C%96/id892279069",
-    "iap_name": "Constellations of Avengers",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786632290
+    "is_free": 0,
+    "last_updated": 1786638733
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3222,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786635571
+    "last_updated": 1786638733
   },
   {
     "id": "1080181813:Pro Version",
@@ -3252,7 +3252,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786628687
+    "last_updated": 1786638733
   },
   {
     "id": "620354621:Guitar: Epic Lead Soundpack",
