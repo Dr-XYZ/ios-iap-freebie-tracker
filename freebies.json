@@ -3222,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786638733
+    "last_updated": 1786642326
   },
   {
     "id": "1080181813:Pro Version",
@@ -3237,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786632290
+    "last_updated": 1786642326
   },
   {
     "id": "961227503:專業工具",
@@ -3352,11 +3352,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786635571
+    "is_free": 0,
+    "last_updated": 1786642326
   }
 ]
