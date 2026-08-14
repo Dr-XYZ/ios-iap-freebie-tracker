@@ -2947,12 +2947,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786721104
+    "is_free": 0,
+    "last_updated": 1786734337
   },
   {
     "id": "730712409:AI 空間",
@@ -2962,12 +2962,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786721104
+    "is_free": 0,
+    "last_updated": 1786734337
   },
   {
     "id": "730712409:批量相片處理",
@@ -2977,12 +2977,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/08/2b/55082b5f-2dfe-a430-8c61-623f36b4c22b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786721104
+    "is_free": 0,
+    "last_updated": 1786734337
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -3132,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -3147,7 +3147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -3162,7 +3162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -3177,7 +3177,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -3192,7 +3192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -3207,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -3222,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -3237,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -3252,7 +3252,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786723894
+    "last_updated": 1786734337
   },
   {
     "id": "961227503:專業工具",
@@ -3282,7 +3282,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786721104
+    "last_updated": 1786734337
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -3297,7 +3297,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786727375
+    "last_updated": 1786734337
   },
   {
     "id": "623592465:Just For Kids",
@@ -3367,11 +3367,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786730579
+    "is_free": 0,
+    "last_updated": 1786734337
   }
 ]
