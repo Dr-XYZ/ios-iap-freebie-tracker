@@ -2967,7 +2967,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786662519
+    "last_updated": 1786683878
   },
   {
     "id": "730712409:AI 空間",
@@ -2982,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786662519
+    "last_updated": 1786683878
   },
   {
     "id": "730712409:批量相片處理",
@@ -2997,7 +2997,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786662519
+    "last_updated": 1786683878
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -3282,7 +3282,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786677357
+    "last_updated": 1786683878
   },
   {
     "id": "1080181813:Pro Version",
@@ -3372,6 +3372,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786677357
+    "last_updated": 1786683878
+  },
+  {
+    "id": "6761376662:Speech AI Coach Premium Lifetime ",
+    "app_id": "6761376662",
+    "app_name": "AI演講教練：清晰流利表達App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/45/e2/1545e242-910b-fb10-5cad-d1de24fbb809/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/ai%E6%BC%94%E8%AC%9B%E6%95%99%E7%B7%B4-%E6%B8%85%E6%99%B0%E6%B5%81%E5%88%A9%E8%A1%A8%E9%81%94/id6761376662",
+    "iap_name": "Speech AI Coach Premium Lifetime ",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786683878
   }
 ]
