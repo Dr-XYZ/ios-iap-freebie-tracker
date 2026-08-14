@@ -1257,7 +1257,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786649723
+    "last_updated": 1786709362
   },
   {
     "id": "478293637:Promo",
@@ -2187,7 +2187,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786549020
+    "last_updated": 1786709362
   },
   {
     "id": "1460011387:TW 帳戶圖示包 1",
@@ -2910,21 +2910,6 @@
     "last_updated": 1786649723
   },
   {
-    "id": "6772528649:Lifetiom Pro",
-    "app_id": "6772528649",
-    "app_name": "Exiv - EXIF Viewer & EditorApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/e2/d7/44e2d7dd-14cd-3932-2fc0-5048c897b7f4/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/exiv-exif-viewer-editor/id6772528649",
-    "iap_name": "Lifetiom Pro",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786552296
-  },
-  {
     "id": "6756879281:Lifetime Premium",
     "app_id": "6756879281",
     "app_name": "PokePrice - TCG Card ScannerApp - App Store",
@@ -2967,7 +2952,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786697826
+    "last_updated": 1786709362
   },
   {
     "id": "730712409:AI 空間",
@@ -2982,7 +2967,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786697826
+    "last_updated": 1786709362
   },
   {
     "id": "730712409:批量相片處理",
@@ -2997,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786697826
+    "last_updated": 1786709362
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -3135,21 +3120,6 @@
     "last_updated": 1786706983
   },
   {
-    "id": "1080181813:Pro Version",
-    "app_id": "1080181813",
-    "app_name": "VocularApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786697826
-  },
-  {
     "id": "623592465:Just For Kids",
     "app_id": "623592465",
     "app_name": "Heads Up!App - App Store",
@@ -3223,21 +3193,6 @@
     "currency": "USD",
     "is_free": 0,
     "last_updated": 1786701279
-  },
-  {
-    "id": "6471479898:Blue Cat",
-    "app_id": "6471479898",
-    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786706983
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3388,5 +3343,35 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786704323
+  },
+  {
+    "id": "1080181813:Pro Version",
+    "app_id": "1080181813",
+    "app_name": "VocularApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
+    "iap_name": "Pro Version",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786709362
+  },
+  {
+    "id": "6471479898:Blue Cat",
+    "app_id": "6471479898",
+    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
+    "iap_name": "Blue Cat",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786709362
   }
 ]
