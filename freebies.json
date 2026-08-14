@@ -3105,21 +3105,6 @@
     "last_updated": 1786701279
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786706983
-  },
-  {
     "id": "623592465:Just For Kids",
     "app_id": "623592465",
     "app_name": "Heads Up!App - App Store",
@@ -3207,7 +3192,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -3222,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -3237,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -3252,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -3267,7 +3252,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -3282,7 +3267,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -3297,7 +3282,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -3312,7 +3297,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -3327,7 +3312,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786704323
+    "last_updated": 1786714602
   },
   {
     "id": "961227503:專業工具",
@@ -3337,12 +3322,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
-    "iap_name": "專業工具",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786704323
+    "is_free": 0,
+    "last_updated": 1786714602
   },
   {
     "id": "1080181813:Pro Version",
@@ -3372,6 +3357,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786709362
+    "last_updated": 1786714602
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786714602
   }
 ]
