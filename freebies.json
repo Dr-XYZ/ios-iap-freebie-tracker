@@ -2967,7 +2967,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786683878
+    "last_updated": 1786697826
   },
   {
     "id": "730712409:AI 空間",
@@ -2982,7 +2982,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786683878
+    "last_updated": 1786697826
   },
   {
     "id": "730712409:批量相片處理",
@@ -2997,7 +2997,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786683878
+    "last_updated": 1786697826
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -3292,12 +3292,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
-    "iap_name": "Pro Version",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786688547
+    "is_free": 0,
+    "last_updated": 1786697826
   },
   {
     "id": "623592465:Just For Kids",
@@ -3312,7 +3312,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786688547
+    "last_updated": 1786697826
   },
   {
     "id": "623592465:Mix It Up",
@@ -3327,7 +3327,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786688547
+    "last_updated": 1786697826
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3342,7 +3342,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786688547
+    "last_updated": 1786697826
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3357,7 +3357,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786688547
+    "last_updated": 1786697826
   },
   {
     "id": "6761376662:Speech AI Coach Premium Lifetime ",
@@ -3387,6 +3387,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786694115
+    "last_updated": 1786697826
   }
 ]
