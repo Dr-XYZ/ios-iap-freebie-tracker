@@ -210,21 +210,6 @@
     "last_updated": 1784286502
   },
   {
-    "id": "6443877058:TV Remote for Mobile",
-    "app_id": "6443877058",
-    "app_name": "Universal Remote・App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/ee/cf/a9eecfdc-5c89-8d89-db74-a129c5e6da23/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/universal-remote/id6443877058",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786175685
-  },
-  {
     "id": "1352687747:Movesense Support",
     "app_id": "1352687747",
     "app_name": "HolonApp - App Store",
@@ -3673,5 +3658,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786816343
+  },
+  {
+    "id": "6443877058:TV Remote for Mobile",
+    "app_id": "6443877058",
+    "app_name": "Universal Remote・App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/7b/e7/4b7be7ad-97b3-1714-0153-73845cbf7999/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/universal-remote/id6443877058",
+    "iap_name": "TV Remote for Mobile",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786816878
   }
 ]
