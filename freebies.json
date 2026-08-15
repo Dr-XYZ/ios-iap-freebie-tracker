@@ -3577,12 +3577,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/7b/e7/4b7be7ad-97b3-1714-0153-73845cbf7999/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/universal-remote/id6443877058",
-    "iap_name": "TV Remote for Mobile",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786816878
+    "is_free": 0,
+    "last_updated": 1786834743
   },
   {
     "id": "6777620163:WorthTrail Pro",
@@ -3867,7 +3867,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786832646
+    "last_updated": 1786834743
   },
   {
     "id": "6471479898:Blue Cat",
@@ -3912,7 +3912,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786832646
+    "last_updated": 1786834743
   },
   {
     "id": "623592465:Mix It Up",
@@ -3927,7 +3927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786832646
+    "last_updated": 1786834743
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3942,7 +3942,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786832646
+    "last_updated": 1786834743
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3957,6 +3957,156 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786832646
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Meloh Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Meloh Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Meks Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Meks Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Naks Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Naks Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:UtahEther Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "UtahEther Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Taste Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Taste Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Roach Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Roach Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:River Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "River Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Merlot Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Merlot Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Ewok Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Ewok Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
+  },
+  {
+    "id": "989324123:Amuse Style",
+    "app_id": "989324123",
+    "app_name": "Graff BuilderApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f5/f2/9d/f5f29da3-ba99-9c9c-2d71-106b37b663d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/graff-builder/id989324123",
+    "iap_name": "Amuse Style",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786834743
   }
 ]
