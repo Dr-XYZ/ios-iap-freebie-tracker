@@ -690,66 +690,6 @@
     "last_updated": 1786744494
   },
   {
-    "id": "601467470:Film Pack",
-    "app_id": "601467470",
-    "app_name": "Typic - Text on PhotosApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785699309
-  },
-  {
-    "id": "601467470:Color Boost Pack",
-    "app_id": "601467470",
-    "app_name": "Typic - Text on PhotosApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785699309
-  },
-  {
-    "id": "601467470:B&W Pack",
-    "app_id": "601467470",
-    "app_name": "Typic - Text on PhotosApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785699309
-  },
-  {
-    "id": "601467470:Grunge Font Pack",
-    "app_id": "601467470",
-    "app_name": "Typic - Text on PhotosApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785699309
-  },
-  {
     "id": "949277404:All Packs",
     "app_id": "949277404",
     "app_name": "Fisheye Camera Pro - 魚眼攝影App - App Store",
@@ -3282,7 +3222,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786773243
+    "last_updated": 1786794455
   },
   {
     "id": "6780071655:Lifetime",
@@ -3402,7 +3342,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786792033
+    "last_updated": 1786794455
   },
   {
     "id": "623592465:Mix It Up",
@@ -3417,7 +3357,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786792033
+    "last_updated": 1786794455
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3432,7 +3372,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786792033
+    "last_updated": 1786794455
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3447,7 +3387,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786792033
+    "last_updated": 1786794455
   },
   {
     "id": "467703220:\"Playdate With Elmo\" Pack",
@@ -3472,12 +3412,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786793478
+    "is_free": 0,
+    "last_updated": 1786794455
   },
   {
     "id": "687387128:Primary Series Charts",
@@ -3553,5 +3493,65 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786793478
+  },
+  {
+    "id": "601467470:Film Pack",
+    "app_id": "601467470",
+    "app_name": "Typic - Text on PhotosApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
+    "iap_name": "Film Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786794455
+  },
+  {
+    "id": "601467470:Color Boost Pack",
+    "app_id": "601467470",
+    "app_name": "Typic - Text on PhotosApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
+    "iap_name": "Color Boost Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786794455
+  },
+  {
+    "id": "601467470:B&W Pack",
+    "app_id": "601467470",
+    "app_name": "Typic - Text on PhotosApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
+    "iap_name": "B&W Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786794455
+  },
+  {
+    "id": "601467470:Grunge Font Pack",
+    "app_id": "601467470",
+    "app_name": "Typic - Text on PhotosApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/87/0c/73870c68-4044-038b-17f2-772bcfb7a141/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/typic-text-on-photos/id601467470",
+    "iap_name": "Grunge Font Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786794455
   }
 ]
