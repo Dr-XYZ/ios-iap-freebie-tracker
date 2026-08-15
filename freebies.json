@@ -687,7 +687,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786744494
+    "last_updated": 1786809307
   },
   {
     "id": "949277404:All Packs",
@@ -1062,7 +1062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786791230
+    "last_updated": 1786809307
   },
   {
     "id": "1558783458:Pro version",
@@ -3327,7 +3327,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786807190
+    "last_updated": 1786809307
   },
   {
     "id": "623592465:Mix It Up",
@@ -3342,7 +3342,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786807190
+    "last_updated": 1786809307
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3357,7 +3357,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786807190
+    "last_updated": 1786809307
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3372,7 +3372,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786807190
+    "last_updated": 1786809307
   },
   {
     "id": "467703220:\"Playdate With Elmo\" Pack",
@@ -3462,7 +3462,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786807190
+    "last_updated": 1786809307
   },
   {
     "id": "601467470:Film Pack",
@@ -3547,11 +3547,161 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 0,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "389781154:NFL Game Pass 2019",
+    "app_id": "389781154",
+    "app_name": "NFLApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/11/ed/0b11ed71-dd57-748b-b54f-289a476dc095/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/nfl/id389781154",
+    "iap_name": "NFL Game Pass 2019",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786808419
+    "last_updated": 1786809307
+  },
+  {
+    "id": "440159265:Handwriting",
+    "app_id": "440159265",
+    "app_name": "Fotor-圖片編輯器&海報設計制作&拼圖工具App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/49/18/02491864-93d8-843c-99e4-62203d64fd34/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fotor-%E5%9C%96%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8-%E6%B5%B7%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%88%B6%E4%BD%9C-%E6%8B%BC%E5%9C%96%E5%B7%A5%E5%85%B7/id440159265",
+    "iap_name": "Handwriting",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "440159265:Fun Times",
+    "app_id": "440159265",
+    "app_name": "Fotor-圖片編輯器&海報設計制作&拼圖工具App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/49/18/02491864-93d8-843c-99e4-62203d64fd34/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fotor-%E5%9C%96%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8-%E6%B5%B7%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%88%B6%E4%BD%9C-%E6%8B%BC%E5%9C%96%E5%B7%A5%E5%85%B7/id440159265",
+    "iap_name": "Fun Times",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "440159265:Crazy Angles",
+    "app_id": "440159265",
+    "app_name": "Fotor-圖片編輯器&海報設計制作&拼圖工具App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/49/18/02491864-93d8-843c-99e4-62203d64fd34/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fotor-%E5%9C%96%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8-%E6%B5%B7%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%88%B6%E4%BD%9C-%E6%8B%BC%E5%9C%96%E5%B7%A5%E5%85%B7/id440159265",
+    "iap_name": "Crazy Angles",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "440159265:Tokyo Tales",
+    "app_id": "440159265",
+    "app_name": "Fotor-圖片編輯器&海報設計制作&拼圖工具App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/49/18/02491864-93d8-843c-99e4-62203d64fd34/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fotor-%E5%9C%96%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8-%E6%B5%B7%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%88%B6%E4%BD%9C-%E6%8B%BC%E5%9C%96%E5%B7%A5%E5%85%B7/id440159265",
+    "iap_name": "Tokyo Tales",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "440159265:Spring",
+    "app_id": "440159265",
+    "app_name": "Fotor-圖片編輯器&海報設計制作&拼圖工具App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/49/18/02491864-93d8-843c-99e4-62203d64fd34/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fotor-%E5%9C%96%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8-%E6%B5%B7%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%88%B6%E4%BD%9C-%E6%8B%BC%E5%9C%96%E5%B7%A5%E5%85%B7/id440159265",
+    "iap_name": "Spring",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "440159265:Holiday",
+    "app_id": "440159265",
+    "app_name": "Fotor-圖片編輯器&海報設計制作&拼圖工具App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/49/18/02491864-93d8-843c-99e4-62203d64fd34/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fotor-%E5%9C%96%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8-%E6%B5%B7%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%88%B6%E4%BD%9C-%E6%8B%BC%E5%9C%96%E5%B7%A5%E5%85%B7/id440159265",
+    "iap_name": "Holiday",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "440159265:Holiday Effects",
+    "app_id": "440159265",
+    "app_name": "Fotor-圖片編輯器&海報設計制作&拼圖工具App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/49/18/02491864-93d8-843c-99e4-62203d64fd34/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fotor-%E5%9C%96%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8-%E6%B5%B7%E5%A0%B1%E8%A8%AD%E8%A8%88%E5%88%B6%E4%BD%9C-%E6%8B%BC%E5%9C%96%E5%B7%A5%E5%85%B7/id440159265",
+    "iap_name": "Holiday Effects",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "441873577:Full Book Content (Past Purchase)",
+    "app_id": "441873577",
+    "app_name": "The Tao te Ching of Lao TzuApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/16/99/6c16991d-58cf-7bbd-011e-67eab6972e43/IconGold-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/the-tao-te-ching-of-lao-tzu/id441873577",
+    "iap_name": "Full Book Content (Past Purchase)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
+  },
+  {
+    "id": "454390333:自動同步",
+    "app_id": "454390333",
+    "app_name": "聯絡人同步：Google 及更多App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/85/5e/91855e6f-be12-3286-bef1-4e5a28751a0b/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E8%81%AF%E7%B5%A1%E4%BA%BA%E5%90%8C%E6%AD%A5-google-%E5%8F%8A%E6%9B%B4%E5%A4%9A/id454390333",
+    "iap_name": "自動同步",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786809307
   }
 ]
