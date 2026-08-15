@@ -3057,7 +3057,7 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786774522
+    "last_updated": 1786780390
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -3132,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786766842
+    "last_updated": 1786780390
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -3147,7 +3147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786766842
+    "last_updated": 1786780390
   },
   {
     "id": "952050883:Unlock All Features",
@@ -3162,7 +3162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786766842
+    "last_updated": 1786780390
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3492,7 +3492,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786777133
+    "last_updated": 1786780390
   },
   {
     "id": "6780071655:Lifetime",
@@ -3508,5 +3508,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786778958
+  },
+  {
+    "id": "578982065:\"Fortune Cookie\" pack",
+    "app_id": "578982065",
+    "app_name": "Cookie CallsApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2d/72/072d7218-1030-b5e0-3a21-ad9e93e4c80e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cookie-calls/id578982065",
+    "iap_name": "\"Fortune Cookie\" pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786780390
   }
 ]
