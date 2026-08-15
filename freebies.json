@@ -2685,21 +2685,6 @@
     "last_updated": 1786649723
   },
   {
-    "id": "892279069:Constellations of Avengers",
-    "app_id": "892279069",
-    "app_name": "Star Walk 2 Pro: 觀星軟件和星空地圖App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/aa/23/a2aa23b1-3f21-22ca-8515-922b43466095/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/star-walk-2-pro-%E8%A7%80%E6%98%9F%E8%BB%9F%E4%BB%B6%E5%92%8C%E6%98%9F%E7%A9%BA%E5%9C%B0%E5%9C%96/id892279069",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786638733
-  },
-  {
     "id": "620354621:Guitar: Epic Lead Soundpack",
     "app_id": "620354621",
     "app_name": "Jam Maestro Lite - 吉他 tab 音序器App - App Store",
@@ -2847,7 +2832,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786802379
+    "last_updated": 1786812989
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -2877,7 +2862,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786793478
+    "last_updated": 1786812989
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -3222,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786778958
+    "last_updated": 1786812989
   },
   {
     "id": "578982065:\"Fortune Cookie\" pack",
@@ -3252,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786797419
+    "last_updated": 1786812989
   },
   {
     "id": "1095903651:特效6",
@@ -3267,7 +3252,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786797419
+    "last_updated": 1786812989
   },
   {
     "id": "1095903651:特效5",
@@ -3282,7 +3267,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786797419
+    "last_updated": 1786812989
   },
   {
     "id": "1095903651:特效4",
@@ -3297,7 +3282,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786797419
+    "last_updated": 1786812989
   },
   {
     "id": "1095903651:特效3",
@@ -3312,7 +3297,37 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786797419
+    "last_updated": 1786812989
+  },
+  {
+    "id": "1095903651:特效2",
+    "app_id": "1095903651",
+    "app_name": "甜蛙 - 甜甜约会！！！App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
+    "iap_name": "特效2",
+    "current_price": 0,
+    "original_price": 30,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786812989
+  },
+  {
+    "id": "1095903651:特效1",
+    "app_id": "1095903651",
+    "app_name": "甜蛙 - 甜甜约会！！！App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/7f/f9/567ff92d-679b-8bf2-4148-fb0cbc5f69d4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E7%94%9C%E8%9B%99-%E7%94%9C%E7%94%9C%E7%BA%A6%E4%BC%9A/id1095903651",
+    "iap_name": "特效1",
+    "current_price": 0,
+    "original_price": 30,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786812989
   },
   {
     "id": "467703220:\"Playdate With Elmo\" Pack",
@@ -3642,7 +3657,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786811920
+    "last_updated": 1786812989
   },
   {
     "id": "623592465:Just For Kids",
@@ -3703,5 +3718,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786811920
+  },
+  {
+    "id": "892279069:Constellations of Avengers",
+    "app_id": "892279069",
+    "app_name": "Star Walk 2 Pro: 觀星軟件和星空地圖App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/aa/23/a2aa23b1-3f21-22ca-8515-922b43466095/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/star-walk-2-pro-%E8%A7%80%E6%98%9F%E8%BB%9F%E4%BB%B6%E5%92%8C%E6%98%9F%E7%A9%BA%E5%9C%B0%E5%9C%96/id892279069",
+    "iap_name": "Constellations of Avengers",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786812989
   }
 ]
