@@ -1155,21 +1155,6 @@
     "last_updated": 1786166599
   },
   {
-    "id": "1447312762:終身高級訪問",
-    "app_id": "1447312762",
-    "app_name": "音樂下載器和播放器App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/46/74/d346746f-423b-c7da-fa8c-a286e1490b14/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E9%9F%B3%E6%A8%82%E4%B8%8B%E8%BC%89%E5%99%A8%E5%92%8C%E6%92%AD%E6%94%BE%E5%99%A8/id1447312762",
-    "iap_name": "終身高級訪問",
-    "current_price": 0,
-    "original_price": 2990,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786770139
-  },
-  {
     "id": "450527929:Unlock Upgrade Features",
     "app_id": "450527929",
     "app_name": "djay - DJ App & AI RemixerApp - App Store",
@@ -2862,7 +2847,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786792033
+    "last_updated": 1786802379
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -2877,7 +2862,7 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786797419
+    "last_updated": 1786802379
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -3172,12 +3157,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e0/00/d6e000d2-48a4-8e6d-7dfc-5eecd393c4c7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/anytune-pro-studio-tools/id478293637",
-    "iap_name": "Promo",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786793478
+    "is_free": 0,
+    "last_updated": 1786802379
   },
   {
     "id": "807752194:設置",
@@ -3342,7 +3327,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786799603
+    "last_updated": 1786802379
   },
   {
     "id": "623592465:Mix It Up",
@@ -3357,7 +3342,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786799603
+    "last_updated": 1786802379
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3372,7 +3357,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786799603
+    "last_updated": 1786802379
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -3387,7 +3372,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786799603
+    "last_updated": 1786802379
   },
   {
     "id": "467703220:\"Playdate With Elmo\" Pack",
@@ -3402,7 +3387,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786783463
+    "last_updated": 1786802379
   },
   {
     "id": "687387128:Primary Series Charts",
@@ -3477,7 +3462,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786799603
+    "last_updated": 1786802379
   },
   {
     "id": "601467470:Film Pack",
@@ -3552,6 +3537,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786801420
+    "last_updated": 1786802379
   }
 ]
