@@ -2842,12 +2842,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/eb/1f/a1eb1fba-2196-9467-999b-62b859fcda71/AppIcons-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vocular/id1080181813",
-    "iap_name": "Pro Version",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786788533
+    "is_free": 0,
+    "last_updated": 1786795175
   },
   {
     "id": "6798775906:Permanent",
@@ -2922,7 +2922,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786783463
+    "last_updated": 1786795175
   },
   {
     "id": "1555459868:Vaul of the Void Promo Pack",
@@ -3492,7 +3492,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786793478
+    "last_updated": 1786795175
   },
   {
     "id": "601467470:Film Pack",
