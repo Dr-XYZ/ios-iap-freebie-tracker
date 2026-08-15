@@ -417,7 +417,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786748178
+    "last_updated": 1786815313
   },
   {
     "id": "6736862015:Enso Lifetime",
@@ -2847,7 +2847,7 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786810231
+    "last_updated": 1786815313
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -3187,12 +3187,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/d2/e3/a8d2e35f-66e0-24bb-0989-61be787a9108/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/oldroll-%E5%BE%A9%E5%8F%A4%E5%BA%95%E7%89%87%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%A9%9F/id1570093460",
-    "iap_name": "INS G-0",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786794455
+    "is_free": 0,
+    "last_updated": 1786815313
   },
   {
     "id": "6780071655:Lifetime",
@@ -3217,12 +3217,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2d/72/072d7218-1030-b5e0-3a21-ad9e93e4c80e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cookie-calls/id578982065",
-    "iap_name": "\"Fortune Cookie\" pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786780390
+    "is_free": 0,
+    "last_updated": 1786815313
   },
   {
     "id": "1095903651:特效7",
@@ -3642,7 +3642,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786814031
+    "last_updated": 1786815313
   },
   {
     "id": "623592465:Just For Kids",
