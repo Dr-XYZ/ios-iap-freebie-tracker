@@ -1137,7 +1137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786778958
+    "last_updated": 1786784589
   },
   {
     "id": "951251308:Full Edition: Unlimited Projects & Exporting",
@@ -1942,12 +1942,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/79/49/597949c0-6aee-d875-979e-be682e0022cc/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/lego-marvel-super-heroes/id737006024",
-    "iap_name": "Free Fun Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786709362
+    "is_free": 0,
+    "last_updated": 1786784589
   },
   {
     "id": "1460011387:TW 帳戶圖示包 1",
@@ -2937,7 +2937,7 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786780390
+    "last_updated": 1786784589
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -3237,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786781483
+    "last_updated": 1786784589
   },
   {
     "id": "807752194:設置",
@@ -3417,7 +3417,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786783463
+    "last_updated": 1786784589
   },
   {
     "id": "623592465:Just For Kids",
