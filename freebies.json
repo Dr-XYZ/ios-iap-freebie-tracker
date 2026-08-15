@@ -3567,7 +3567,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786826134
+    "last_updated": 1786827243
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -3928,5 +3928,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786823682
+  },
+  {
+    "id": "721838015:Demo Backgrounds",
+    "app_id": "721838015",
+    "app_name": "Green Screen Wizard MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ae/c7/75aec756-2e17-dee2-a559-8231daf42ae1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/green-screen-wizard-mobile/id721838015",
+    "iap_name": "Demo Backgrounds",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786827243
   }
 ]
