@@ -2832,7 +2832,7 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786815313
+    "last_updated": 1786820397
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -3282,7 +3282,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786802379
+    "last_updated": 1786820397
   },
   {
     "id": "687387128:Primary Series Charts",
@@ -3582,7 +3582,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786818954
+    "last_updated": 1786820397
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -3687,6 +3687,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786818954
+    "last_updated": 1786820397
   }
 ]
