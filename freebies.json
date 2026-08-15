@@ -2817,7 +2817,7 @@
     "original_price": 60,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786826134
+    "last_updated": 1786831221
   },
   {
     "id": "448200679:Introduction to Meditation",
@@ -2832,7 +2832,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786812989
+    "last_updated": 1786831221
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -3672,7 +3672,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786822885
+    "last_updated": 1786831221
   },
   {
     "id": "587176822:Founder Type: Miao Wu",
@@ -3927,7 +3927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786829583
+    "last_updated": 1786831221
   },
   {
     "id": "6471479898:Blue Cat",
@@ -3943,5 +3943,50 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786830557
+  },
+  {
+    "id": "432850619:SFX",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "SFX",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786831221
+  },
+  {
+    "id": "432850619:Transistor Bass",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Transistor Bass",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786831221
+  },
+  {
+    "id": "935528099:音樂合集SP01",
+    "app_id": "935528099",
+    "app_name": "同步音律App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/77/73/4b7773a9-91c0-7067-9429-867fad3dca8a/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%90%8C%E6%AD%A5%E9%9F%B3%E5%BE%8B/id935528099",
+    "iap_name": "音樂合集SP01",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786831221
   }
 ]
