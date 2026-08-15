@@ -105,21 +105,6 @@
     "last_updated": 1786098686
   },
   {
-    "id": "1570093460:INS G-0",
-    "app_id": "1570093460",
-    "app_name": "OldRoll - 復古底片拍照相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/48/0d/a3480df7-a943-c82b-6866-cefe8a1e640d/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/oldroll-%E5%BE%A9%E5%8F%A4%E5%BA%95%E7%89%87%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%A9%9F/id1570093460",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785787177
-  },
-  {
     "id": "6757769363:Classic LifeTime Pro",
     "app_id": "6757769363",
     "app_name": "iGrooveMuseApp - App Store",
@@ -720,6 +705,21 @@
     "last_updated": 1784654271
   },
   {
+    "id": "1260277664:Life Time",
+    "app_id": "1260277664",
+    "app_name": "Luxroom - 極影相機 拍照 照片編輯 拍照軟體App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/bf/51/7cbf5130-53c2-a2af-97cb-0351d1ba26b9/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/luxroom-%E6%A5%B5%E5%BD%B1%E7%9B%B8%E6%A9%9F-%E6%8B%8D%E7%85%A7-%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF-%E6%8B%8D%E7%85%A7%E8%BB%9F%E9%AB%94/id1260277664",
+    "iap_name": "Life Time",
+    "current_price": 0,
+    "original_price": 990,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786773243
+  },
+  {
     "id": "6760213216:Lifetime Unlock – Chinese",
     "app_id": "6760213216",
     "app_name": "TypeFlow ChineseApp - App Store",
@@ -1228,21 +1228,6 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786770139
-  },
-  {
-    "id": "478293637:Promo",
-    "app_id": "478293637",
-    "app_name": "Anytune Pro+: Studio Tools App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e0/00/d6e000d2-48a4-8e6d-7dfc-5eecd393c4c7/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/anytune-pro-studio-tools/id478293637",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786768964
   },
   {
     "id": "1558783458:Pro version",
@@ -3147,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786749254
+    "last_updated": 1786773243
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -3252,7 +3237,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786770139
+    "last_updated": 1786773243
   },
   {
     "id": "6471479898:Blue Cat",
@@ -3262,12 +3247,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786771932
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -3277,12 +3262,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Brahms: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -3292,12 +3277,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Schumann: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -3307,12 +3292,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Satie: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -3322,12 +3307,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Liszt: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -3337,12 +3322,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Burgmüller: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -3352,12 +3337,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Tchaikovsky: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -3367,12 +3352,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Haydn: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -3382,12 +3367,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Rameau: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -3397,12 +3382,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "Händel: The Mutopia Collection",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786765199
+    "is_free": 0,
+    "last_updated": 1786773243
   },
   {
     "id": "307569751:Free Starter Pack",
@@ -3448,5 +3433,65 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786770139
+  },
+  {
+    "id": "478293637:Promo",
+    "app_id": "478293637",
+    "app_name": "Anytune Pro+: Studio Tools App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/e0/00/d6e000d2-48a4-8e6d-7dfc-5eecd393c4c7/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/anytune-pro-studio-tools/id478293637",
+    "iap_name": "Promo",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786773243
+  },
+  {
+    "id": "807752194:設置",
+    "app_id": "807752194",
+    "app_name": "大提琴調音器專業版 - Cello Tuner ProApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/d1/ff/94d1ff1b-d47a-9aed-630c-32a39a67fc69/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%A4%A7%E6%8F%90%E7%90%B4%E8%AA%BF%E9%9F%B3%E5%99%A8%E5%B0%88%E6%A5%AD%E7%89%88-cello-tuner-pro/id807752194",
+    "iap_name": "設置",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786773243
+  },
+  {
+    "id": "807752194:音叉",
+    "app_id": "807752194",
+    "app_name": "大提琴調音器專業版 - Cello Tuner ProApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/d1/ff/94d1ff1b-d47a-9aed-630c-32a39a67fc69/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E5%A4%A7%E6%8F%90%E7%90%B4%E8%AA%BF%E9%9F%B3%E5%99%A8%E5%B0%88%E6%A5%AD%E7%89%88-cello-tuner-pro/id807752194",
+    "iap_name": "音叉",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786773243
+  },
+  {
+    "id": "1570093460:INS G-0",
+    "app_id": "1570093460",
+    "app_name": "OldRoll - 復古底片拍照相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/d2/e3/a8d2e35f-66e0-24bb-0989-61be787a9108/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/oldroll-%E5%BE%A9%E5%8F%A4%E5%BA%95%E7%89%87%E6%8B%8D%E7%85%A7%E7%9B%B8%E6%A9%9F/id1570093460",
+    "iap_name": "INS G-0",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786773243
   }
 ]
