@@ -2712,7 +2712,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786909029
+    "last_updated": 1786924356
   },
   {
     "id": "331529422:Free for Life Promo",
@@ -3912,7 +3912,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786858315
+    "last_updated": 1786924356
   },
   {
     "id": "1149994032:Auto",
@@ -4290,21 +4290,6 @@
     "last_updated": 1786921144
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786922301
-  },
-  {
     "id": "1441905750:The Neutrals",
     "app_id": "1441905750",
     "app_name": "Distressed FX : PlusApp - App Store",
@@ -4572,7 +4557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786922301
+    "last_updated": 1786924356
   },
   {
     "id": "623592465:Mix It Up",
@@ -4587,7 +4572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786922301
+    "last_updated": 1786924356
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4602,7 +4587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786922301
+    "last_updated": 1786924356
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4617,7 +4602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786922301
+    "last_updated": 1786924356
   },
   {
     "id": "550101894:離線資料授權",
@@ -4648,5 +4633,20 @@
     "currency": "USD",
     "is_free": 0,
     "last_updated": 1786923421
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786924356
   }
 ]
