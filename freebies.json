@@ -4087,12 +4087,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786916287
+    "is_free": 0,
+    "last_updated": 1786917701
   },
   {
     "id": "623592465:Mix It Up",
@@ -4102,12 +4102,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786916287
+    "is_free": 0,
+    "last_updated": 1786917701
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4117,12 +4117,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786916287
+    "is_free": 0,
+    "last_updated": 1786917701
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4132,12 +4132,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786916287
+    "is_free": 0,
+    "last_updated": 1786917701
   },
   {
     "id": "1370362850:Wisdom Font Pack",
@@ -4377,7 +4377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786916287
+    "last_updated": 1786917701
   },
   {
     "id": "1441905750:The Neutrals",
