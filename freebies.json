@@ -3487,12 +3487,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/cf/d3/f5cfd353-0a50-baaa-7b9a-de15dea3a072/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/blink-quick-notes-widget/id1182856129",
-    "iap_name": "Pages",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786881278
+    "is_free": 0,
+    "last_updated": 1786893089
   },
   {
     "id": "587176822:Founder Type: Miao Wu",
@@ -4047,7 +4047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786892129
+    "last_updated": 1786893089
   },
   {
     "id": "1439723850:桌面透明小組件",
@@ -4107,7 +4107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786891016
+    "last_updated": 1786893089
   },
   {
     "id": "1294956870:模組更新",
@@ -4137,7 +4137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786891016
+    "last_updated": 1786893089
   },
   {
     "id": "623592465:Mix It Up",
@@ -4152,7 +4152,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786891016
+    "last_updated": 1786893089
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4167,7 +4167,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786891016
+    "last_updated": 1786893089
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4182,6 +4182,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786891016
+    "last_updated": 1786893089
   }
 ]
