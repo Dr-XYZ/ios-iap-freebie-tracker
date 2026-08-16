@@ -855,21 +855,6 @@
     "last_updated": 1785192335
   },
   {
-    "id": "438132417:Full Book Content (Past Purchase)",
-    "app_id": "438132417",
-    "app_name": "I Ching: Book of ChangesApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/3c/a8/f43ca885-08c5-bcd9-21ae-62c906c6c011/IconGold-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/i-ching-book-of-changes/id438132417",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1785674631
-  },
-  {
     "id": "427637607:Studio Pack",
     "app_id": "427637607",
     "app_name": "Anytune Pro: Music Trainer App - App Store",
@@ -3762,7 +3747,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:Meks Style",
@@ -3777,7 +3762,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:Naks Style",
@@ -3792,7 +3777,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:UtahEther Style",
@@ -3807,7 +3792,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:Taste Style",
@@ -3822,7 +3807,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:Roach Style",
@@ -3837,7 +3822,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:River Style",
@@ -3852,7 +3837,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:Merlot Style",
@@ -3867,7 +3852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:Ewok Style",
@@ -3882,7 +3867,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "989324123:Amuse Style",
@@ -3897,7 +3882,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786834743
+    "last_updated": 1786900165
   },
   {
     "id": "1126609754:B Filters Pack",
@@ -4122,7 +4107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786897985
+    "last_updated": 1786900165
   },
   {
     "id": "623592465:Mix It Up",
@@ -4137,7 +4122,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786897985
+    "last_updated": 1786900165
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4152,7 +4137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786897985
+    "last_updated": 1786900165
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4167,7 +4152,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786897985
+    "last_updated": 1786900165
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4182,7 +4167,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786899268
+    "last_updated": 1786900165
   },
   {
     "id": "1370362850:Wisdom Font Pack",
@@ -4243,5 +4228,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786895514
+  },
+  {
+    "id": "438132417:Full Book Content (Past Purchase)",
+    "app_id": "438132417",
+    "app_name": "I Ching: Book of ChangesApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/3c/a8/f43ca885-08c5-bcd9-21ae-62c906c6c011/IconGold-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/i-ching-book-of-changes/id438132417",
+    "iap_name": "Full Book Content (Past Purchase)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786900165
   }
 ]
