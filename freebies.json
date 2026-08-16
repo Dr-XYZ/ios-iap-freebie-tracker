@@ -387,7 +387,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786815313
+    "last_updated": 1786880388
   },
   {
     "id": "6736862015:Enso Lifetime",
@@ -3957,7 +3957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786877988
+    "last_updated": 1786880388
   },
   {
     "id": "623592465:Mix It Up",
@@ -3972,7 +3972,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786877988
+    "last_updated": 1786880388
   },
   {
     "id": "623592465:The Ellen Show",
@@ -3987,7 +3987,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786877988
+    "last_updated": 1786880388
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4002,7 +4002,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786877988
+    "last_updated": 1786880388
   },
   {
     "id": "1149994032:Auto",
@@ -4012,12 +4012,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/af/5d/23af5d38-f629-dad0-4890-78ca6908b55d/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/facetune-%E5%9C%96%E7%89%87-%E5%BD%B1%E7%89%87-%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF-%E5%85%A8%E6%96%B9%E4%BD%8D%E7%BE%8E%E9%A1%8F%E8%87%AA%E6%8B%8D%E7%A5%9E%E5%99%A8/id1149994032",
-    "iap_name": "Auto",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786868683
+    "is_free": 0,
+    "last_updated": 1786880388
   },
   {
     "id": "1149994032:燈光效果",
@@ -4027,12 +4027,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/af/5d/23af5d38-f629-dad0-4890-78ca6908b55d/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/facetune-%E5%9C%96%E7%89%87-%E5%BD%B1%E7%89%87-%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF-%E5%85%A8%E6%96%B9%E4%BD%8D%E7%BE%8E%E9%A1%8F%E8%87%AA%E6%8B%8D%E7%A5%9E%E5%99%A8/id1149994032",
-    "iap_name": "燈光效果",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786868683
+    "is_free": 0,
+    "last_updated": 1786880388
   },
   {
     "id": "961227503:專業工具",
@@ -4062,7 +4062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786877988
+    "last_updated": 1786880388
   },
   {
     "id": "406541444:倒計時主題",
@@ -4137,7 +4137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786879226
+    "last_updated": 1786880388
   },
   {
     "id": "1439723850:桌面透明小組件",
@@ -4153,5 +4153,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786879226
+  },
+  {
+    "id": "1208145167:升級到 Picsew Plus",
+    "app_id": "1208145167",
+    "app_name": "Picsew - 滾動截圖 & 長圖拼接App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/27/50/932750ef-1915-d0b0-8590-46e3ec640911/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/picsew-%E6%BB%BE%E5%8B%95%E6%88%AA%E5%9C%96-%E9%95%B7%E5%9C%96%E6%8B%BC%E6%8E%A5/id1208145167",
+    "iap_name": "升級到 Picsew Plus",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786880388
   }
 ]
