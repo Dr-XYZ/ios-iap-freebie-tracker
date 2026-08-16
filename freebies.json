@@ -2712,7 +2712,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786894517
+    "last_updated": 1786909029
   },
   {
     "id": "331529422:Free for Life Promo",
@@ -3727,12 +3727,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/77/73/4b7773a9-91c0-7067-9429-867fad3dca8a/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E5%90%8C%E6%AD%A5%E9%9F%B3%E5%BE%8B/id935528099",
-    "iap_name": "音樂合集SP01",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786887081
+    "is_free": 0,
+    "last_updated": 1786909029
   },
   {
     "id": "989324123:Meloh Style",
@@ -4092,7 +4092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786906645
+    "last_updated": 1786909029
   },
   {
     "id": "623592465:Mix It Up",
@@ -4107,7 +4107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786906645
+    "last_updated": 1786909029
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4122,7 +4122,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786906645
+    "last_updated": 1786909029
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4137,7 +4137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786906645
+    "last_updated": 1786909029
   },
   {
     "id": "1370362850:Wisdom Font Pack",
@@ -4342,11 +4342,56 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 0,
+    "last_updated": 1786909029
+  },
+  {
+    "id": "952050883:Garden Sticker Pack",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Garden Sticker Pack",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786907837
+    "last_updated": 1786909029
+  },
+  {
+    "id": "952050883:Travel Sticker Pack",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Travel Sticker Pack",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786909029
+  },
+  {
+    "id": "952050883:Unlock All Features",
+    "app_id": "952050883",
+    "app_name": "VLLO，我的第一款Vlog影片剪輯AppApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
+    "iap_name": "Unlock All Features",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786909029
   }
 ]
