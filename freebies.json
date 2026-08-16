@@ -4047,7 +4047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786856465
+    "last_updated": 1786858315
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4057,12 +4057,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786854515
+    "is_free": 0,
+    "last_updated": 1786858315
   },
   {
     "id": "623592465:Just For Kids",
@@ -4072,12 +4072,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "iap_name": "Just For Kids",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786854515
+    "is_free": 1,
+    "last_updated": 1786858315
   },
   {
     "id": "623592465:Mix It Up",
@@ -4087,12 +4087,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "iap_name": "Mix It Up",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786854515
+    "is_free": 1,
+    "last_updated": 1786858315
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4102,12 +4102,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "iap_name": "The Ellen Show",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786854515
+    "is_free": 1,
+    "last_updated": 1786858315
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4117,11 +4117,26 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "iap_name": "Ocean Vacation",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786854515
+    "is_free": 1,
+    "last_updated": 1786858315
+  },
+  {
+    "id": "6476109261:TWILIGHT 04 SKY",
+    "app_id": "6476109261",
+    "app_name": "Luminar 手機照片編輯器App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/88/26/7488265f-13d3-8be7-1447-89ecbd7d0e68/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/luminar-%E6%89%8B%E6%A9%9F%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8/id6476109261",
+    "iap_name": "TWILIGHT 04 SKY",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786858315
   }
 ]
