@@ -2487,7 +2487,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786734337
+    "last_updated": 1786921144
   },
   {
     "id": "730712409:AI 空間",
@@ -2502,7 +2502,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786734337
+    "last_updated": 1786921144
   },
   {
     "id": "730712409:批量相片處理",
@@ -2517,7 +2517,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786734337
+    "last_updated": 1786921144
   },
   {
     "id": "1112481571:Constellations of Avengers",
@@ -4050,21 +4050,6 @@
     "last_updated": 1786880388
   },
   {
-    "id": "550101894:離線資料授權",
-    "app_id": "550101894",
-    "app_name": "高吉占星 專業版Pro 星座占卜大師App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/33/1e/b1/331eb188-9020-5e08-e6b9-1c74cc7650db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E9%AB%98%E5%90%89%E5%8D%A0%E6%98%9F-%E5%B0%88%E6%A5%AD%E7%89%88pro-%E6%98%9F%E5%BA%A7%E5%8D%A0%E5%8D%9C%E5%A4%A7%E5%B8%AB/id550101894",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786916287
-  },
-  {
     "id": "1294956870:模組更新",
     "app_id": "1294956870",
     "app_name": "東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫App - App Store",
@@ -4272,7 +4257,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786909029
+    "last_updated": 1786921144
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -4287,7 +4272,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786909029
+    "last_updated": 1786921144
   },
   {
     "id": "952050883:Unlock All Features",
@@ -4302,7 +4287,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786909029
+    "last_updated": 1786921144
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4648,5 +4633,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786920330
+  },
+  {
+    "id": "550101894:離線資料授權",
+    "app_id": "550101894",
+    "app_name": "高吉占星 專業版Pro 星座占卜大師App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/33/1e/b1/331eb188-9020-5e08-e6b9-1c74cc7650db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E9%AB%98%E5%90%89%E5%8D%A0%E6%98%9F-%E5%B0%88%E6%A5%AD%E7%89%88pro-%E6%98%9F%E5%BA%A7%E5%8D%A0%E5%8D%9C%E5%A4%A7%E5%B8%AB/id550101894",
+    "iap_name": "離線資料授權",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786921144
   }
 ]
