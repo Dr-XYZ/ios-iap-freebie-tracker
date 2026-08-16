@@ -2730,21 +2730,6 @@
     "last_updated": 1786701279
   },
   {
-    "id": "961227503:專業工具",
-    "app_id": "961227503",
-    "app_name": "燒杯 - BEAKERApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786866016
-  },
-  {
     "id": "1080181813:Pro Version",
     "app_id": "1080181813",
     "app_name": "VocularApp - App Store",
@@ -3132,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786854515
+    "last_updated": 1786870369
   },
   {
     "id": "1095903651:特效6",
@@ -3147,7 +3132,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786854515
+    "last_updated": 1786870369
   },
   {
     "id": "1095903651:特效5",
@@ -3162,7 +3147,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786854515
+    "last_updated": 1786870369
   },
   {
     "id": "1095903651:特效4",
@@ -3177,7 +3162,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786854515
+    "last_updated": 1786870369
   },
   {
     "id": "1095903651:特效3",
@@ -3192,7 +3177,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786854515
+    "last_updated": 1786870369
   },
   {
     "id": "1095903651:特效2",
@@ -3207,7 +3192,7 @@
     "original_price": 30,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786854515
+    "last_updated": 1786870369
   },
   {
     "id": "1095903651:特效1",
@@ -3222,7 +3207,7 @@
     "original_price": 30,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786854515
+    "last_updated": 1786870369
   },
   {
     "id": "467703220:\"Playdate With Elmo\" Pack",
@@ -4032,7 +4017,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786868683
+    "last_updated": 1786870369
   },
   {
     "id": "623592465:Just For Kids",
@@ -4047,7 +4032,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786868683
+    "last_updated": 1786870369
   },
   {
     "id": "623592465:Mix It Up",
@@ -4062,7 +4047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786868683
+    "last_updated": 1786870369
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4077,7 +4062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786868683
+    "last_updated": 1786870369
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4092,7 +4077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786868683
+    "last_updated": 1786870369
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4107,7 +4092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786868683
+    "last_updated": 1786870369
   },
   {
     "id": "1149994032:Auto",
@@ -4138,5 +4123,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786868683
+  },
+  {
+    "id": "961227503:專業工具",
+    "app_id": "961227503",
+    "app_name": "燒杯 - BEAKERApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
+    "iap_name": "專業工具",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786870369
   }
 ]
