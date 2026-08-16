@@ -3457,12 +3457,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/4e/6d/654e6d1e-bd7d-0649-c1dd-3e03fb727339/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/worthtrail-%E8%B3%87%E7%94%A2%E7%AE%A1%E5%AE%B6/id6777620163",
-    "iap_name": "WorthTrail Pro",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786892129
+    "is_free": 0,
+    "last_updated": 1786911874
   },
   {
     "id": "1182856129:Pages",
@@ -4062,7 +4062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786907837
+    "last_updated": 1786911874
   },
   {
     "id": "1294956870:模組更新",
@@ -4092,7 +4092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786910429
+    "last_updated": 1786911874
   },
   {
     "id": "623592465:Mix It Up",
@@ -4107,7 +4107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786910429
+    "last_updated": 1786911874
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4122,7 +4122,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786910429
+    "last_updated": 1786911874
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4137,7 +4137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786910429
+    "last_updated": 1786911874
   },
   {
     "id": "1370362850:Wisdom Font Pack",
@@ -4332,7 +4332,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786910429
+    "last_updated": 1786911874
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -4392,6 +4392,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786909868
+    "last_updated": 1786911874
   }
 ]
