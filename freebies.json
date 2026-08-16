@@ -3897,7 +3897,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786838030
+    "last_updated": 1786903219
   },
   {
     "id": "6476109261:TWILIGHT 04 SKY",
@@ -4062,7 +4062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786899268
+    "last_updated": 1786903219
   },
   {
     "id": "1294956870:模組更新",
@@ -4242,7 +4242,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786901543
+    "last_updated": 1786903219
   },
   {
     "id": "1466096721:Kingmaker",
@@ -4333,5 +4333,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786901543
+  },
+  {
+    "id": "1490656387:14-Day Trial",
+    "app_id": "1490656387",
+    "app_name": "Incognito — Private BrowserApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/df/11/05df1112-cb79-21a7-367b-bb67943ab7b6/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/incognito-private-browser/id1490656387",
+    "iap_name": "14-Day Trial",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786903219
   }
 ]
