@@ -4092,7 +4092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786911874
+    "last_updated": 1786913955
   },
   {
     "id": "623592465:Mix It Up",
@@ -4107,7 +4107,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786911874
+    "last_updated": 1786913955
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4122,7 +4122,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786911874
+    "last_updated": 1786913955
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4137,7 +4137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786911874
+    "last_updated": 1786913955
   },
   {
     "id": "1370362850:Wisdom Font Pack",
@@ -4377,7 +4377,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786911874
+    "last_updated": 1786913955
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4392,7 +4392,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786913065
+    "last_updated": 1786913955
   },
   {
     "id": "1441905750:The Neutrals",
@@ -4543,5 +4543,35 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786913065
+  },
+  {
+    "id": "1537060891:Ragnarök for free download",
+    "app_id": "1537060891",
+    "app_name": "Titan Quest: Legendary EditionApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/98/08/059808ab-9d5d-493f-f7e8-569ed89b159d/AppIcon_FullEdition-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/titan-quest-legendary-edition/id1537060891",
+    "iap_name": "Ragnarök for free download",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786913955
+  },
+  {
+    "id": "1537060891:Atlantis for free download",
+    "app_id": "1537060891",
+    "app_name": "Titan Quest: Legendary EditionApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/98/08/059808ab-9d5d-493f-f7e8-569ed89b159d/AppIcon_FullEdition-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/titan-quest-legendary-edition/id1537060891",
+    "iap_name": "Atlantis for free download",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786913955
   }
 ]
