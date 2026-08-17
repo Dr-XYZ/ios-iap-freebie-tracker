@@ -3847,12 +3847,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/0b/63/670b63e4-9a3d-e9a8-fee2-d49251462098/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/preview-planner-for-instagram/id1126609754",
-    "iap_name": "B Filters Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786903219
+    "is_free": 0,
+    "last_updated": 1786978927
   },
   {
     "id": "6476109261:TWILIGHT 04 SKY",
@@ -4197,7 +4197,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786903219
+    "last_updated": 1786978927
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -4527,7 +4527,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786976014
+    "last_updated": 1786978927
   },
   {
     "id": "623592465:Just For Kids",
@@ -4672,11 +4672,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786977839
+    "is_free": 0,
+    "last_updated": 1786978927
   }
 ]
