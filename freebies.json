@@ -3117,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "1041465860:Symbiotic Equations",
@@ -3447,7 +3447,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:Ana's Rusty Typewriter ",
@@ -3462,7 +3462,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:造字工房丁丁手绘体",
@@ -3477,7 +3477,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:BERNIER",
@@ -3492,7 +3492,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:Pacifico",
@@ -3507,7 +3507,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:Founder Type: Pang Wa Ti",
@@ -3522,7 +3522,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:Bukhari Script",
@@ -3537,7 +3537,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:新蒂下午茶体",
@@ -3552,7 +3552,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "587176822:华康童童体",
@@ -3567,7 +3567,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "596628003:Guitar: Epic Lead Soundpack",
@@ -4017,7 +4017,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786889451
+    "last_updated": 1786967623
   },
   {
     "id": "1370362850:Wisdom Font Pack",
@@ -4527,7 +4527,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786964553
+    "last_updated": 1786967623
   },
   {
     "id": "623592465:Just For Kids",
@@ -4620,21 +4620,6 @@
     "last_updated": 1786940554
   },
   {
-    "id": "6471479898:Blue Cat",
-    "app_id": "6471479898",
-    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786966363
-  },
-  {
     "id": "1024395134:Drag and Drop",
     "app_id": "1024395134",
     "app_name": "Yam DisplayApp - App Store",
@@ -4678,5 +4663,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1786963247
+  },
+  {
+    "id": "6471479898:Blue Cat",
+    "app_id": "6471479898",
+    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
+    "iap_name": "Blue Cat",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786967623
   }
 ]
