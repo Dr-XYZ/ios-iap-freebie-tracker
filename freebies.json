@@ -582,7 +582,7 @@
     "original_price": 990,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786861529
+    "last_updated": 1786946718
   },
   {
     "id": "6760213216:Lifetime Unlock – Chinese",
@@ -2707,12 +2707,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/autopad-ambient-pad-loops/id1270890718",
-    "iap_name": "Bonus Sounds",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786924356
+    "is_free": 0,
+    "last_updated": 1786946718
   },
   {
     "id": "331529422:Free for Life Promo",
@@ -4632,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786945349
+    "last_updated": 1786946718
   },
   {
     "id": "6791403654:Lifetime",
