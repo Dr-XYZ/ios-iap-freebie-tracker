@@ -1092,7 +1092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786187781
+    "last_updated": 1787009952
   },
   {
     "id": "938571723:Cupcake Mania",
@@ -1347,7 +1347,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786983063
+    "last_updated": 1787009952
   },
   {
     "id": "650415564:X-Film Bundle",
@@ -1362,7 +1362,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786983063
+    "last_updated": 1787009952
   },
   {
     "id": "1464645812:所有內容",
@@ -3207,7 +3207,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786995527
+    "last_updated": 1787009952
   },
   {
     "id": "454390333:自動同步",
@@ -4440,66 +4440,6 @@
     "last_updated": 1786963247
   },
   {
-    "id": "623592465:Just For Kids",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787007434
-  },
-  {
-    "id": "623592465:Mix It Up",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787007434
-  },
-  {
-    "id": "623592465:The Ellen Show",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787007434
-  },
-  {
-    "id": "623592465:Ocean Vacation",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787007434
-  },
-  {
     "id": "6471479898:Blue Cat",
     "app_id": "6471479898",
     "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
@@ -4512,7 +4452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787008591
+    "last_updated": 1787009952
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -4662,6 +4602,66 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787007434
+    "last_updated": 1787009952
+  },
+  {
+    "id": "623592465:Just For Kids",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Just For Kids",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787009952
+  },
+  {
+    "id": "623592465:Mix It Up",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Mix It Up",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787009952
+  },
+  {
+    "id": "623592465:The Ellen Show",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "The Ellen Show",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787009952
+  },
+  {
+    "id": "623592465:Ocean Vacation",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Ocean Vacation",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787009952
   }
 ]
