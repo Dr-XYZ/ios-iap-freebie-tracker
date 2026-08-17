@@ -3117,7 +3117,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786917196
+    "last_updated": 1786940554
   },
   {
     "id": "687387128:Primary Series Charts",
@@ -4237,12 +4237,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Garden Sticker Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786921144
+    "is_free": 0,
+    "last_updated": 1786940554
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -4252,12 +4252,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Travel Sticker Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786921144
+    "is_free": 0,
+    "last_updated": 1786940554
   },
   {
     "id": "952050883:Unlock All Features",
@@ -4267,12 +4267,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Unlock All Features",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786921144
+    "is_free": 0,
+    "last_updated": 1786940554
   },
   {
     "id": "1441905750:The Neutrals",
@@ -4530,66 +4530,6 @@
     "last_updated": 1786917196
   },
   {
-    "id": "623592465:Just For Kids",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786934796
-  },
-  {
-    "id": "623592465:Mix It Up",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786934796
-  },
-  {
-    "id": "623592465:The Ellen Show",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786934796
-  },
-  {
-    "id": "623592465:Ocean Vacation",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786934796
-  },
-  {
     "id": "550101894:離線資料授權",
     "app_id": "550101894",
     "app_name": "高吉占星 專業版Pro 星座占卜大師App - App Store",
@@ -4617,7 +4557,67 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786934796
+    "last_updated": 1786940554
+  },
+  {
+    "id": "623592465:Just For Kids",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Just For Kids",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786940554
+  },
+  {
+    "id": "623592465:Mix It Up",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Mix It Up",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786940554
+  },
+  {
+    "id": "623592465:The Ellen Show",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "The Ellen Show",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786940554
+  },
+  {
+    "id": "623592465:Ocean Vacation",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Ocean Vacation",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786940554
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4627,11 +4627,41 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
+    "iap_name": "Blue Cat",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786937704
+    "is_free": 1,
+    "last_updated": 1786940554
+  },
+  {
+    "id": "6791403654:Lifetime",
+    "app_id": "6791403654",
+    "app_name": "Precursor: Hourly Screen TimeApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/57/37/e45737e6-7c53-099f-d9f1-523bc20cb0b7/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/precursor-hourly-screen-time/id6791403654",
+    "iap_name": "Lifetime",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786940554
+  },
+  {
+    "id": "6758571512:Lifetime",
+    "app_id": "6758571512",
+    "app_name": "Gutio: FODMAP, IBS & PoopApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/57/52/73575214-5175-3e78-c90f-defdabd3196e/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/gutio-fodmap-ibs-poop/id6758571512",
+    "iap_name": "Lifetime",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1786940554
   }
 ]
