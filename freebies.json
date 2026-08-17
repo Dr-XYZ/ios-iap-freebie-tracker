@@ -3844,7 +3844,7 @@
     "app_id": "6476109261",
     "app_name": "Luminar 手機照片編輯器App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/88/26/7488265f-13d3-8be7-1447-89ecbd7d0e68/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/e7/61/0ce761d6-4871-1264-f913-4239ac67dd43/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/luminar-%E6%89%8B%E6%A9%9F%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8/id6476109261",
     "iap_name": "TWILIGHT 04 SKY",
@@ -3852,7 +3852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786924356
+    "last_updated": 1786997841
   },
   {
     "id": "1149994032:Auto",
@@ -4642,12 +4642,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786996639
+    "is_free": 0,
+    "last_updated": 1786997841
   },
   {
     "id": "432850619:Groove Machine Synth",
