@@ -3462,7 +3462,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:Meks Style",
@@ -3477,7 +3477,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:Naks Style",
@@ -3492,7 +3492,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:UtahEther Style",
@@ -3507,7 +3507,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:Taste Style",
@@ -3522,7 +3522,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:Roach Style",
@@ -3537,7 +3537,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:River Style",
@@ -3552,7 +3552,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:Merlot Style",
@@ -3567,7 +3567,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:Ewok Style",
@@ -3582,7 +3582,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "989324123:Amuse Style",
@@ -3597,7 +3597,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "1126609754:B Filters Pack",
@@ -3792,7 +3792,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "1370362850:Just Font Pack",
@@ -3807,7 +3807,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "1370362850:Future Font Pack",
@@ -3822,7 +3822,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "1370362850:Always Font Pack",
@@ -3837,7 +3837,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786977839
+    "last_updated": 1787052987
   },
   {
     "id": "438132417:Full Book Content (Past Purchase)",
@@ -3957,7 +3957,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786978927
+    "last_updated": 1787052987
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -4497,7 +4497,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787050075
+    "last_updated": 1787052987
   },
   {
     "id": "766214869:Exposure",
@@ -4605,21 +4605,6 @@
     "last_updated": 1787036910
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787050075
-  },
-  {
     "id": "1152749877:香檳金主題",
     "app_id": "1152749877",
     "app_name": "舒適注音 ProApp - App Store",
@@ -4662,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787051158
+    "last_updated": 1787052987
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -4672,12 +4657,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787050075
+    "is_free": 0,
+    "last_updated": 1787052987
   },
   {
     "id": "730712409:AI 空間",
@@ -4687,12 +4672,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787050075
+    "is_free": 0,
+    "last_updated": 1787052987
   },
   {
     "id": "730712409:批量相片處理",
@@ -4702,12 +4687,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787050075
+    "is_free": 0,
+    "last_updated": 1787052987
   },
   {
     "id": "6480463426:促銷會員資格 4",
@@ -4737,7 +4722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787052987
   },
   {
     "id": "623592465:Mix It Up",
@@ -4752,7 +4737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787052987
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4767,7 +4752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787052987
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4782,6 +4767,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787052987
+  },
+  {
+    "id": "432850619:Groove Machine Synth",
+    "app_id": "432850619",
+    "app_name": "FL Studio MobileApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
+    "iap_name": "Groove Machine Synth",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787052987
   }
 ]
