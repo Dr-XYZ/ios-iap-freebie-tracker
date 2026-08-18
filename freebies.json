@@ -4252,12 +4252,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/df/60/7ddf6061-3818-5a7a-0b02-b1b2d48c11e2/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/onephoto-%E7%85%A7%E7%89%87%E6%B8%85%E7%90%86/id6779493280",
-    "iap_name": "Supporter",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787026979
+    "is_free": 0,
+    "last_updated": 1787095084
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -4647,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787092783
+    "last_updated": 1787095084
   },
   {
     "id": "623592465:Mix It Up",
@@ -4662,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787092783
+    "last_updated": 1787095084
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4677,7 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787092783
+    "last_updated": 1787095084
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4692,7 +4692,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787092783
+    "last_updated": 1787095084
   },
   {
     "id": "361124046:Flanges B16.47",
@@ -4777,11 +4777,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787093896
+    "is_free": 0,
+    "last_updated": 1787095084
   }
 ]
