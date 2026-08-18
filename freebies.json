@@ -4632,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787055969
+    "last_updated": 1787059019
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -4647,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787052987
+    "last_updated": 1787059019
   },
   {
     "id": "730712409:AI 空間",
@@ -4662,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787052987
+    "last_updated": 1787059019
   },
   {
     "id": "730712409:批量相片處理",
@@ -4677,7 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787052987
+    "last_updated": 1787059019
   },
   {
     "id": "6480463426:促銷會員資格 4",
@@ -4777,11 +4777,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/97/e6/3b97e64e-a3bb-97e1-b8dc-5bd6ba477eb2/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/symphony-pro-music-notation/id412380315",
-    "iap_name": "Version 4: Complete Features Bundle",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787055969
+    "is_free": 0,
+    "last_updated": 1787059019
   }
 ]
