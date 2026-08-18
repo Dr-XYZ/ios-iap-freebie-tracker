@@ -577,12 +577,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/bf/51/7cbf5130-53c2-a2af-97cb-0351d1ba26b9/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/luxroom-%E6%A5%B5%E5%BD%B1%E7%9B%B8%E6%A9%9F-%E6%8B%8D%E7%85%A7-%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF-%E6%8B%8D%E7%85%A7%E8%BB%9F%E9%AB%94/id1260277664",
-    "iap_name": "Life Time",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 990,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1786946718
+    "is_free": 0,
+    "last_updated": 1787032280
   },
   {
     "id": "6788200034:Lifetime",
@@ -4572,7 +4572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787030573
+    "last_updated": 1787032280
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4582,12 +4582,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787029054
+    "is_free": 0,
+    "last_updated": 1787032280
   },
   {
     "id": "412380315:Version 4: Complete Features Bundle",
@@ -4602,7 +4602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787029054
+    "last_updated": 1787032280
   },
   {
     "id": "623592465:Just For Kids",
@@ -4617,7 +4617,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787030573
+    "last_updated": 1787032280
   },
   {
     "id": "623592465:Mix It Up",
@@ -4632,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787030573
+    "last_updated": 1787032280
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4647,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787030573
+    "last_updated": 1787032280
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4662,6 +4662,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787030573
+    "last_updated": 1787032280
   }
 ]
