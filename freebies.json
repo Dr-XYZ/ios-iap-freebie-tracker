@@ -4407,7 +4407,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787065429
+    "last_updated": 1787096442
   },
   {
     "id": "766214869:Light basics",
@@ -4422,7 +4422,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787065429
+    "last_updated": 1787096442
   },
   {
     "id": "766214869:White Balance",
@@ -4437,7 +4437,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787065429
+    "last_updated": 1787096442
   },
   {
     "id": "766214869:Composition basics",
@@ -4452,7 +4452,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787065429
+    "last_updated": 1787096442
   },
   {
     "id": "766214869:Shutter Speed",
@@ -4467,7 +4467,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787065429
+    "last_updated": 1787096442
   },
   {
     "id": "766214869:Depth of field",
@@ -4482,7 +4482,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787065429
+    "last_updated": 1787096442
   },
   {
     "id": "766214869:Light modifiers",
@@ -4497,7 +4497,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787065429
+    "last_updated": 1787096442
   },
   {
     "id": "1152749877:香檳金主題",
@@ -4557,7 +4557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787093896
+    "last_updated": 1787096442
   },
   {
     "id": "730712409:AI 空間",
@@ -4572,7 +4572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787093896
+    "last_updated": 1787096442
   },
   {
     "id": "730712409:批量相片處理",
@@ -4587,7 +4587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787093896
+    "last_updated": 1787096442
   },
   {
     "id": "412380315:Version 4: Complete Features Bundle",
@@ -4632,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787093896
+    "last_updated": 1787096442
   },
   {
     "id": "623592465:Just For Kids",
@@ -4782,6 +4782,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787095084
+    "last_updated": 1787096442
+  },
+  {
+    "id": "6446667745:VIP Member",
+    "app_id": "6446667745",
+    "app_name": "StressTracker - 實時精準測壓力心理壓力自測App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/07/b9/1a07b90c-8c75-83e0-ec2e-9692692ae250/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/stresstracker-%E5%AF%A6%E6%99%82%E7%B2%BE%E6%BA%96%E6%B8%AC%E5%A3%93%E5%8A%9B%E5%BF%83%E7%90%86%E5%A3%93%E5%8A%9B%E8%87%AA%E6%B8%AC/id6446667745",
+    "iap_name": "VIP Member",
+    "current_price": 0,
+    "original_price": 790,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787096442
   }
 ]
