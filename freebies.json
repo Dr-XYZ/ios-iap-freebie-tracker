@@ -165,21 +165,6 @@
     "last_updated": 1786778958
   },
   {
-    "id": "6760171872:Lifetime Premium",
-    "app_id": "6760171872",
-    "app_name": "Blur Photo Editor: Face & BGApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/00/ac/1b00acaa-abb8-223a-cbbb-d3329dd5e834/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/blur-photo-editor-face-bg/id6760171872",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784388968
-  },
-  {
     "id": "6758056060:100 Fine Castles of Japan",
     "app_id": "6758056060",
     "app_name": "我去哪了?App - App Store",
@@ -3867,7 +3852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787085478
   },
   {
     "id": "1466096721:Adventure Pack",
@@ -3882,7 +3867,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787085478
   },
   {
     "id": "1466096721:Witch's Wake",
@@ -3897,7 +3882,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787085478
   },
   {
     "id": "1466096721:Shadowguard",
@@ -3912,7 +3897,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787085478
   },
   {
     "id": "1466096721:Italian Language Pack",
@@ -3927,7 +3912,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787085478
   },
   {
     "id": "1466096721:French Language Pack",
@@ -3942,7 +3927,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787050075
+    "last_updated": 1787085478
   },
   {
     "id": "1490656387:14-Day Trial",
@@ -4647,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
+    "last_updated": 1787085478
   },
   {
     "id": "623592465:Mix It Up",
@@ -4662,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
+    "last_updated": 1787085478
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4677,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
+    "last_updated": 1787085478
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4692,22 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
-  },
-  {
-    "id": "412380315:Version 4: Complete Features Bundle",
-    "app_id": "412380315",
-    "app_name": "Symphony Pro - Music NotationApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/97/e6/3b97e64e-a3bb-97e1-b8dc-5bd6ba477eb2/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/symphony-pro-music-notation/id412380315",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787080115
+    "last_updated": 1787085478
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4722,7 +4692,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787083823
+    "last_updated": 1787085478
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -4737,7 +4707,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
+    "last_updated": 1787085478
   },
   {
     "id": "730712409:AI 空間",
@@ -4752,7 +4722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
+    "last_updated": 1787085478
   },
   {
     "id": "730712409:批量相片處理",
@@ -4767,21 +4737,36 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
+    "last_updated": 1787085478
   },
   {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
+    "id": "412380315:Version 4: Complete Features Bundle",
+    "app_id": "412380315",
+    "app_name": "Symphony Pro - Music NotationApp - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/97/e6/3b97e64e-a3bb-97e1-b8dc-5bd6ba477eb2/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "store_url": "https://apps.apple.com/tw/app/symphony-pro-music-notation/id412380315",
+    "iap_name": "Version 4: Complete Features Bundle",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787082870
+    "last_updated": 1787085478
+  },
+  {
+    "id": "6760171872:Lifetime Premium",
+    "app_id": "6760171872",
+    "app_name": "Blur Photo Editor: Face & BGApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/f9/03/a8f90324-d98c-eb3e-0ed3-8a379b2c7a2a/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/blur-photo-editor-face-bg/id6760171872",
+    "iap_name": "Lifetime Premium",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787085478
   }
 ]
