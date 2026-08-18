@@ -4632,52 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787061562
-  },
-  {
-    "id": "730712409:ZERO: 直接感測器擷取",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787059019
-  },
-  {
-    "id": "730712409:AI 空間",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787059019
-  },
-  {
-    "id": "730712409:批量相片處理",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787059019
+    "last_updated": 1787063471
   },
   {
     "id": "6480463426:促銷會員資格 4",
@@ -4707,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787059019
+    "last_updated": 1787063471
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4783,5 +4738,50 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1787061562
+  },
+  {
+    "id": "730712409:ZERO: 直接感測器擷取",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "ZERO: 直接感測器擷取",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787063471
+  },
+  {
+    "id": "730712409:AI 空間",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "AI 空間",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787063471
+  },
+  {
+    "id": "730712409:批量相片處理",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/83/a2/2d83a23c-ca05-c729-b3c1-a671b7700ce5/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "批量相片處理",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787063471
   }
 ]
