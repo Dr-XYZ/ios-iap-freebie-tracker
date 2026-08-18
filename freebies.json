@@ -2842,12 +2842,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/50/6a/58506a20-06a6-2c4b-2920-04225c667f0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/elmo-calls/id467703220",
-    "iap_name": "\"Playdate With Elmo\" Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787048132
+    "is_free": 0,
+    "last_updated": 1787072576
   },
   {
     "id": "687387128:Primary Series Charts",
@@ -4242,7 +4242,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786993865
+    "last_updated": 1787072576
   },
   {
     "id": "1596728818:Conrad Keely Preset Pack",
@@ -4257,7 +4257,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1786993865
+    "last_updated": 1787072576
   },
   {
     "id": "550101894:離線資料授權",
@@ -4767,7 +4767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787071133
+    "last_updated": 1787072576
   },
   {
     "id": "412380315:Version 4: Complete Features Bundle",
