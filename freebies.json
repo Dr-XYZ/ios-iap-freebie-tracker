@@ -4137,7 +4137,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787072576
+    "last_updated": 1787141139
   },
   {
     "id": "1596728818:Conrad Keely Preset Pack",
@@ -4152,7 +4152,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787072576
+    "last_updated": 1787141139
   },
   {
     "id": "550101894:離線資料授權",
@@ -4522,12 +4522,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/40/88/c94088c2-9d8b-e633-0205-7c8b07944214/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E8%B6%85%E7%B4%9A%E9%AC%A7%E9%90%98-%E9%AC%A7%E9%90%98-%E6%99%82%E9%90%98-super-alarm/id6480463426",
-    "iap_name": "促銷會員資格 4",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787115624
+    "is_free": 0,
+    "last_updated": 1787141139
   },
   {
     "id": "412380315:Version 4: Complete Features Bundle",
@@ -4767,7 +4767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787136024
+    "last_updated": 1787141139
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4782,7 +4782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787138869
+    "last_updated": 1787141139
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4792,11 +4792,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787140193
+    "is_free": 0,
+    "last_updated": 1787141139
   }
 ]
