@@ -3947,17 +3947,17 @@
   {
     "id": "6791403654:Lifetime",
     "app_id": "6791403654",
-    "app_name": "Precursor: Hourly Screen TimeApp - App Store",
+    "app_name": "Precursor：每小時 App 限額App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/57/37/e45737e6-7c53-099f-d9f1-523bc20cb0b7/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/cb/b6/81cbb688-2121-1811-5529-2993be476649/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/precursor-hourly-screen-time/id6791403654",
+    "store_url": "https://apps.apple.com/tw/app/precursor-%E6%AF%8F%E5%B0%8F%E6%99%82-app-%E9%99%90%E9%A1%8D/id6791403654",
     "iap_name": "Lifetime",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787124270
+    "last_updated": 1787214032
   },
   {
     "id": "6758571512:Lifetime",
@@ -4710,21 +4710,6 @@
     "last_updated": 1787212425
   },
   {
-    "id": "6471479898:Blue Cat",
-    "app_id": "6471479898",
-    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787212425
-  },
-  {
     "id": "432850619:Groove Machine Synth",
     "app_id": "432850619",
     "app_name": "FL Studio MobileApp - App Store",
@@ -4813,5 +4798,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1787203094
+  },
+  {
+    "id": "6471479898:Blue Cat",
+    "app_id": "6471479898",
+    "app_name": "Cat Calendar：日曆 & 行事曆 & 時間管理App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
+    "iap_name": "Blue Cat",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787214032
   }
 ]
