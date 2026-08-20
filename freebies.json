@@ -4597,12 +4597,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787216414
+    "is_free": 0,
+    "last_updated": 1787220277
   },
   {
     "id": "623592465:Mix It Up",
@@ -4612,12 +4612,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787216414
+    "is_free": 0,
+    "last_updated": 1787220277
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4627,12 +4627,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787216414
+    "is_free": 0,
+    "last_updated": 1787220277
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4642,12 +4642,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787216414
+    "is_free": 0,
+    "last_updated": 1787220277
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4662,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787216414
+    "last_updated": 1787220277
   },
   {
     "id": "655607914:STANDARD ROCK KIT",
@@ -4752,7 +4752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787218633
+    "last_updated": 1787220277
   },
   {
     "id": "478293637:Promo",
@@ -4767,7 +4767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787216414
+    "last_updated": 1787220277
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
