@@ -4567,12 +4567,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/ca/a6/0fcaa647-17b2-bd7c-f30e-9028d5063585/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/snaplapse-progress-photos/id6791902298",
-    "iap_name": "SnapLapse Pro Lifetime",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787174278
+    "is_free": 0,
+    "last_updated": 1787199065
   },
   {
     "id": "892279069:Constellations of Avengers",
@@ -4602,7 +4602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:比較行星的大小",
@@ -4617,7 +4617,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:地球週期",
@@ -4632,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:電影關於日食",
@@ -4647,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:電影關於月相",
@@ -4662,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:電影關於緯線",
@@ -4677,7 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:電影關於 黃道星座",
@@ -4692,7 +4692,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:卡西尼－惠更斯號 (Cassini–Huygens)",
@@ -4707,7 +4707,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "347546771:Movies Bundle",
@@ -4722,7 +4722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787169684
+    "last_updated": 1787199065
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4732,19 +4732,19 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787196807
+    "is_free": 0,
+    "last_updated": 1787199065
   },
   {
     "id": "623592465:Just For Kids",
     "app_id": "623592465",
     "app_name": "Heads Up!App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
     "iap_name": "Just For Kids",
@@ -4752,14 +4752,14 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787194221
+    "last_updated": 1787199065
   },
   {
     "id": "623592465:Mix It Up",
     "app_id": "623592465",
     "app_name": "Heads Up!App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
     "iap_name": "Mix It Up",
@@ -4767,14 +4767,14 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787194221
+    "last_updated": 1787199065
   },
   {
     "id": "623592465:The Ellen Show",
     "app_id": "623592465",
     "app_name": "Heads Up!App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
     "iap_name": "The Ellen Show",
@@ -4782,14 +4782,14 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787194221
+    "last_updated": 1787199065
   },
   {
     "id": "623592465:Ocean Vacation",
     "app_id": "623592465",
     "app_name": "Heads Up!App - App Store",
     "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fd/bd/c4fdbdd9-82bf-f0b0-347e-5995cc352e4f/Placeholder.mill/1200x630wa.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
     "iap_name": "Ocean Vacation",
@@ -4797,7 +4797,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787194221
+    "last_updated": 1787199065
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4812,6 +4812,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787196807
+    "last_updated": 1787199065
   }
 ]
