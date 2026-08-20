@@ -4227,7 +4227,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787252367
+    "last_updated": 1787268232
   },
   {
     "id": "347546771:衛星的三維模型",
@@ -4372,12 +4372,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/d6/85/08d68514-8711-2591-16f5-dca2558db3d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "STANDARD ROCK KIT",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787249666
+    "is_free": 0,
+    "last_updated": 1787268232
   },
   {
     "id": "655607914:A MAJOR'S LOW BLOW",
@@ -4387,12 +4387,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/d6/85/08d68514-8711-2591-16f5-dca2558db3d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "A MAJOR'S LOW BLOW",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787249666
+    "is_free": 0,
+    "last_updated": 1787268232
   },
   {
     "id": "655607914:BEAST OF SHADOWS",
@@ -4402,12 +4402,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/d6/85/08d68514-8711-2591-16f5-dca2558db3d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "BEAST OF SHADOWS",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787249666
+    "is_free": 0,
+    "last_updated": 1787268232
   },
   {
     "id": "655607914:DEEP BLUE",
@@ -4417,12 +4417,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/d6/85/08d68514-8711-2591-16f5-dca2558db3d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "DEEP BLUE",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787249666
+    "is_free": 0,
+    "last_updated": 1787268232
   },
   {
     "id": "655607914:BEEPING BOBBIE",
@@ -4432,12 +4432,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/d6/85/08d68514-8711-2591-16f5-dca2558db3d7/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/drumtune-pro-drum-tuner/id655607914",
-    "iap_name": "BEEPING BOBBIE",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787249666
+    "is_free": 0,
+    "last_updated": 1787268232
   },
   {
     "id": "730712409:ZERO: 直接感測器擷取",
@@ -4512,7 +4512,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787265300
+    "last_updated": 1787268232
   },
   {
     "id": "623592465:Mix It Up",
@@ -4527,7 +4527,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787265300
+    "last_updated": 1787268232
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4542,7 +4542,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787265300
+    "last_updated": 1787268232
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4557,7 +4557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787265300
+    "last_updated": 1787268232
   },
   {
     "id": "686378579:無限同步",
@@ -4572,7 +4572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787268232
   },
   {
     "id": "686378579:自動同步",
@@ -4587,7 +4587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787268232
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -4737,7 +4737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787260459
+    "last_updated": 1787268232
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -4752,7 +4752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787259124
+    "last_updated": 1787268232
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -4767,7 +4767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787259124
+    "last_updated": 1787268232
   },
   {
     "id": "952050883:Unlock All Features",
@@ -4782,7 +4782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787259124
+    "last_updated": 1787268232
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4797,21 +4797,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787266728
-  },
-  {
-    "id": "432850619:Groove Machine Synth",
-    "app_id": "432850619",
-    "app_name": "FL Studio MobileApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787265300
+    "last_updated": 1787268232
   }
 ]
