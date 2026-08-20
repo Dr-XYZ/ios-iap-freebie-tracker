@@ -3592,12 +3592,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/df/11/05df1112-cb79-21a7-367b-bb67943ab7b6/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/incognito-private-browser/id1490656387",
-    "iap_name": "14-Day Trial",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787227017
+    "is_free": 0,
+    "last_updated": 1787254314
   },
   {
     "id": "952050883:Garden Sticker Pack",
@@ -4557,7 +4557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787252367
+    "last_updated": 1787254314
   },
   {
     "id": "432850619:Groove Machine Synth",
