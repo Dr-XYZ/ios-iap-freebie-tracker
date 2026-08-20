@@ -3300,21 +3300,6 @@
     "last_updated": 1786880388
   },
   {
-    "id": "961227503:專業工具",
-    "app_id": "961227503",
-    "app_name": "燒杯 - BEAKERApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787169684
-  },
-  {
     "id": "406541444:倒計時主題",
     "app_id": "406541444",
     "app_name": "8mm Vintage CameraApp - App Store",
@@ -4557,7 +4542,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787254314
+    "last_updated": 1787255851
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4572,7 +4557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787252367
+    "last_updated": 1787255851
   },
   {
     "id": "478293637:Promo",
@@ -4602,7 +4587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787252367
+    "last_updated": 1787255851
   },
   {
     "id": "623592465:Mix It Up",
@@ -4617,7 +4602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787252367
+    "last_updated": 1787255851
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4632,7 +4617,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787252367
+    "last_updated": 1787255851
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4647,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787252367
+    "last_updated": 1787255851
   },
   {
     "id": "686378579:無限同步",
@@ -4692,7 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Brahms: The Mutopia Collection",
@@ -4707,7 +4692,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Schumann: The Mutopia Collection",
@@ -4722,7 +4707,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Burgmüller: The Mutopia Collection",
@@ -4737,7 +4722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Satie: The Mutopia Collection",
@@ -4752,7 +4737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Tchaikovsky: The Mutopia Collection",
@@ -4767,7 +4752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Haydn: The Mutopia Collection",
@@ -4782,7 +4767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Rameau: The Mutopia Collection",
@@ -4797,7 +4782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
   },
   {
     "id": "363738376:Händel: The Mutopia Collection",
@@ -4812,6 +4797,21 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787248032
+    "last_updated": 1787255851
+  },
+  {
+    "id": "961227503:專業工具",
+    "app_id": "961227503",
+    "app_name": "燒杯 - BEAKERApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/25/fe/a625fea3-40ff-3cc3-241e-ab260e43e8dd/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/%E7%87%92%E6%9D%AF-beaker/id961227503",
+    "iap_name": "專業工具",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787255851
   }
 ]
