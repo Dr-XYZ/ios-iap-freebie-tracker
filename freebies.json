@@ -1167,7 +1167,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787206698
+    "last_updated": 1787248032
   },
   {
     "id": "650415564:X-Film Bundle",
@@ -1182,7 +1182,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787206698
+    "last_updated": 1787248032
   },
   {
     "id": "1464645812:所有內容",
@@ -3990,141 +3990,6 @@
     "last_updated": 1787095084
   },
   {
-    "id": "363738376:Brahms: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Liszt: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Schumann: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Burgmüller: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Satie: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Tchaikovsky: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Haydn: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Rameau: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
-    "id": "363738376:Händel: The Mutopia Collection",
-    "app_id": "363738376",
-    "app_name": "forScoreApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787008591
-  },
-  {
     "id": "766214869:Exposure",
     "app_id": "766214869",
     "app_name": "The Great Photo AppApp - App Store",
@@ -4137,7 +4002,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "766214869:Light basics",
@@ -4152,7 +4017,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "766214869:White Balance",
@@ -4167,7 +4032,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "766214869:Composition basics",
@@ -4182,7 +4047,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "766214869:Shutter Speed",
@@ -4197,7 +4062,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "766214869:Depth of field",
@@ -4212,7 +4077,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "766214869:Light modifiers",
@@ -4227,7 +4092,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "1152749877:香檳金主題",
@@ -4392,7 +4257,7 @@
     "original_price": 790,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787163740
+    "last_updated": 1787248032
   },
   {
     "id": "6791902298:SnapLapse Pro Lifetime",
@@ -4692,7 +4557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787246177
+    "last_updated": 1787248032
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4707,7 +4572,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787248032
   },
   {
     "id": "478293637:Promo",
@@ -4722,7 +4587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787248032
   },
   {
     "id": "623592465:Just For Kids",
@@ -4737,7 +4602,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787248032
   },
   {
     "id": "623592465:Mix It Up",
@@ -4752,7 +4617,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787248032
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4767,7 +4632,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787248032
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4782,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787244799
+    "last_updated": 1787248032
   },
   {
     "id": "686378579:無限同步",
@@ -4813,5 +4678,140 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1787244799
+  },
+  {
+    "id": "363738376:Liszt: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Liszt: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Brahms: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Brahms: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Schumann: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Schumann: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Burgmüller: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Burgmüller: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Satie: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Satie: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Tchaikovsky: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Tchaikovsky: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Haydn: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Haydn: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Rameau: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Rameau: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
+  },
+  {
+    "id": "363738376:Händel: The Mutopia Collection",
+    "app_id": "363738376",
+    "app_name": "forScoreApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/8f/3c/e58f3cce-effc-e012-a945-b25aa2bc2d18/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/forscore/id363738376",
+    "iap_name": "Händel: The Mutopia Collection",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787248032
   }
 ]
