@@ -4500,66 +4500,6 @@
     "last_updated": 1787295013
   },
   {
-    "id": "623592465:Just For Kids",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787295013
-  },
-  {
-    "id": "623592465:Mix It Up",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787295013
-  },
-  {
-    "id": "623592465:The Ellen Show",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787295013
-  },
-  {
-    "id": "623592465:Ocean Vacation",
-    "app_id": "623592465",
-    "app_name": "Heads Up!App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787295013
-  },
-  {
     "id": "686378579:無限同步",
     "app_id": "686378579",
     "app_name": "聯絡人同步專業版 (Contacts Sync Pro)App - App Store",
@@ -4752,7 +4692,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787286070
+    "last_updated": 1787299633
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -4767,7 +4707,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787286070
+    "last_updated": 1787299633
   },
   {
     "id": "952050883:Unlock All Features",
@@ -4782,7 +4722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787286070
+    "last_updated": 1787299633
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4797,7 +4737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787297461
+    "last_updated": 1787299633
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4812,6 +4752,66 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787295013
+    "last_updated": 1787299633
+  },
+  {
+    "id": "623592465:Just For Kids",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Just For Kids",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787299633
+  },
+  {
+    "id": "623592465:Mix It Up",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Mix It Up",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787299633
+  },
+  {
+    "id": "623592465:The Ellen Show",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "The Ellen Show",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787299633
+  },
+  {
+    "id": "623592465:Ocean Vacation",
+    "app_id": "623592465",
+    "app_name": "Heads Up!App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
+    "iap_name": "Ocean Vacation",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787299633
   }
 ]
