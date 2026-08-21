@@ -4212,7 +4212,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787290276
+    "last_updated": 1787309578
   },
   {
     "id": "347546771:衛星的三維模型",
@@ -4587,7 +4587,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787306173
+    "last_updated": 1787309578
   },
   {
     "id": "623592465:Just For Kids",
@@ -4597,12 +4597,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787306173
+    "is_free": 0,
+    "last_updated": 1787309578
   },
   {
     "id": "623592465:Mix It Up",
@@ -4612,12 +4612,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787306173
+    "is_free": 0,
+    "last_updated": 1787309578
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4627,12 +4627,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787306173
+    "is_free": 0,
+    "last_updated": 1787309578
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4642,12 +4642,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787306173
+    "is_free": 0,
+    "last_updated": 1787309578
   },
   {
     "id": "412380315:Version 4: Complete Features Bundle",
@@ -4677,7 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787307681
+    "last_updated": 1787309578
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
