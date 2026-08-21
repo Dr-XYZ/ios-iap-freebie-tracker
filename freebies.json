@@ -405,21 +405,6 @@
     "last_updated": 1786781483
   },
   {
-    "id": "6761011882:永久會員",
-    "app_id": "6761011882",
-    "app_name": "Device Kit - 手機優化與管理App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/1d/a6/491da624-ee71-c2a7-3cda-c4fe8f3fd0a3/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/device-kit-%E6%89%8B%E6%A9%9F%E5%84%AA%E5%8C%96%E8%88%87%E7%AE%A1%E7%90%86/id6761011882",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1784654271
-  },
-  {
     "id": "1260277664:Life Time",
     "app_id": "1260277664",
     "app_name": "Luxroom - 極影相機 拍照 照片編輯 拍照軟體App - App Store",
@@ -3702,7 +3687,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787307681
+    "last_updated": 1787341727
   },
   {
     "id": "1537060891:Atlantis for free download",
@@ -3717,7 +3702,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787307681
+    "last_updated": 1787341727
   },
   {
     "id": "1567658979:PGC Galaxy Database",
@@ -4380,51 +4365,6 @@
     "last_updated": 1787268232
   },
   {
-    "id": "730712409:ZERO: 直接感測器擷取",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787241158
-  },
-  {
-    "id": "730712409:AI 空間",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787241158
-  },
-  {
-    "id": "730712409:批量相片處理",
-    "app_id": "730712409",
-    "app_name": "ProCam - 專業相機App - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1787241158
-  },
-  {
     "id": "478293637:Promo",
     "app_id": "478293637",
     "app_name": "Anytune Pro+: Studio Tools App - App Store",
@@ -4702,12 +4642,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787338878
+    "is_free": 0,
+    "last_updated": 1787341727
   },
   {
     "id": "961227503:專業工具",
@@ -4737,7 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787340570
+    "last_updated": 1787341727
   },
   {
     "id": "623592465:Just For Kids",
@@ -4747,12 +4687,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Just For Kids",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787338878
+    "is_free": 0,
+    "last_updated": 1787341727
   },
   {
     "id": "623592465:Mix It Up",
@@ -4762,12 +4702,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Mix It Up",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787338878
+    "is_free": 0,
+    "last_updated": 1787341727
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4777,12 +4717,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "The Ellen Show",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787338878
+    "is_free": 0,
+    "last_updated": 1787341727
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4792,12 +4732,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3f/17/ac3f17ed-2fcf-761c-65fe-a9700ece2026/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/heads-up/id623592465",
-    "iap_name": "Ocean Vacation",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787338878
+    "is_free": 0,
+    "last_updated": 1787341727
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
@@ -4813,5 +4753,50 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1787334886
+  },
+  {
+    "id": "730712409:ZERO: 直接感測器擷取",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "ZERO: 直接感測器擷取",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787341727
+  },
+  {
+    "id": "730712409:AI 空間",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "AI 空間",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787341727
+  },
+  {
+    "id": "730712409:批量相片處理",
+    "app_id": "730712409",
+    "app_name": "ProCam - 專業相機App - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
+    "iap_name": "批量相片處理",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787341727
   }
 ]
