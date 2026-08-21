@@ -2190,21 +2190,6 @@
     "last_updated": 1786854515
   },
   {
-    "id": "1270890718:Bonus Sounds",
-    "app_id": "1270890718",
-    "app_name": "AutoPad — Ambient Pad LoopsApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/autopad-ambient-pad-loops/id1270890718",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786946718
-  },
-  {
     "id": "331529422:Free for Life Promo",
     "app_id": "331529422",
     "app_name": "Relax Melodies P: Sleep SoundsApp - App Store",
@@ -4677,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787350525
+    "last_updated": 1787355954
   },
   {
     "id": "730712409:AI 空間",
@@ -4692,7 +4677,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787350525
+    "last_updated": 1787355954
   },
   {
     "id": "730712409:批量相片處理",
@@ -4707,7 +4692,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787350525
+    "last_updated": 1787355954
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4737,7 +4722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787354768
+    "last_updated": 1787355954
   },
   {
     "id": "623592465:Just For Kids",
@@ -4798,5 +4783,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1787354768
+  },
+  {
+    "id": "1270890718:Bonus Sounds",
+    "app_id": "1270890718",
+    "app_name": "AutoPad — Ambient Pad LoopsApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/autopad-ambient-pad-loops/id1270890718",
+    "iap_name": "Bonus Sounds",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787355954
   }
 ]
