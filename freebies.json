@@ -4227,7 +4227,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787268232
+    "last_updated": 1787290276
   },
   {
     "id": "347546771:衛星的三維模型",
@@ -4792,12 +4792,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/66/8f/0c668f33-863f-29d6-5b79-d0d940b99bf3/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/fl-studio-mobile/id432850619",
-    "iap_name": "Groove Machine Synth",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787286070
+    "is_free": 0,
+    "last_updated": 1787290276
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4812,6 +4812,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787288339
+    "last_updated": 1787290276
   }
 ]
