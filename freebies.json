@@ -852,7 +852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786396018
+    "last_updated": 1787310845
   },
   {
     "id": "6791968686:stampout lifetime",
@@ -883,21 +883,6 @@
     "currency": "USD",
     "is_free": 0,
     "last_updated": 1786262495
-  },
-  {
-    "id": "450527929:Unlock Upgrade Features",
-    "app_id": "450527929",
-    "app_name": "djay - DJ App & AI RemixerApp - App Store",
-    "developer": "Unknown Developer",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/e3/bf/8ae3bfc5-6104-3406-3449-88f3489d4a39/Placeholder.mill/1200x630wa.jpg",
-    "category": "Utility",
-    "store_url": "https://apps.apple.com/tw/app/djay-dj-app-ai-remixer/id450527929",
-    "iap_name": "爬取失敗 (暫時性錯誤)",
-    "current_price": 0,
-    "original_price": 0,
-    "currency": "USD",
-    "is_free": 0,
-    "last_updated": 1786571895
   },
   {
     "id": "418331607:無限TIFF文件",
@@ -1842,7 +1827,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1786694115
+    "last_updated": 1787310845
   },
   {
     "id": "665703927:RUMBLE",
@@ -2782,12 +2767,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/85/5e/91855e6f-be12-3286-bef1-4e5a28751a0b/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/%E8%81%AF%E7%B5%A1%E4%BA%BA%E5%90%8C%E6%AD%A5-google-%E5%8F%8A%E6%9B%B4%E5%A4%9A/id454390333",
-    "iap_name": "自動同步",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787227017
+    "is_free": 0,
+    "last_updated": 1787310845
   },
   {
     "id": "6443877058:TV Remote for Mobile",
@@ -2847,7 +2832,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:Ana's Rusty Typewriter ",
@@ -2862,7 +2847,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:造字工房丁丁手绘体",
@@ -2877,7 +2862,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:BERNIER",
@@ -2892,7 +2877,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:Pacifico",
@@ -2907,7 +2892,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:Founder Type: Pang Wa Ti",
@@ -2922,7 +2907,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:Bukhari Script",
@@ -2937,7 +2922,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:新蒂下午茶体",
@@ -2952,7 +2937,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "587176822:华康童童体",
@@ -2967,7 +2952,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "596628003:Guitar: Epic Lead Soundpack",
@@ -3072,7 +3057,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "935528099:音樂合集SP01",
@@ -3372,7 +3357,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1208145167:升級到 Picsew Plus",
@@ -3417,7 +3402,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1370362850:Just Font Pack",
@@ -3432,7 +3417,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1370362850:Future Font Pack",
@@ -3447,7 +3432,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1370362850:Always Font Pack",
@@ -3462,7 +3447,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "438132417:Full Book Content (Past Purchase)",
@@ -3777,7 +3762,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1567658979:GAIA Star Database",
@@ -3792,7 +3777,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1567658979:Apollo Lunar Missions",
@@ -3807,7 +3792,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1596728818:FXs & Risers Preset Pack",
@@ -3822,7 +3807,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "1596728818:Conrad Keely Preset Pack",
@@ -3837,7 +3822,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787227017
+    "last_updated": 1787310845
   },
   {
     "id": "550101894:離線資料授權",
@@ -3867,7 +3852,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787214032
+    "last_updated": 1787310845
   },
   {
     "id": "6758571512:Lifetime",
@@ -4542,7 +4527,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787299633
+    "last_updated": 1787310845
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -4557,7 +4542,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787299633
+    "last_updated": 1787310845
   },
   {
     "id": "952050883:Unlock All Features",
@@ -4572,7 +4557,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787299633
+    "last_updated": 1787310845
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4662,7 +4647,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787304181
+    "last_updated": 1787310845
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4672,12 +4657,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/b6/7e/1bb67e91-eb74-5031-e22a-d4d5da45df51/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/cat-calendar-%E6%97%A5%E6%9B%86-%E8%A1%8C%E4%BA%8B%E6%9B%86-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86/id6471479898",
-    "iap_name": "Blue Cat",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787309578
+    "is_free": 0,
+    "last_updated": 1787310845
   },
   {
     "id": "363738376:Liszt: The Mutopia Collection",
@@ -4813,5 +4798,20 @@
     "currency": "USD",
     "is_free": 1,
     "last_updated": 1787307681
+  },
+  {
+    "id": "450527929:Unlock Upgrade Features",
+    "app_id": "450527929",
+    "app_name": "djay - DJ App & AI RemixerApp - App Store",
+    "developer": "Unknown Developer",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/e3/bf/8ae3bfc5-6104-3406-3449-88f3489d4a39/Placeholder.mill/1200x630wa.jpg",
+    "category": "Utility",
+    "store_url": "https://apps.apple.com/tw/app/djay-dj-app-ai-remixer/id450527929",
+    "iap_name": "Unlock Upgrade Features",
+    "current_price": 0,
+    "original_price": 0,
+    "currency": "USD",
+    "is_free": 1,
+    "last_updated": 1787310845
   }
 ]
