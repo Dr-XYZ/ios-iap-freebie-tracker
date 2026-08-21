@@ -4147,12 +4147,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/aa/23/a2aa23b1-3f21-22ca-8515-922b43466095/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/star-walk-2-pro-%E8%A7%80%E6%98%9F%E8%BB%9F%E4%BB%B6%E5%92%8C%E6%98%9F%E7%A9%BA%E5%9C%B0%E5%9C%96/id892279069",
-    "iap_name": "Constellations of Avengers",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787327830
+    "is_free": 0,
+    "last_updated": 1787345546
   },
   {
     "id": "347546771:衛星的三維模型",
@@ -4417,12 +4417,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Garden Sticker Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787334886
+    "is_free": 0,
+    "last_updated": 1787345546
   },
   {
     "id": "952050883:Travel Sticker Pack",
@@ -4432,12 +4432,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Travel Sticker Pack",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787334886
+    "is_free": 0,
+    "last_updated": 1787345546
   },
   {
     "id": "952050883:Unlock All Features",
@@ -4447,12 +4447,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/9b/73/f29b73ce-da2f-fee5-0604-f54eb258ce57/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/vllo-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BEvlog%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AFapp/id952050883",
-    "iap_name": "Unlock All Features",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787334886
+    "is_free": 0,
+    "last_updated": 1787345546
   },
   {
     "id": "412380315:Version 4: Complete Features Bundle",
@@ -4662,7 +4662,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 0,
-    "last_updated": 1787344294
+    "last_updated": 1787345546
   },
   {
     "id": "680170305:Bonus Workout Pack 4",
