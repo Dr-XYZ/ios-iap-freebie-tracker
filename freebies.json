@@ -4657,12 +4657,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "ZERO: 直接感測器擷取",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787374973
+    "is_free": 0,
+    "last_updated": 1787380143
   },
   {
     "id": "730712409:AI 空間",
@@ -4672,12 +4672,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "AI 空間",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787374973
+    "is_free": 0,
+    "last_updated": 1787380143
   },
   {
     "id": "730712409:批量相片處理",
@@ -4687,12 +4687,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/2a/f3/c62af3f4-58fd-0982-522d-7792d87526b5/Placeholder.mill/1200x630wa.jpg",
     "category": "Utility",
     "store_url": "https://apps.apple.com/tw/app/procam-%E5%B0%88%E6%A5%AD%E7%9B%B8%E6%A9%9F/id730712409",
-    "iap_name": "批量相片處理",
+    "iap_name": "爬取失敗 (暫時性錯誤)",
     "current_price": 0,
     "original_price": 0,
     "currency": "USD",
-    "is_free": 1,
-    "last_updated": 1787374973
+    "is_free": 0,
+    "last_updated": 1787380143
   },
   {
     "id": "1270890718:Bonus Sounds",
@@ -4722,7 +4722,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787378227
+    "last_updated": 1787380143
   },
   {
     "id": "623592465:Mix It Up",
@@ -4737,7 +4737,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787378227
+    "last_updated": 1787380143
   },
   {
     "id": "623592465:The Ellen Show",
@@ -4752,7 +4752,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787378227
+    "last_updated": 1787380143
   },
   {
     "id": "623592465:Ocean Vacation",
@@ -4767,7 +4767,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787378227
+    "last_updated": 1787380143
   },
   {
     "id": "6471479898:Blue Cat",
@@ -4782,7 +4782,7 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787378227
+    "last_updated": 1787380143
   },
   {
     "id": "432850619:Groove Machine Synth",
@@ -4797,6 +4797,6 @@
     "original_price": 0,
     "currency": "USD",
     "is_free": 1,
-    "last_updated": 1787378227
+    "last_updated": 1787380143
   }
 ]
